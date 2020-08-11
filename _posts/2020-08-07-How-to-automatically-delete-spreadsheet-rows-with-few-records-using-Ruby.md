@@ -2,7 +2,8 @@
 layout: post
 title:  "How to automatically delete spreadsheet rows with few records using Ruby"
 date:   2020-08-07 18:20:52 +0100
-categories: tech, ruby
+categories: programming
+tags: ruby data
 ---
 ![A wind turbine assembly line, making extensive use of automation. Photo by Science in HD on Unsplash](https://miro.medium.com/max/1400/0*Z0d5VOYF5jMx_iEe)
 
