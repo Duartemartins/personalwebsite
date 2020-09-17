@@ -28,11 +28,17 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: duarteosrm
 github_username:  duartemartins
 indiehackers_username: santiago
+jekyll_analytics:
+  Matomo:                   # Add, if you want to track with Matomo (former Piwik Analytics)
+    url: matomo.example.com # Required - url to Matomo installation without trailing /
+    siteId: "1234"          # Required - replace with your Matomo site id (Write id as string)
+
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-analytics
 
 # Exclude from processing.
 # The following items will not be processed, by default.
