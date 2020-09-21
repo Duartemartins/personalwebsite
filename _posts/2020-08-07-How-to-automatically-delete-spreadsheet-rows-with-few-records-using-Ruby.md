@@ -4,7 +4,7 @@ title:  "How to automatically delete spreadsheet rows with few records using Rub
 date:   2020-08-07 18:20:52 +0100
 categories: programming
 tags: ruby data
----
+canonical_url: 'https://www.santiagomartins.com/data/2020/09/17/10-content-marketing-performance-metrics-you-probably-aren-t-using-but-definitely-should-be.html
 ![A wind turbine assembly line, making extensive use of automation. Photo by Science in HD on Unsplash](https://miro.medium.com/max/1400/0*Z0d5VOYF5jMx_iEe)
 
 Ruby is a great scripting language, it’s easy to read and write, and it can automate pretty much anything. It’s a prime candidate for data analysis and general business process automation.
