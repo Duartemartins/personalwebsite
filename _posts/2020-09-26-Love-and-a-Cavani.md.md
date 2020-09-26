@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Love and a Cavani (Translation)"
+title:  Love and a Cavani (Translation)
+description: If there is one thing that Portugal needs, it is to attract people who earn well and have accumulated wealth, even if this increases statistical inequality.
 date:   2020-09-26 12:30:00 +0100
 categories: economics
 tags: economics football portugal
