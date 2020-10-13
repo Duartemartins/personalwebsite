@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Finding duplicate records in a CSV file column"
+description: "A Ruby script to get duplicate values in a CSV."
 date:   2020-10-13 19:20:00 +0100
 categories: programming
 tags: ruby data
