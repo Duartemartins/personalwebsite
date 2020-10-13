@@ -24,4 +24,4 @@ puts csv['Email'].tally.filter { _2 > 1 }.sort_by { -_2 }.map(&:first)
 
 {% endhighlight %}
 
-This runs over hundreds of rows of CSV data in seconds.
+This runs over hundreds of thousands of rows of CSV data in seconds.
