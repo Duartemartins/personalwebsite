@@ -20,7 +20,7 @@
 
 title: Duarte's Blog
 author: "Duarte Martins"
-email: duarteosrm@gmail.com
+email: duarteosrm(at)gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My personal blog. I usually blog about technology, society, and philosophy using a data led approach.
 baseurl: "" # the subpath of your site, e.g. /blog
