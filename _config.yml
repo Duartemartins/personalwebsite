@@ -34,6 +34,9 @@ jekyll_analytics:
     siteId: "1234"          # Required - replace with your Matomo site id (Write id as string)
 markdown: kramdown
 
+Google services
+google_analytics: G-CL2CKH6T8Z
+
 # Build settings
 theme: minima
 plugins:
