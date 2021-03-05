@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Rakefile to automate your ruby builds"
+title: "A Rakefile to automate your Ruby builds"
 description: "Creating a rakefile to automate your build tasks"
 date: 2021-02-13 19:20:00 +0100
 categories: programming
