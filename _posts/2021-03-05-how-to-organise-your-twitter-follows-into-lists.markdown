@@ -24,10 +24,12 @@ To organise our followed users into lists we need to do the following:
   1. Create a Twitter app
 
 This can be done at [https://developer.twitter.com/en/portal/dashboard](https://developer.twitter.com/en/portal/dashboard). Make sure to keep the access credentials and set to read & write.
+
 {:start="2"}
   2. Create a Google app
 
 Go to the [Google developer console](https://console.cloud.google.com/) and create a new app. Activate the Google Sheets API and download the json file with your credentials.
+
 {:start="3"}
   3. Organise users into lists
 
