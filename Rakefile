@@ -1,3 +1,5 @@
+require 'Date'
+
 desc 'create a new draft post'
 task :post do
   title = ENV['TITLE']
