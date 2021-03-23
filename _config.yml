@@ -33,6 +33,8 @@ jekyll_analytics:
     id: UA-180860683-1
     anonymizeIp: true          # Required - replace with your Matomo site id (Write id as string)
 markdown: kramdown
+include: [".well-known"]
+
 
 # Google Analytics
 google_analytics: UA-180860683-1

@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: santiagomartins.com 
+Token: ddb348f02e21800624179adfe5ee7b1794e4e49924fad97aae440c9e236d7f5d
