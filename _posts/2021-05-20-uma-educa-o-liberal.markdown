@@ -5,6 +5,7 @@ description:
 date: 2021-05-20 20:00:29 +0100
 published: true
 categories: education português politics philosophy economics
+permalink: /uma-educacao-liberal
 tags: 
 ---
 
