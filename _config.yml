@@ -34,6 +34,7 @@ jekyll_analytics:
     anonymizeIp: true          # Required - replace with your Matomo site id (Write id as string)
 markdown: kramdown
 include: [".well-known"]
+permalink: /:title:output_ext
 
 
 # Google Analytics
