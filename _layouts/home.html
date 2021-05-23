@@ -16,12 +16,19 @@ layout: default
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
+
         
-        <h3>
+        <h3 style="margin-bottom: 2px;">
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
         </h3>
+        <p><span class="post-meta" ">{% capture words %}
+          {{ post.content | number_of_words | minus: 180 }}
+          {% endcapture %}
+          {% unless words contains '-' %}
+          {{ words | plus: 150 | divided_by: 150 | append: ' minutes to read' }}
+          {% endunless %}</span></p>
             <p class="post-categories">
       {% if post %}
         {% assign categories = post.categories %}

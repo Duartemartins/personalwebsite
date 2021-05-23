@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to delete your Facebook account in 2021
-description:
+description: Instructions and tips to effectively delete your Facebook account in 2021. Download tagged photos, delete posts, and more. Make time to focus on high value activities.
 date: 2021-03-06 16:57:38 +0000
 published: true
 categories: social-media
