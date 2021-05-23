@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Uma Educação Liberal
-description:
+description: O melhor sistema de ensino cria-se através de medidas liberais baseadas na evidência
 date: 2021-05-20 20:00:29 +0100
 published: true
 categories: education português politics philosophy economics
