@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to add HrefLang tags to a Jekyll blog
-description:
+description: How to add HrefLang tags to a Jekyll blog
 date: 2021-05-25 23:09:37 +0100
 published: true
 categories: liquid jekyll programming webdev seo
