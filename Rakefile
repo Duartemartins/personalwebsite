@@ -20,7 +20,8 @@ task :post do
     date: #{Time.new}
     published: false
     categories:
-    tags: 
+    tags:
+    lang: 
     ---
 
     EOS
