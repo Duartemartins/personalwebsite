@@ -7,6 +7,7 @@ published: true
 categories: education português politics philosophy economics
 permalink: /uma-educacao-liberal
 tags: 
+lang: pt-pt
 ---
 
 Há quem professe (ainda) a ideia de que, se conseguíssemos educar as massas, estas optariam certamente pelo modelo político marxista, e, como consequência inevitável, o comunismo. Nesta tese, só não vivemos numa utopia de esquerda porque os maléficos liberais, ou melhor *neoliberais*, de que irritantemente fazem parte as elites globais, evitam educar o povo, com medo de que este acabe com o consenso liberal, que naturalmente as protege. Uma peça de evidência dada para corroborar esta tese é a crescente liberalização do sistema de educação e os supostos desastrosos resultados a que esta conduz. Será verdade? Vamos por partes.
