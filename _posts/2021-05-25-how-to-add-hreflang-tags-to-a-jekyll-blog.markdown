@@ -15,7 +15,7 @@ Create a file called custom-head.html under _includes and add the following snip
 
 {% highlight html %}
 {% raw %}{% if page.lang %}{% endraw %}
-<link rel="alternate" hreflang={% raw %}"{{ page.lang }}"{% endraw %} href={% raw %}"{{ page.url }}"{% endraw %} />
+<link rel="alternate" hreflang={% raw %}"{{ page.lang }}"{% endraw %} href="https://www.yourdomain.com/{% raw %}{{ page.url }}"{% endraw %} />
 {% raw %}{% else %}{% endraw %}
 <link rel="alternate" hreflang="x-default" href={% raw %}"{{ page.url }}"{% endraw %} />
 {% raw %}{% endif %}{% endraw %}
