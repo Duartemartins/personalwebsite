@@ -17,9 +17,9 @@ Create a file called custom-head.html under _includes and add the following snip
 {% raw %}{% if page.lang %}{% endraw %}
 <link rel="alternate" hreflang={% raw %}"{{ page.lang }}"{% endraw %} href="https://www.yourdomain.com/{% raw %}{{ page.url }}"{% endraw %} />
 {% raw %}{% else %}{% endraw %}
-<link rel="alternate" hreflang="x-default" href={% raw %}"{{ page.url }}"{% endraw %} />
+<link rel="alternate" hreflang="x-default" href="https://www.yourdomain.com/{% raw %}{{ page.url }}"{% endraw %} />
 {% raw %}{% endif %}{% endraw %}
 {% endhighlight %}
 
-Then for posts written in different languages, add a "lang:" attribute in the post front matter, and set that as the target language. Remember you can also set regional localisation too, for example pt-BR for Portuguese speakers in Brazil, but also for cases like es-JP for Spanish speakers in Japan. Google follows [ISO639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for languages and [ISO 3166-1 Alpha 2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) for countries.
+Then for posts written in different languages, add a "lang:" attribute in the post front matter, and set that as the target language. Remember you can also set regional localisation too, for example pt-BR for Portuguese speakers in Brazil, but also in cases like es-JP for Spanish speakers in Japan. Google follows [ISO639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for languages and [ISO 3166-1 Alpha 2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) for countries.
 

@@ -125,18 +125,20 @@ Disruptive technologies involve existing technology in a new architecture:
 
 > Historically, disruptive technologies involve no new technologies; rather, they consist of components built around proven technologies and put together in a novel product architecture that offers the customer a set of attributes never before available.
 
-## Conclusion
-# The Dilemma:
+# Conclusion
+## The Dilemma:
 
 The innovator's dilemma is that in every company there is a disincentive to go after new markets. Competent managers in established companies are faced with the question: "Should we make better products to make better profits or make worse profits for people that are not our customers that eat into our own margins?". Paradoxically, this will doom companies in the long run.
 Evidence shows that the longevity of companies is decreasing as the pace of technological advances increases.
 
 
 
-# Further Content for your Consumption:
-# The Book
+# Further Content
+## The Book
 This being a subjective list of what the author believes to be the main arguments, it is highly recommended you buy the book, which is worth every penny.
-# Buy it here:
+
+**Buy it here:**
+
 US affiliate link: [https://amzn.to/2y8t52g](https://amzn.to/2y8t52g)
 
 UK affiliate link: [https://amzn.to/2j4tXSI](https://amzn.to/2j4tXSI)
@@ -147,14 +149,14 @@ US affiliate link: [https://amzn.to/2znpXmE](https://amzn.to/2znpXmE)
 
 UK affiliate link: [https://amzn.to/2izlS4t](https://amzn.to/2izlS4t)
 
-# Christensen's website:
+## Christensen's website:
 [www.claytonchristensen.com](https://www.claytonchristensen.com)
 
 Here you can find Christensen's complete bibliography and much more content.
 
-# Other:
+## Other:
 
-[Twitter](https://twitter.com/claychristensen).
+[Twitter](https://twitter.com/claychristensen)
 
 a16z episode on Competing Against Luck with Christensen: [https://a16z.com/2017/09/01/disruption-jtbd-modularity-christensen/](https://a16z.com/2017/09/01/disruption-jtbd-modularity-christensen/)
 
