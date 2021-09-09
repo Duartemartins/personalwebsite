@@ -49,13 +49,13 @@ has_many :arriving_flights, foreign_key: :to_airport_id, class_name: “Flight�
 
 ![Step 3](https://miro.medium.com/max/1400/1*mA2rxjieQ7QUyY9EsASQUg.png)
 
-In narrative form, this means that Airports have flights, and they are either departing or arriving depending depending on whether the `from_airport_id` or `to_airport_id` field corresponds to the airport ID.
+In narrative form, this means that Airports have flights, and they are either departing or arriving depending on whether the `from_airport_id` or `to_airport_id` field corresponds to the airport ID.
 
 Likewise, Flights have “from airports” (origins) and “to airports” (destinations), which is set by the ids in `from_airport_id` and `to_airport_id`.
 
 We can now use methods such as `Airport.first.departing_flights` to get the departing flights of the first airport, and `Flight.first.from_airport` to get the origin of the first flight.
 
-If we wanted to, we could change `from_airport` to `origin` and `to_airport` to `departure` but we’ll leave it as it is in the interest of simplicity. We could also add `inverse_of` to make database querying more efficient, but we’ll also leave that out as it’s not a strict requirement.
+If we wanted to, we could change `from_airport` to `origin` and `to_airport` to `destination` but we’ll leave it as it is in the interest of simplicity. We could also add `inverse_of` to make database querying more efficient, but we’ll also leave that out as it’s not a strict requirement.
 
 And that’s it. Our app now has Airports with many departing and arriving flights, as well as Flights with origins and destinations.
 
