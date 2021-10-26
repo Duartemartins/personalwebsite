@@ -7,9 +7,9 @@ published: true
 categories: social-media
 tags: tutorial
 ---
-There are several reasons to consider deleting Facebook. A couple good ones are user privacy and psychological impact. First, as a company it has been fairly hostile to user privacy concerns, even when controlling for the fact that as a major platform it attracts more scrutiny than the vast majority of other software companies. Second, as a platform it works a bit like a slot machine, in that it promotes addictive behaviours and keeps you from engaging in deep work. 
+There are several reasons to consider deleting Facebook, a couple good ones being user privacy and psychological impact. As a company, Facebook has been fairly hostile to user privacy concerns, even when controlling for the fact that as a major platform it attracts more scrutiny than the vast majority of other software companies. As a platform it was designed to work a bit like a slot machine, in that it promotes addictive behaviours and keeps you from engaging in deep work. 
 
-A few things might keep you from wanting to fully leave, however if you're reading this in all likelihood you don't use Facebook to the same extent you once did, considering that their key market is now the less tech-native segment of the baby-boomer generation. Many people have found that they don't feel like they're missing out on anything of value after leaving the platform, and I include myself among those that have enjoyed adopting a more minimalist approach to their digital lives. 
+A few things might keep you from wanting to fully leave, however if you're reading this, in all likelihood you don't use Facebook to the same extent you once did. Many people have found that they don't feel like they're missing out on anything of value after leaving the platform, and I include myself among those that have enjoyed adopting a more minimalist approach to their digital lives. 
 
 A relevant concept here is Dunbar's number - a suggested cognitive limit to the number of people with whom one can maintain stable social relationships - named after British anthropologist Robin Dunbar. That number is 150, however it's worth bearing in mind that is the upper limit. In reality, most of us never come close to maintaining 150 close relationships at any one time.
 
