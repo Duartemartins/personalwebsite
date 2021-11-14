@@ -2,7 +2,7 @@ require 'Date'
 
 desc 'create a new draft post'
 task :post do
-  title = ENV['TITLE']
+  title = ARGV[1].dup unless ARGV[1].nil?
   slug = "#{Date.today}-#{title.downcase.gsub(/[^\w]+/, '-')}"
 
   file = File.join(
