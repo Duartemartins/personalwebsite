@@ -9,7 +9,7 @@ tags: economics football portugal
 ![A picture of a packed football stadium](https://images.unsplash.com/photo-1522778119026-d647f0596c20 "Photo by Vienna Reyes on Unsplash")<center>Photo by <a href="https://unsplash.com/@viennachanges?utm_source=santiagomartins.com&amp;utm_medium=referral" class="bz do hn ho hp hq" rel="noopener nofollow">Vienna Reyes</a> on <a href="https://unsplash.com?utm_source=santiagomartins.com&amp;utm_medium=referral" class="bz do hn ho hp hq" rel="noopener nofollow">Unsplash</a></center>
 
 
-_This article originally appeared in the Portuguese publication [Eco Online](https://eco.sapo.pt/opiniao/amor-e-um-cavani/) It has been translated into English with the author’s permission. Original article by Carlos Guimarães Pinto._
+_This article originally appeared in the Portuguese publication [Eco Online](https://eco.sapo.pt/opiniao/amor-e-um-cavani/) It has been translated into English with the author’s permission. Original article by the economist and MP Carlos Guimarães Pinto._
 
 If there is one thing that Portugal needs, it is to attract people who earn well and have accumulated wealth, even if this increases statistical inequality.
 
