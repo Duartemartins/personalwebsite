@@ -12,7 +12,8 @@ lang: english
 I believe changing one's mind is a healthy sign of personal growth, and for years I've kept a small list of things I've changed my mind on. Writing is a great way to cement and expand on your thoughts so in that vein, I've decided to start a series of posts on subject I've changed my mind on. 
 
 >Strong opinions weakly held
-Someone said this at some point and I think it's a good mantra to live by. It's better to avoid attaching ourselves too much to our opinions.
+
+- Someone said this at some point and I think it's a good mantra to live by. It's better to avoid attaching ourselves too much to our opinions.
 
 ## Context
 The first subject I want to write about is Voting IDs. Throughout Europe, ID cards are ubiquitous and making one is a legal requirement for all citizens and permanent residents. Citizens are obliged to show them when voting.
