@@ -1,35 +1,39 @@
 ---
 layout: post
 title: Changing my mind #1
-description:
+description: Voting ID requirements don't appear necessary to me anymore.
 date: 2022-09-15 17:27:54 +0100
 published: true
-categories:
+categories: personal_growth, politics
 tags: personal_growth, politics
-lang: 
+lang: english
 ---
 
 I believe changing one's mind is a healthy sign of personal growth, and for years I've kept a small list of things I've changed my mind on. Writing is a great way to cement and expand on your thoughts so in that vein, I've decided to start a series of posts on subject I've changed my mind on. 
 
 >Strong opinions weakly held
-- someone said this at some point and it makes sense
+Someone said this at some point and I think it's a good mantra to live by. It's better to avoid attaching ourselves too much to our opinions.
 
-##Context
+## Context
 The first subject I want to write about is Voting IDs. Throughout Europe, ID cards are ubiquitous and making one is a legal requirement for all citizens and permanent residents. Citizens are obliged to show them when voting.
 
-##Previous Arguments
+## Previous Arguments
 A1. People must be identified when voting, otherwise this opens up room for electoral fraud. 
 A2. A free and fair democracy is worth the cost to privacy that ID cards present. 
 A3. In addition, the cost of obtaining an ID card is, or should be, funded via general taxation, and therefore doesn't present a barrier to anyone. 
+
 ---
+
 Conclusion: Therefore, obligatory presentation of ID cards is a good thing for democracy.
 
-##What made me change my mind
+## What made me change my mind
 Argument A1:
 P1. In certain countries like the UK and USA, national ID cards don't exist. 
 P2. These countries also have very strong democratic procedures and cultures. 
 P3. It is possible and realistic to conduct elections using other methods that guarantee one vote per person and near-zero fraud, such as by using an electoral register linked to home addresses.
+
 ---
+
 A1 Conclusion: It stands to reason that IDs are not a necessary condition for free and fair elections. 
 
 Argument A2:
