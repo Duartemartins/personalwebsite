@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Changing my mind \#1
+title: Changing my mind #1
 description:
 date: 2022-09-15 17:27:54 +0100
 published: true
