@@ -19,7 +19,9 @@ The first subject I want to write about is Voting IDs. Throughout Europe, ID car
 
 ## Previous Arguments
 A1. People must be identified when voting, otherwise this opens up room for electoral fraud. 
+
 A2. A free and fair democracy is worth the cost to privacy that ID cards present. 
+
 A3. In addition, the cost of obtaining an ID card is, or should be, funded via general taxation, and therefore doesn't present a barrier to anyone. 
 
 ---
@@ -27,21 +29,23 @@ A3. In addition, the cost of obtaining an ID card is, or should be, funded via g
 Conclusion: Therefore, obligatory presentation of ID cards is a good thing for democracy.
 
 ## What made me change my mind
-Argument A1:
+# Argument A1:
 P1. In certain countries like the UK and USA, national ID cards don't exist. 
+
 P2. These countries also have very strong democratic procedures and cultures. 
+
 P3. It is possible and realistic to conduct elections using other methods that guarantee one vote per person and near-zero fraud, such as by using an electoral register linked to home addresses.
 
 ---
 
 A1 Conclusion: It stands to reason that IDs are not a necessary condition for free and fair elections. 
 
-Argument A2:
+# Argument A2:
 P1: If A1 is true, then the cost to privacy is not worth the benefit to democracy, since there is no benefit.
 ---
 A2 Conclusion: ID cards pose an unnecesary violation of privacy rights, in this context.
 
-Argument A3:
+# Argument A3:
 P1: Even if ID cards are obligatory, free at the point of payment, and paid for by taxation, a small subset of the population will remain disenfranchised, especially the most marginalised members of society, meaning they would be kept from voting.
 P2: If A1 and A2 are true, then asking for ID cards is not worth the disenfranchisement, as small as it may be.
 ---
