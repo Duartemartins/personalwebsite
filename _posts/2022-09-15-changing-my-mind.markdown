@@ -41,14 +41,21 @@ P3. It is possible and realistic to conduct elections using other methods that g
 *A1 Conclusion:* It stands to reason that IDs are not a necessary condition for free and fair elections. 
 
 ### Argument A2:
+
 P1: If A1 is true, then the cost to privacy is not worth the benefit to democracy, since there is no benefit.
+
 ---
+
 *A2 Conclusion:* ID cards pose an unnecesary violation of privacy rights, in this context.
 
 ### Argument A3:
+
 P1: Even if ID cards are obligatory, free at the point of payment, and paid for by taxation, a small subset of the population will remain disenfranchised, especially the most marginalised members of society, meaning they would be kept from voting.
+
 P2: If A1 and A2 are true, then asking for ID cards is not worth the disenfranchisement, as small as it may be.
+
 ---
+
 *A3 Conclusion:* ID cards should not be obligatory when voting since they disenfranchise a small percentage of the population, often a subset that needs the most support from society, and requiring ID cards does not present any benefits.
 
 Having said that, requiring a centralised, state-held electoral register is still a barrier to enfranchisement and a violation of privacy, albeit a smaller one.
