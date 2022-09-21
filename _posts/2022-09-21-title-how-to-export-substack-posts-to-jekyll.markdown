@@ -20,8 +20,6 @@ require 'reverse_markdown'
 require 'csv'
 require 'date'
 
-# csv = CSV.parse(File.read(Dir.pwd + '/posts.csv'), headers: true)
-
 def front_matter(date,title)
 return %(---
 layout: post
