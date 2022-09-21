@@ -1,0 +1,30 @@
+---
+layout: post
+title: interessant3-21
+description:
+date: 2022-04-19 21:15:21 +0100
+published: false
+categories:
+tags:
+lang:
+---
+1. Typos in emails: 
+
+2. RNA breakthrough in potato and crops: [https://news.uchicago.edu/story/rna-breakthrough-crops-grow-50-percent-more-potatoes-rice-climate-change](https://news.uchicago.edu/story/rna-breakthrough-crops-grow-50-percent-more-potatoes-rice-climate-change)
+
+3. Labour Productivity: 
+
+Looking for jobs in Data? Interested in how a career in Data can contribute effectively to a better world? Check out https://www.gooddatajobs.com/
+
+[
+<picture><source type="image/webp" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F446287a2-1a60-4872-9e8e-a5c1a5fd1523_312x85.png 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F446287a2-1a60-4872-9e8e-a5c1a5fd1523_312x85.png 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F446287a2-1a60-4872-9e8e-a5c1a5fd1523_312x85.png 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F446287a2-1a60-4872-9e8e-a5c1a5fd1523_312x85.png 1456w" sizes="100vw"><img src="https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/446287a2-1a60-4872-9e8e-a5c1a5fd1523_312x85.png" width="312" height="85" data-attrs='{"src":"https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/446287a2-1a60-4872-9e8e-a5c1a5fd1523_312x85.png","fullscreen":null,"imageSize":null,"height":85,"width":312,"resizeWidth":null,"bytes":6512,"alt":"","title":null,"type":"image/png","href":"https://www.gooddatajobs.com/","belowTheFold":false,"internalRedirect":null}' class="sizing-normal" alt="" title="" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F446287a2-1a60-4872-9e8e-a5c1a5fd1523_312x85.png 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F446287a2-1a60-4872-9e8e-a5c1a5fd1523_312x85.png 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F446287a2-1a60-4872-9e8e-a5c1a5fd1523_312x85.png 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F446287a2-1a60-4872-9e8e-a5c1a5fd1523_312x85.png 1456w" sizes="100vw"></source></picture>
+
+](https://www.gooddatajobs.com/)
+
+Alternatively if you are looking for Data Visualisation, Reporting, or Data Analysis services, check out [Quantica](https://quantica.carrd.co/).
+
+[
+<picture><source type="image/webp" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30e0c031-4b03-4030-b4d1-3c621bc0e2ce_642x158.png 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30e0c031-4b03-4030-b4d1-3c621bc0e2ce_642x158.png 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30e0c031-4b03-4030-b4d1-3c621bc0e2ce_642x158.png 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30e0c031-4b03-4030-b4d1-3c621bc0e2ce_642x158.png 1456w" sizes="100vw"><img src="https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/30e0c031-4b03-4030-b4d1-3c621bc0e2ce_642x158.png" width="316" height="77.76947040498442" data-attrs='{"src":"https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/30e0c031-4b03-4030-b4d1-3c621bc0e2ce_642x158.png","fullscreen":null,"imageSize":null,"height":158,"width":642,"resizeWidth":316,"bytes":28702,"alt":"","title":null,"type":"image/png","href":"https://quantica.carrd.co/","belowTheFold":false,"internalRedirect":null}' class="sizing-normal" alt="" title="" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30e0c031-4b03-4030-b4d1-3c621bc0e2ce_642x158.png 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30e0c031-4b03-4030-b4d1-3c621bc0e2ce_642x158.png 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30e0c031-4b03-4030-b4d1-3c621bc0e2ce_642x158.png 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30e0c031-4b03-4030-b4d1-3c621bc0e2ce_642x158.png 1456w" sizes="100vw"></source></picture>
+
+](https://quantica.carrd.co/)
+

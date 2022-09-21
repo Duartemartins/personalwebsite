@@ -36,3 +36,5 @@ gem "json"
 gem "webrick", "~> 1.7"
 
 gem "date", "~> 3.1"
+
+gem "reverse_markdown", "~> 2.1"

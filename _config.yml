@@ -20,7 +20,7 @@
 
 title: Duarte's Blog
 author: "Duarte Martins"
-email: duarteosrm(at)gmail.com
+email: duarteosrm(at)icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
   My personal blog. I usually blog about technology, society, and philosophy using a data led approach.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -46,6 +46,7 @@ plugins:
   - jekyll-feed
   - jekyll-analytics
   - jekyll-sitemap
+  - jekyll-email-protect
 
 # Exclude from processing.
 # The following items will not be processed, by default.
