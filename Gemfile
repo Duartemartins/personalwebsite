@@ -9,7 +9,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima", "~> 2.5"
+gem "minima"
 gem 'jekyll-analytics'
 gem 'jekyll-sitemap'
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
@@ -17,24 +17,26 @@ gem 'jekyll-sitemap'
 # gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-feed"
 end
-gem "github-pages", "~> 207", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 platforms :mingw, :x64_mingw, :mswin, :jruby do
-  gem "tzinfo", "~> 1.2"
+  gem "tzinfo"
   gem "tzinfo-data"
 end
 
 # Performance-booster for watching directories on Windows
-gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
+gem "wdm", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "json"
 
 
-gem "webrick", "~> 1.7"
+gem "webrick"
 
-gem "date", "~> 3.1"
+gem "date"
 
-gem "reverse_markdown", "~> 2.1"
+gem "reverse_markdown"
+
+gem "rake"
