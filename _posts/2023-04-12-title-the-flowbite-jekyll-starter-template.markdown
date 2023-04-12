@@ -3,9 +3,9 @@ layout: post
 title: title=The Flowbite Jekyll Starter Template
 description:
 date: 2023-04-12 20:15:07 +0100
-published: false
-categories: dev
-tags: dev
+published: true
+categories: development
+tags: development
 lang: en
 ---
 
