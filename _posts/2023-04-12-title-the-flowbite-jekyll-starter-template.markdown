@@ -17,10 +17,10 @@ Building a website from scratch can be time-consuming and overwhelming. This sta
 
 ## Key features:
 
-Responsive design with Flowbite and Tailwind CSS
-Home page, blog page, and individual blog posts
-Jekyll Authors integration for managing author information
-Ideal for validating products and creating SEO content
+1. Responsive design with Flowbite and Tailwind CSS
+2. Home page, blog page, and individual blog posts
+3. Jekyll Authors integration for managing author information
+4. Ideal for validating products and creating SEO content
 
 ## Getting Started
 
