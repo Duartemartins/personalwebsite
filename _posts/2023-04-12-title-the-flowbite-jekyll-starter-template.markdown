@@ -1,6 +1,6 @@
 ---
 layout: post
-title: title=The Flowbite Jekyll Starter Template
+title: The Flowbite Jekyll Starter Template
 description:
 date: 2023-04-12 20:15:07 +0100
 published: true
