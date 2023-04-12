@@ -62,4 +62,4 @@ Open your browser and navigate to http://localhost:4000.
 
 Start building your modern, responsive website today with the Flowbite Jekyll Starter Template. Save time and effort, and focus on what matters most—your product and content. Let me know what you think, and happy hacking! 🚀
 
-Flowbite Jekyll Starter Template Repository: https://github.com/Duartemartins/flowbite_jekyll
+Flowbite Jekyll Starter Template Repository: <https://github.com/Duartemartins/flowbite_jekyll>
