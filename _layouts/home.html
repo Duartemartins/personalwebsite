@@ -1,54 +1,55 @@
 ---
 layout: default
 ---
-
+{% include head.html %}
 <div class="home">
   {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
+  <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
+  <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+  <ul class="post-list">
+    {%- for post in site.posts -%}
+    <li>
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      <span class="post-meta">{{ post.date | date: date_format }}</span>
 
-        
-        <h3 style="margin-bottom: 2px;">
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        <p><span class="post-meta" ">{% capture words %}
+
+      <h3 style="margin-bottom: 2px;">
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+      <p><span class="post-meta" ">{% capture words %}
           {{ post.content | number_of_words | minus: 180 }}
           {% endcapture %}
           {% unless words contains '-' %}
           {{ words | plus: 150 | divided_by: 150 | append: ' minutes to read' }}
           {% endunless %}</span></p>
-            <p class="post-categories">
-      {% if post %}
-        {% assign categories = post.categories %}
-      {% else %}
-        {% assign categories = page.categories %}
-      {% endif %}
-      {% for category in categories %}
-        <a href="{{site.baseurl}}/categories/#{{category|slugize}}">🔖 {{category}}</a>
-      {% unless forloop.last %}&nbsp;{% endunless %}
-      {% endfor %}
-    </p>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
+            <p class=" post-categories">
+          {% if post %}
+          {% assign categories = post.categories %}
+          {% else %}
+          {% assign categories = page.categories %}
+          {% endif %}
+          {% for category in categories %}
+          <a href="{{site.baseurl}}/categories/#{{category|slugize}}">🔖 {{category}}</a>
+          {% unless forloop.last %}&nbsp;{% endunless %}
+          {% endfor %}
+      </p>
+      {%- if site.show_excerpts -%}
+      {{ post.excerpt }}
+      {%- endif -%}
+    </li>
+    {%- endfor -%}
+  </ul>
 
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-    <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/a6efee2001dca0137c16246e9/2ff183a081580bdadb613a575.js");</script>
-          {%- endif -%}
+  <p class="rss-subscribe">subscribe <a href="{{ " /feed.xml" | relative_url }}">via RSS</a></p>
+  <script
+    id="mcjs">!function (c, h, i, m, p) { m = c.createElement(h), p = c.getElementsByTagName(h)[0], m.async = 1, m.src = i, p.parentNode.insertBefore(m, p) }(document, "script", "https://chimpstatic.com/mcjs-connected/js/users/a6efee2001dca0137c16246e9/2ff183a081580bdadb613a575.js");</script>
+  {%- endif -%}
 
 </div>

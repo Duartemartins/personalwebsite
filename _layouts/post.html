@@ -11,22 +11,24 @@ layout: default
         {{ page.date | date: date_format }}
       </time>
       {%- if page.author -%}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
+      • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card"
+          itemprop="name">{{ page.author }}</span></span>
       {%- endif -%}
-    </p>    
-      <p class="post-meta">Estimated {% include reading-time.html %} </p>
- 
+    </p>
+    <p class="post-meta">Estimated {% include reading-time.html %} </p>
+
     <div class="post-categories">
       {% if post %}
-        {% assign categories = post.categories %}
+      {% assign categories = post.categories %}
       {% else %}
-        {% assign categories = page.categories %}
+      {% assign categories = page.categories %}
       {% endif %}
       {% for category in categories %}
-        <a href="{{site.baseurl}}/categories/#{{category|slugize}}">🔖 {{category}}</a>
+      <a href="{{site.baseurl}}/categories/#{{category|slugize}}">🔖 {{category}}</a>
       {% unless forloop.last %}&nbsp;{% endunless %}
       {% endfor %}
     </div>
+    {% seo %}
   </header>
 
 
@@ -36,11 +38,8 @@ layout: default
   </div>
 
   {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
+  {%- include disqus_comments.html -%}
   {%- endif -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
-
-
-

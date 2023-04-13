@@ -48,7 +48,7 @@ Build and serve the website:
 
 ```bash
 
-    bundle exec jekyll serve
+bundle exec jekyll serve
 ```
 
 Open your browser and navigate to http://localhost:4000.
