@@ -29,10 +29,7 @@ url: "https://www.santiago-martins.com" # the base hostname & protocol for your 
 twitter_username: duarteosrm
 github_username: duartemartins
 indiehackers_username: santiago
-jekyll_analytics:
-  GoogleAnalytics:
-    id: UA-180860683-1
-    anonymizeIp: true # Required - replace with your Matomo site id (Write id as string)
+
 markdown: kramdown
 include: [".well-known"]
 permalink: /:title:output_ext
@@ -49,7 +46,6 @@ google_site_verification: 8JdIVl07yqHTI0OigKA8mAn1Fp2Djpy-Bj6F7GoFrT8
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-analytics
   - jekyll-sitemap
   - jekyll-email-protect
   - jekyll-seo-tag
