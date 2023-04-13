@@ -44,7 +44,7 @@ social:
     - https://indiehackers.com/santiago
 # Google Analytics
 google_analytics: UA-180860683-1
-google_site_verification: <meta name="google-site-verification" content="8JdIVl07yqHTI0OigKA8mAn1Fp2Djpy-Bj6F7GoFrT8" />
+google_site_verification: 8JdIVl07yqHTI0OigKA8mAn1Fp2Djpy-Bj6F7GoFrT8
 # Build settings
 theme: minima
 plugins:
