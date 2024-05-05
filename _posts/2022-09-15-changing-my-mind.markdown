@@ -9,7 +9,7 @@ tags: personal_growth, politics
 lang: english
 ---
 
-I believe changing one's mind is a healthy sign of personal growth, and for years I've kept a small list of things I've changed my mind on. Writing is a great way to cement and expand on your thoughts so in that vein, I've decided to start a series of posts on subject I've changed my mind on. 
+I believe changing one's mind is a healthy sign of personal growth, and for years I've kept a small list of things I've changed my mind on. Writing is a great way to cement and expand on your thoughts so in that vein, here's one thing I've changed my mind on. 
 
 >Strong opinions weakly held
 
@@ -59,4 +59,4 @@ P2: If A1 and A2 are true, then asking for ID cards is not worth the disenfranch
 
 *A3 Conclusion:* ID cards should not be obligatory when voting since they disenfranchise a small percentage of the population, often a subset that needs the most support from society, and requiring ID cards does not present any benefits.
 
-Having said that, requiring a centralised, state-held electoral register is still a barrier to enfranchisement and a violation of privacy, albeit a smaller one.
+Having said that, requiring a centralised, state-held electoral register is still a barrier to enfranchisement and a violation of privacy, albeit a smaller one, and worth it.
