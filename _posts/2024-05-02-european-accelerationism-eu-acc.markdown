@@ -105,9 +105,9 @@ The EU could significantly advance its innovation capabilities by revising the c
 
 # Conclusion
 
-To conclude, while we must recognise an element of truth in some accusations of European doomerism, the data warrants a very different narrative. We have excellent conditions on which to build upon, and by establishing an advanced research agency, leveraging digital sandboxes, standardising processes, implementing unified markets, and promoting good corporate tax design, Europe can usher in a renaissance of innovation and growth. The continent already boasts numerous strengths, from a robust economic market to leadership in scientific and infrastructural endeavours, and now is the time to amplify these strengths through strategic policy and investment, turning potential into reality. 
+To conclude, while we must recognise an element of truth in some accusations of *European doomerism*, the data warrants a very different narrative. We have excellent conditions on which to build upon, and by establishing an advanced research agency, leveraging digital sandboxes, standardising processes, implementing unified markets, and promoting good corporate tax design, Europe can usher in a renaissance of innovation and growth. The continent already boasts numerous strengths, from a robust economic market to leadership in scientific and infrastructural endeavours, and now is the time to amplify these strengths through strategic policy and investment, turning potential into reality. 
 
-Let this be our clarion call: to rise, to strive, and to succeed.
+Let this be our clarion call: to rise, to strive, and to succeed. This is *European Accelerationism*.
 
 **PER ARDUA AD ASTRA LFG** 🚀
 
