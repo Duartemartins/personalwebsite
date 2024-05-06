@@ -17,6 +17,8 @@ You’ll find a variety of posts here:
 
 From practical guides to snippets of interesting finds in my 'Interessant3' series, I hope there’s something here to pique your interest.
 
-Feel free to connect with me across the web. I’m on [GitHub](https://github.com/duartemartins), I share three interesting things once a week on [Substack](https://interessant3.substack.com), engaging in discourse on [Twitter](https://www.twitter.com/duarteosrm), mirror this blog on (Medium)[https://medium.com/@duartem] and discussing entrepreneurial pursuits on [IndieHackers](https://www.indiehackers.com/Santiago).
+Feel free to connect with me across the web. I’m on [GitHub](https://github.com/duartemartins), I share three interesting things once a week on [Substack](https://interessant3.substack.com), engaging in discourse on [Twitter](https://www.twitter.com/duarteosrm), and mirror this blog on (Medium)[https://medium.com/@duartem].
+
+I'm currently working on [PopaDex](https://popadex.com) and [DeepDive](https://trydeepdive) whenever I can.
 
 I’d love for you to share your thoughts, and maybe we’ll learn something new together.
