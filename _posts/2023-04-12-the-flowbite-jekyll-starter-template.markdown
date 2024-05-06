@@ -9,6 +9,8 @@ tags: development
 lang: en
 ---
 
+<a href="https://www.bloglovin.com/blog/21578932/?claim=985xmtxmjm4">Follow my blog with Bloglovin</a>
+
 I'm excited to share the Flowbite Jekyll Starter Template, a powerful tool for quickly creating modern, responsive websites with Jekyll, Flowbite, and Tailwind CSS. It's designed to help you validate product ideas, gather user feedback, and create SEO content to drive traffic and generate leads.
 
 ## Why Flowbite Jekyll Starter Template?

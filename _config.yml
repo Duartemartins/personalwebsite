@@ -23,22 +23,19 @@ author: "Duarte Martins"
 email: duarteosrm(at)icloud.com
 tagline: A blog about technology, society, and philosophy.
 description: >- # this means to ignore newlines until "baseurl:"
-  My personal blog. I usually blog about technology, society, and philosophy using a data led approach. Building https://popadex.com
+  My personal blog. I usually blog about technology, society, and philosophy using a data led approach. Building <a href=https://popadex.com>Popadex</a> 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.santiago-martins.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: duarteosrm
 github_username: duartemartins
 indiehackers_username: santiago
+rss: rss
 
+show_excerpts: false
 markdown: kramdown
 include: [".well-known"]
 permalink: /:title:output_ext
-social:
-  name: Duarte Martins
-  links:
-    - https://twitter.com/duarteosrm
-    - https://github.com/DuarteMartins
-    - https://indiehackers.com/santiago
+
 # Google Analytics
 google_analytics: UA-180860683-1
 google_site_verification: 8JdIVl07yqHTI0OigKA8mAn1Fp2Djpy-Bj6F7GoFrT8
