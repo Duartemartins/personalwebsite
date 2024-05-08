@@ -62,7 +62,7 @@ Still, there is much we can do to improve. We can, and should have high expectat
 >  The differences in standards of living between countries is not attributable to technology, the qualities of the workers, or the skills of the entrepreneurs, but to the availability of capital.
 
 
-This is a quote by Nobel Prize winner Ludwig von Mises, but really it could have been said by any mainstream economist. [^6][^7] 
+This is a quote by [Ludwig von Mises](https://en.wikipedia.org/wiki/Ludwig_von_Mises), but really it could have been said by any mainstream economist. [^6][^7] 
 According to the OECD, corporate tax is the most economically damaging way to raise taxes.[^8]  Due to its inherent mechanism, it is highly distortionary and inefficient, but the good news is that there's a way to make it much better. **Corporate taxes should be made to be cash-flow taxes**, meaning that they are only collected when profits are distributed to shareholders instead of on an annual basis, because this incentivises businesses to reinvest their profits into their firms, leading to new capital formation and increased economic growth. 
 
 
@@ -71,7 +71,7 @@ According to the OECD, corporate tax is the most economically damaging way to ra
 We already have the best global examples of this fiscal design in Estonia and Latvia[^9], with the UK recently implementing a similar mechanism with full expensing. At the same time, the EU has the power of scale to implement economic literacy across all of its member states, while allowing states to compete with each other on other factors. It stands to reason therefore that the EU should implement this policy across all member states, and other European countries should follow suit.
 
 {:start="2"}
-2. **Common Markets** - Defense Procurement, Capital, and Electricity
+1. **Common Markets** - Defense Procurement, Capital, and Electricity
 
 The second proposal is to build common markets where possible, with the most urgent being for Defense Procurement, Capital, and Electricity. 
 
