@@ -9,6 +9,10 @@ categories: europe technology policy
 tags: europe technology policy
 lang: en
 ---
+
+**Edit:** As this post has garnered some attention, I'm currently collecting signatures for the five policies outlined below [here](https://docs.google.com/document/d/1jF_d49euri9a-c_kGd5G-hrniNoQeJtkiIeBii_ir5A/edit). If you are in the technology or science ecosystems and agree with the policies, it would be great to count on your signature.
+
+---
 > "“Europe is rich. [The] question is how you . . . get Europe to regain self-confidence. I’ve never seen anybody succeeding with a lack of confidence,” said Kristalina Georgieva, the IMF's managing director. “So maybe if the European leaders talk more about what Europe can do rather than what it cannot, we’ll be in a better place.”"[^1]
 
 The internet has been awash with anti-europe memes for as long as I can remember. It’s a common experience opening up X and seeing American VCs harp on about how all the EU does is over-regulate and how Europe is doomed to failure. It has become so common that even some Europeans have started to believe this. I will show that the data points to this being largely unwarranted, but that there’s a kernel of truth to the accusation and there is still a case to be made for European Accelerationism.
