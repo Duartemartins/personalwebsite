@@ -3,7 +3,7 @@ layout: post
 title: 🇪🇺 European Accelerationism - eu/acc
 description: Five ideas for accelerating European progress
 image: assets/images/europe.avif
-date: 2024-05-05 13:30:26 +0100
+date: 2024-05-05 13:30:26 +0000
 published: true
 categories: europe technology policy
 tags: europe technology policy
