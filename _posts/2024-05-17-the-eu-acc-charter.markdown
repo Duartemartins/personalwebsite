@@ -9,7 +9,7 @@ image: assets/images/europe.avif
 tags: europe eu/acc technology policy
 lang: en
 ---
-Written together with [Andreas Klinger](https://x.com/andreasklinger) and also available at [eu-acc.slite.page](https://eu-acc.slite.page/p/4113M_qSNArbgW/Welcome-to-eu-acc)
+Written together with [Andreas Klinger](https://x.com/andreasklinger) and also available at [eu-acc.slite.page](https://eu-acc.slite.page/p/4113M_qSNArbgW/Welcome-to-eu-acc), this is a follow up of my previous article: ["European Accelerationism - eu/acc"][https://www.santiago-martins.com/european-accelerationism-eu-acc.html].
 
 # The eu/acc Charter
 
