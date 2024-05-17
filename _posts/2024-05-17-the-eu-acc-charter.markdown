@@ -2,7 +2,7 @@
 layout: post
 title: The eu/acc Charter
 description: a charter for the eu/acc movement
-date: 2024-05-17 17:05:00 +0100
+date: 2024-05-17 12:05:00 +0100
 published: true
 categories: europe eu/acc technology policy
 image: assets/images/europe.avif
