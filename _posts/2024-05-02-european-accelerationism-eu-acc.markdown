@@ -36,7 +36,7 @@ We have fallen behind in AI investment, which is both an existential threat for 
 {:start="3"}
 3. The EU over-regulates and Europe is overly statist. 
 
-It is difficult to come up with an objective metric of this, but it is undoubtedly true that some European countries have excessive bureaucracy, taxation, and are globally uncompetitive. Countries such as Belgium, Germany, Denmark, and Sweden are to the right of the Laffer curve, meaning they would actually increase their tax revenues if they reduced their tax rate.[^4] 
+It is difficult to come up with an objective metric of this, but it is undoubtedly true that some European countries have excessive bureaucracy, taxation, and are globally uncompetitive. Countries such as Belgium, Denmark, and Sweden are to the right of the Laffer curve, meaning they would actually increase their tax revenues if they reduced their tax rate.[^4] 
 
 The EU is often accused of regulating too much, and we can all point to some instances where this is likely the case, whether it be pseudoscientific food labelling, ESG requirements, or the seemingly never ending list of anti-trust cases against American tech giants. It also has a frighteningly long list of largely unknown agencies and bodies that could surely be rationalised.
 
