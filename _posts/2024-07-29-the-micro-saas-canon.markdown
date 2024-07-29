@@ -78,6 +78,6 @@ Here are 5 YouTube videos that provide valuable insights for micro-SaaS entrepre
 
 ## Contribute to the Canon
 
-The micro-SaaS and indie hacking world is constantly evolving, with new insights and resources emerging regularly. If you have suggestions for additional content that should be included in this canon, I encourage you to share your recommendations with me on ["Twitter"](https://x.com/duarteosrm). 
+The micro-SaaS and indie hacking world is constantly evolving, with new insights and resources emerging regularly. If you have suggestions for additional content that should be included in this canon, I encourage you to share your recommendations with me on [Twitter](https://x.com/duarteosrm). 
 
 Remember, the journey of building a micro-SaaS business is unique for everyone. While these resources provide valuable guidance, your path will ultimately be shaped by your specific skills, market, and circumstances. Happy building!
