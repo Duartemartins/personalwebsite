@@ -74,6 +74,13 @@ Here are 5 YouTube videos that provide valuable insights for micro-SaaS entrepre
 3. ["Ruby on Rails: The Documentary"](https://www.youtube.com/watch?v=HDKUEXBF3B4) by David Heinemeier Hansson & Jason Fried
 4. [" Designing the Ideal Bootstrapped Business with Jason Cohen"](https://www.youtube.com/watch?v=otbnC2zE2rw) by Jason Cohen
 5. ["Turning side projects into profitable startups"](https://levels.io/startups/) by Pieter Levels
+6. ["YC Startup School"](https://www.startupschool.org)
+
+## Podcasts
+
+1. ["Startups for the Rest of Us"](https://www.startupsfortherestofus.com/) by Rob Walling
+2. ["Fully Vested"](https://podcasters.spotify.com/pod/show/startup-heroes) by D2 VC Fund
+3. ["Indiehackers"](https://www.indiehackers.com/podcasts) by Channing and Courtland Allen
 
 
 ## Contribute to the Canon
