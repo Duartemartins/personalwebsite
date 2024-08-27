@@ -14,7 +14,7 @@ lang: en
 
 This letter is directed at all leaders across Europe, encompassing not only the European Union but all countries within the European continent. Our aim is to present a set of proposals, which we believe are both feasible and crucial for driving forward the collective potential of our nations. These suggestions are designed to be politically neutral, grounded in solid evidence, and intended to be readily implementable. Furthermore, each proposal is informed by successful European precedents, ensuring their relevance and feasibility within the continental context.
 
-**European Accelerationism: 5 Proposals for Accelerating European Progress**
+## **European Accelerationism: 5 Proposals for Accelerating European Progress**
 
 1. **Corporate Tax Reform: Adoption of Cash Flow Tax Design** 
 
