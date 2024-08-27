@@ -71,7 +71,7 @@ Yours sincerely,
 19. Luis Cerqueira da Silva, Entity Governance Manager @Remote.com, former Notary Public
 
 --- 
-**Post Scriptum**
+**Addendum**
 
 The open letter above, addressed to European political leaders, builds upon an earlier article, ["European Accelerationism"](https://www.santiago-martins.com/european-accelerationism-eu-acc.html), which garnered positive feedback from both entrepreneurial and political stakeholders, and was notably mentioned in FT Alphaville and Marginal Revolution. Additionally, this petition aligns with the spirit of blog-driven policy making, which has seen recent successes, as detailed in an article from The Economist: [How to Change the Policy of the British Government](https://www.economist.com/britain/2023/11/30/how-to-change-the-policy-of-the-british-government).
 
@@ -81,6 +81,7 @@ To add your name to the list of signatories please fill in **[this form](https:/
 
 ---
 
+**References**
 
 [^1]:  [https://www.oecd.org/ctp/tax-policy/tax-policy-reform-and-economic-growth-9789264091085-en.htm](https://www.oecd.org/ctp/tax-policy/tax-policy-reform-and-economic-growth-9789264091085-en.htm) 
 
