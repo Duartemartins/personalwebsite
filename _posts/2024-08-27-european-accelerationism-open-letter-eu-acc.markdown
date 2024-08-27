@@ -50,7 +50,7 @@ In conclusion, the above strategies are designed to harness Europe's full potent
 
 Yours sincerely,
 
-1. Duarte Santiago Martins \- Data Analyst and Open Letter Author  
+1. Duarte Santiago Martins \- BI Lead @ ebay* and Open Letter Author  
 2. João Pedro Cardoso, Senior Lead Engineer in Cloud\&IT Advisory, NTT DATA EUROPE & LATAM  
 3. Patrick Pijnappel, Co-Founder & Co-CTO @ Supermoon  
 4. Marie-France Mathes, Managing Director, Macon PE  
@@ -80,6 +80,7 @@ Given the recent European elections, these proposals are particularly pertinent 
 To add your name to the list of signatories please fill in **[this form](https://forms.gle/DGtASNPqh8RWk3Dt8).**
 
 ---
+\* signing strictly in a personal capacity.
 
 **References**
 
