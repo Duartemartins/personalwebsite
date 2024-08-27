@@ -50,8 +50,6 @@ In conclusion, the above strategies are designed to harness Europe's full potent
 
 Yours sincerely,
 
-\[Your Name/Signature\] \[Position/Title\] \[Organisation\]
-
 1. Duarte Santiago Martins \- Data Analyst and Open Letter Author  
 2. João Pedro Cardoso, Senior Lead Engineer in Cloud\&IT Advisory, NTT DATA EUROPE & LATAM  
 3. Patrick Pijnappel, Co-Founder & Co-CTO @ Supermoon  
@@ -71,6 +69,18 @@ Yours sincerely,
 17. Frederich Novo Founder of one beta apps And [Novo@amazon.com](mailto:Novo@amazon.com)  
 18. Václav Košař, Machine Learning Engineer, VaclavKosar.com  
 19. Luis Cerqueira da Silva, Entity Governance Manager @Remote.com, former Notary Public
+
+--- 
+**Post Scriptum**
+
+The open letter above, addressed to European political leaders, builds upon an earlier article, ["European Accelerationism"](https://www.santiago-martins.com/european-accelerationism-eu-acc.html), which garnered positive feedback from both entrepreneurial and political stakeholders, and was notably mentioned in FT Alphaville and Marginal Revolution. Additionally, this petition aligns with the spirit of blog-driven policy making, which has seen recent successes, as detailed in an article from The Economist: [How to Change the Policy of the British Government](https://www.economist.com/britain/2023/11/30/how-to-change-the-policy-of-the-british-government).
+
+Given the recent European elections, these proposals are particularly pertinent as they offer a timely opportunity to shape policy agendas that can drive significant and meaningful progress across the continent. These proposals are selected based on their robust evidence base, their capacity to garner cross-ideological support, their foundation on successful precedents, and the existing political momentum behind them. 
+
+To add your name to the list of signatories please fill in **[this form](https://forms.gle/DGtASNPqh8RWk3Dt8).**
+
+---
+
 
 [^1]:  [https://www.oecd.org/ctp/tax-policy/tax-policy-reform-and-economic-growth-9789264091085-en.htm](https://www.oecd.org/ctp/tax-policy/tax-policy-reform-and-economic-growth-9789264091085-en.htm) 
 
