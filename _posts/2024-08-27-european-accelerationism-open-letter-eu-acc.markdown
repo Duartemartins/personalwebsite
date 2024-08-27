@@ -7,6 +7,7 @@ published: true
 categories: europe technology startups
 tags: europe technology startups
 lang: en
+image: assets/images/europe.avif
 ---
 
 
