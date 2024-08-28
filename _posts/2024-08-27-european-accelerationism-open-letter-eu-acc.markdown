@@ -70,6 +70,7 @@ Yours sincerely,
 17. Frederich Novo Founder of one beta apps And [Novo@amazon.com](mailto:Novo@amazon.com)  
 18. Václav Košař, Machine Learning Engineer, VaclavKosar.com  
 19. Luis Cerqueira da Silva, Entity Governance Manager @Remote.com, former Notary Public
+20. Diogo Mónica, Chairman @ Anchorage Digital & General Partner @ Haun Ventures
 
 --- 
 **Addendum**
