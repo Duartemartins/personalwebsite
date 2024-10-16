@@ -73,6 +73,11 @@ Yours sincerely,
 20. Diogo Mónica, Chairman @ Anchorage Digital & General Partner @ Haun Ventures
 21. Xavier d'Arcy - European Central Bank
 22. Julian Ehrenbrandtner
+23. Pablo Antonio Moreno Casares, Quantum algorithm scientist, Xanadu.ai
+24. Philipp Nagel, Co-Founder & Co-CEO @ Mako365 GmbH
+25. Pieter Moorman — Founder @DoubleAgency
+26. Jacopo Gabrielli
+27. Francisco d'Orey Neves, MPhil Economics, Cambridge University
 
 --- 
 **Addendum**
