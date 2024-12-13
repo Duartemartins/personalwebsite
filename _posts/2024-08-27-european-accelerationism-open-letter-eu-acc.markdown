@@ -75,12 +75,13 @@ Yours sincerely,
 22. Julian Ehrenbrandtner
 23. Pablo Antonio Moreno Casares, Quantum algorithm scientist, Xanadu.ai
 24. Philipp Nagel, Co-Founder & Co-CEO @ Mako365 GmbH
-25. Pieter Moorman — Founder @DoubleAgency
+25. Pieter Moorman — Founder @ DoubleAgency
 26. Francisco d'Orey Neves, MPhil Economics, Cambridge University
 27. Jacopo Gabrielli, PhD Imperial College
 28. Gustavo Lopes Dias - Graduate Management Trainee - Hunter Douglas Inc.
 29. Rodrigo Lopes Dias, MEP Assistant at European Parliament
 30. André Oliveira, Founder of Pixelmatters & Pixelmatters Ventures
+31. Henrique Cruz, Founder @ Rows.com
 
 --- 
 **Addendum**
