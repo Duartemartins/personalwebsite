@@ -9,7 +9,6 @@ categories: portugal
 tags: portugal
 lang: pt
 ---
-# Como Obter Informação Predial Simplificada Online
 
 Embora não seja fácil obter toda a informação predial de forma totalmente online, é possível utilizar um truque com os **Certificados Energéticos** para identificar propriedades e gerar a **Informação Predial Simplificada (IPS)**. O processo é o seguinte:
 
