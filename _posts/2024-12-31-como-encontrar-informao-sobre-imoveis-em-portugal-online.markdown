@@ -3,6 +3,7 @@ layout: post
 title: "Como encontrar informação sobre imóveis em Portugal online"
 description: "Aprenda como consultar informação predial simplificada online em Portugal através do Portal Predial Online, incluindo passos para aceder ao registo predial, usar códigos de acesso e cruzar dados com outros sistemas."
 date: 2024-12-31 16:24:24 +0000
+image: https://images.unsplash.com/photo-1627331860778-49baa3861baf?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTY0fHxwb3J0dWdhbHxlbnwwfDB8MHx8fDI%3D
 published: true
 categories: portugal
 tags: portugal
@@ -14,7 +15,7 @@ Embora não seja fácil obter toda a informação predial de forma totalmente on
 
 ---
 
-## Dados Necessários
+### Dados Necessários
 
 A **Informação Predial Simplificada** pode ser gerada no **Portal Predial Online**. Para isso serão precisos os seguintes dados:
 - **Número de Descrição Predial**: Exemplo: “4529” (do documento da Conservatória).
@@ -22,20 +23,17 @@ A **Informação Predial Simplificada** pode ser gerada no **Portal Predial Onli
 - **Código de Acesso**: Exemplo: `IS-0229-65591-118105-004023` 
   - Este código é gerado pelo Portal Predial.
 
----
-## 1. Consulte o Sistema de Certificação Energética dos Edifícios (SCE)
+### 1. Consulte o Sistema de Certificação Energética dos Edifícios (SCE)
 
 Com alguma sorte, o **Número de Descrição Predial** pode ser encontrado no [site](https://www.sce.pt/pesquisa-certificados/) do SCE, basta procurar o nome da rua do imóvel.
 
----
 
-## 2. Acesse o Portal Predial Online
+### 2. Acesse o Portal Predial Online
 
 1. Visite o site: [https://www.predialonline.pt](https://www.predialonline.pt).
 
----
 
-## 3. Criar a Informação Predial Simplificada (IPS)
+### 3. Criar a Informação Predial Simplificada (IPS)
 
 1. No menu inicial, em **Informação Predial Simplificada** selecione **“Criar"**.
 2. Insira os seus dados pessoas (Identificação do Requerente).
@@ -44,9 +42,8 @@ Com alguma sorte, o **Número de Descrição Predial** pode ser encontrado no [s
 5. Insira **Número de Descrição Predial**: `4529`.
 6. Confirme a submissão para gerar a IPS.
 
----
 
-## 4. Consultar a Informação Predial Simplificada
+### 4. Consultar a Informação Predial Simplificada
 
 1. Aceda à opção **“Consultar IPS”**.
 2. Use o **Código de Acesso** fornecido
@@ -62,15 +59,14 @@ A **Informação Predial Simplificada** apresenta:
 - **Confrontações**: Limites do terreno com os vizinhos.
 - **Encargos**: Registo da inexistência de hipotecas ou penhoras.
 
----
 
-## 5. Validar Informação
+### 5. Validar Informação
 
 - Caso precise de um documento com validade legal (para compra ou análise detalhada), solicite uma **Certidão Permanente** no mesmo portal.
 
----
+E pronto, com alguma sorte, poderá evitar a deslocação à Conservatória do Registo Predial e obter a informação necessária sobre o imóvel diretamente online.
 
-## Links Úteis
+### Links Úteis
 
 - **Visualizador de Cadastro**: [https://snic.dgterritorio.gov.pt/visualizadorCadastro](https://snic.dgterritorio.gov.pt/visualizadorCadastro) (para terrenos mapeados).
 - **BUPi**: [https://bupi.gov.pt/](https://bupi.gov.pt/) (zonas rurais em regiões específicas).
@@ -100,6 +96,10 @@ Plataforma criada para identificar, georreferenciar e regularizar propriedades r
 
 #### **Cadastro**
 O cadastro refere-se ao registo ou identificação de propriedades rústicas, urbanas ou mistas para fins administrativos e fiscais. Inclui informações como localização, área, limites e uso do terreno. Em Portugal, o cadastro é gerido por várias entidades, como o **BUPi** e as **Câmaras Municipais**.
+
+#### **Caderneta Predial**
+Documento emitido pela **Autoridade Tributária e Aduaneira (AT)** que contém informações fiscais e cadastrais de um imóvel. Inclui dados como a localização, o artigo matricial, o Valor Patrimonial Tributário (VPT), a área total, a natureza do imóvel (urbano, rústico ou misto) e os nomes dos titulares. É utilizado para fins tributários, transações imobiliárias e financiamento bancário.
+
 
 #### **Certidão Permanente**
 Documento oficial e certificado que detalha toda a informação legal e cadastral de um imóvel, com validade jurídica, utilizado em transações ou processos formais.
