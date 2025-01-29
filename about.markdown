@@ -5,20 +5,17 @@ title: About
 permalink: /about/
 ---
 
-Hello and welcome to my blog! It’s a space where I jot down my thoughts on subjects I find intriguing: technology, our complex society, and occasionaly a bit of philosophy.
+Hello and welcome to my blog! This is where I explore ideas that capture my curiosity: technology, the intricacies of society, and the occasional philosophical musing.
 
-I’m a believer in letting data tell the tale, whether it’s a deep-dive into tech developments or a casual observation on day-to-day life.
+Here’s what you’ll find here:
+	•	Tech Insights – Programming, systems, and tech trends, shared in a way that’s hopefully both useful and engaging.
+	•	Social Commentary – Observations on the evolving dynamics of society.
+	•	Philosophical Thoughts – Reflections on life’s big questions and the small things that make us wonder.
 
-You’ll find a variety of posts here:
+You can also find me elsewhere, feel free to get in touch:
+	•	I share three interesting things weekly on [Substack](https://interessant3.substack.com).
+	•	My code lives on [GitHub](https://github.com/duartemartins).
+	•	I post thoughts on [Twitter](https://www.twitter.com/duarteosrm).
+	•	This blog is also mirrored on [Medium](https://medium.com/@duartem).
 
-- **Tech Insights**: Web development and programming in a way that’s both useful and engaging.
-- **Social Commentary**: Observing the dynamics of society with a keen, analytical eye.
-- **Philosophical Thoughts**: Sharing reflections on life’s bigger questions and the little things that make us wonder.
-
-From practical guides to snippets of interesting finds in my 'Interessant3' series, I hope there’s something here to pique your interest.
-
-Feel free to connect with me across the web. I’m on [GitHub](https://github.com/duartemartins), I share three interesting things once a week on [Substack](https://interessant3.substack.com), I'm on [Twitter](https://www.twitter.com/duarteosrm), and mirror this blog on [Medium](https://medium.com/@duartem).
-
-I'm currently working on [PopaDex](https://popadex.com) and [DeepDive](https://trydeepdive) whenever I can.
-
-I’d love for you to share your thoughts, and maybe we’ll learn something new together.
+By day, I work in tech. In my spare time, I’m building PopaDex.
