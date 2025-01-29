@@ -15,7 +15,7 @@ Hello and welcome to my blog! This is where I explore ideas that capture my curi
 
 ## Connect With Me  
 
-You can also find me elsewhere—feel free to get in touch:  
+You can also find me elsewhere — feel free to get in touch:  
 
 - I share three interesting things weekly on [Substack](https://interessant3.substack.com).  
 - My code lives on [GitHub](https://github.com/duartemartins).  
