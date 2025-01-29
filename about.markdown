@@ -18,4 +18,4 @@ You can also find me elsewhere, feel free to get in touch:
 	•	I post thoughts on [Twitter](https://www.twitter.com/duarteosrm).
 	•	This blog is also mirrored on [Medium](https://medium.com/@duartem).
 
-By day, I work in tech. In my spare time, I’m building PopaDex.
+By day, I work in tech. In my spare time, I’m building [PopaDex](https://popadex.com) - a personal finance tracker.
