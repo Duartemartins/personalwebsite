@@ -82,6 +82,7 @@ Yours sincerely,
 29. Rodrigo Lopes Dias, MEP Assistant at European Parliament
 30. André Oliveira, Founder of Pixelmatters & Pixelmatters Ventures
 31. Henrique Cruz, Founder @ Rows.com
+32. Hugo Volz Oliveira, Secretary, Instituto New Economy
 
 --- 
 **Addendum**
