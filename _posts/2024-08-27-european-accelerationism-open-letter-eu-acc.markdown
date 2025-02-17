@@ -1,6 +1,6 @@
 ---
 layout: post
-title: European Accelerationism Open Letter - eu/acc
+title: An Open Letter on Accelerating European Progress
 description: This letter is directed at all leaders across Europe, to present a set of proposals, which we believe are both feasible and crucial for driving forward the collective potential of our nations.
 date: 2024-08-27 13:19:20 +0100
 published: true
@@ -15,7 +15,7 @@ image: assets/images/europe.avif
 
 This letter is directed at all leaders across Europe, encompassing not only the European Union but all countries within the European continent. Our aim is to present a set of proposals, which we believe are both feasible and crucial for driving forward the collective potential of our nations. These suggestions are designed to be politically neutral, grounded in solid evidence, and intended to be readily implementable. Furthermore, each proposal is informed by successful European precedents, ensuring their relevance and feasibility within the continental context.
 
-### **European Accelerationism: 5 Proposals for Accelerating European Progress**
+### **5 Proposals for Accelerating European Progress**
 
 1. **Corporate Tax Reform: Adoption of Cash Flow Tax Design** 
 
@@ -91,7 +91,7 @@ The open letter above, addressed to European political leaders, builds upon an e
 
 Given the recent European elections, these proposals are particularly pertinent as they offer a timely opportunity to shape policy agendas that can drive significant and meaningful progress across the continent. These proposals are selected based on their robust evidence base, their capacity to garner cross-ideological support, their foundation on successful precedents, and the existing political momentum behind them. 
 
-Update: I was involved in EU/ACC when it was largely being driven by Andreas Klinger on a discord server in 2024, but I [no longer have any involvement](/moving-on-from-euacc.html) beyond occasional interest.
+Update: I was involved in the eu/acc movement when it was largely being driven by Andreas Klinger on a discord server in 2024, but I [no longer have any involvement](/moving-on-from-euacc.html) beyond occasional interest.
 
 With that in mind, if you agree with the policies below, I encourage you to add your name to the list of signatories by filling in **[this form](https://forms.gle/DGtASNPqh8RWk3Dt8).**
 
