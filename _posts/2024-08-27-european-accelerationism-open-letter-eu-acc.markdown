@@ -91,7 +91,9 @@ The open letter above, addressed to European political leaders, builds upon an e
 
 Given the recent European elections, these proposals are particularly pertinent as they offer a timely opportunity to shape policy agendas that can drive significant and meaningful progress across the continent. These proposals are selected based on their robust evidence base, their capacity to garner cross-ideological support, their foundation on successful precedents, and the existing political momentum behind them. 
 
-To add your name to the list of signatories please fill in **[this form](https://forms.gle/DGtASNPqh8RWk3Dt8).**
+Update: I was involved in EU/ACC when it was largely being driven by Andreas Klinger on a discord server in 2024, but I [no longer have any involvement](/moving-on-from-euacc.markdown) beyond occasional interest.
+
+With that in mind, if you agree with the policies below, I encourage you to add your name to the list of signatories by filling in **[this form](https://forms.gle/DGtASNPqh8RWk3Dt8).**
 
 ---
 \* signing strictly in a personal capacity.
