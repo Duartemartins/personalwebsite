@@ -12,7 +12,7 @@ image: assets/images/europe.avif
 
 ## Context
 
-In 2024, I was actively involved in eu/acc, an initiative aimed at accelerating European innovation and progress. At the time, discussion was largely in a Discord server led by entrepreneur and VC [Andreas Klinger](https://klinger.io/posts/eu-acc), and gained traction among policymakers, entrepreneurs, and technologists. The movement sought to push for structural changes in European governance, investment, and regulatory frameworks to foster a more competitive and forward-thinking environment. 
+In 2024, I was actively involved in eu/acc, an initiative aimed at accelerating European innovation and progress. At the time, discussion was largely in a Discord server led by entrepreneur and VC [Andreas Klinger](https://klinger.io/posts/eu-acc), and gained traction among policymakers, entrepreneurs, and technologists. The movement was entirely decentralised and sought to push for structural changes in European governance, investment, and regulatory frameworks to foster a more competitive and forward-thinking environment. 
 
 While the initiative attracted meaningful discussions and was referenced in outlets like *FT Alphaville* and *Marginal Revolution*, my views on its approach and effectiveness have evolved. I am no longer involved in eu/acc beyond occasional curiosity, and in this post, I’ll outline why.
 
