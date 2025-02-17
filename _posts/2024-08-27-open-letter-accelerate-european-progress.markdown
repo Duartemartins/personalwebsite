@@ -93,7 +93,12 @@ Given the recent European elections, these proposals are particularly pertinent 
 
 Update: I was involved in the eu/acc movement when it was largely being driven by Andreas Klinger on a discord server in 2024, but I [no longer have any involvement](/moving-on-from-euacc.html) beyond occasional interest.
 
-With that in mind, if you agree with the policies below, I encourage you to add your name to the list of signatories by filling in **[this form](https://forms.gle/DGtASNPqh8RWk3Dt8).**
+With that in mind, if you agree with the policies below, I encourage you to add your name to the list of signatories below.
+
+<div style="background-color: #f9f9f9; padding: 10px; border: 1px solid #ddd; margin-top: 20px; color: #000;">
+  <strong style="font-size: 1.2em; color: #d9534f;">Support The Cause!</strong><br>
+  If you agree with the policies below, please add your name to the list of signatories by filling in <a href="https://forms.gle/DGtASNPqh8RWk3Dt8" style="font-weight: bold; color: #007bff;">this form</a>.
+</div>
 
 ---
 \* signing strictly in a personal capacity.
