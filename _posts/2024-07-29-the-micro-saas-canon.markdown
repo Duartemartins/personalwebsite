@@ -75,6 +75,7 @@ Here are 5 YouTube videos that provide valuable insights for micro-SaaS entrepre
 4. [" Designing the Ideal Bootstrapped Business with Jason Cohen"](https://www.youtube.com/watch?v=otbnC2zE2rw) by Jason Cohen
 5. ["Turning side projects into profitable startups"](https://levels.io/startups/) by Pieter Levels
 6. ["YC Startup School"](https://www.startupschool.org)
+7. ["David Heinemeier Hansson at Startup School 08"](https://www.youtube.com/watch?v=0CDXJ6bMkMY)
 
 ## Podcasts
 
