@@ -9,7 +9,6 @@ tags: migration policy, policy, politics
 lang: portuguese
 image: https://ecoonline.s3.amazonaws.com/uploads/2025/04/aima-1.png
 ---
-# White Paper: Políticas Baseadas em Evidência para uma Gestão Sustentável da Imigração em Portugal  
 **Proposta de medidas inspiradas em modelos nórdicos e ajustadas ao contexto português**
 
 ---
