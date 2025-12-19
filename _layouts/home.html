@@ -26,6 +26,9 @@ layout: default
     {% assign lead_post = local_posts.first %}
     <div class="lead-story">
         <div class="lead-content">
+            {% if lead_post.image %}
+            <img src="{{ lead_post.image | relative_url }}" alt="{{ lead_post.title }}" class="lead-image">
+            {% endif %}
             <span class="kicker">{{ lead_post.categories | first | default: t.essay | replace: ',', '' }}</span>
             <h1 class="lead-headline display">
                 <a href="{{ lead_post.url | relative_url }}" style="text-decoration: none; color: inherit;">

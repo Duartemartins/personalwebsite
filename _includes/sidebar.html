@@ -20,10 +20,15 @@
         {% assign t = site.data.ui_text[current_lang] %}
         
         <div class="nav-header">{{ t.navigation }}</div>
-        <a href="{{ "/" | relative_url }}" class="nav-link">{{ t.home }}</a>
+        {% if current_lang == 'pt' %}
+        <a href="{{ '/pt/' | relative_url }}" class="nav-link">{{ t.home }}</a>
+        {% else %}
+        <a href="{{ '/' | relative_url }}" class="nav-link">{{ t.home }}</a>
+        {% endif %}
+        
         {% assign sorted_pages = site.pages | sort: "title" %}
         {% for p in sorted_pages %}
-            {% if p.title and p.url != "/" and p.url != "/404.html" and p.nav_exclude != true %}
+            {% if p.title and p.url != "/" and p.url != "/pt/" and p.url != "/404.html" and p.nav_exclude != true %}
                 {% assign show_page = false %}
                 {% if p.lang == current_lang %}
                     {% assign show_page = true %}
