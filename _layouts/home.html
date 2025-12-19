@@ -63,7 +63,11 @@ layout: default
     <!-- The Archive Grid -->
     <div class="grid-header">
         <span class="grid-title">{{ t.the_archive }}</span>
-        <a href="#" style="font-family: var(--font-ui); font-size: 0.8rem; color: var(--ink); text-decoration: none;">{{ t.view_all }} →</a>
+        {% if page.lang == 'pt' %}
+        <a href="{{ '/pt/archive/' | relative_url }}" style="font-family: var(--font-ui); font-size: 0.8rem; color: var(--ink); text-decoration: none;">{{ t.view_all }} →</a>
+        {% else %}
+        <a href="{{ '/archive/' | relative_url }}" style="font-family: var(--font-ui); font-size: 0.8rem; color: var(--ink); text-decoration: none;">{{ t.view_all }} →</a>
+        {% endif %}
     </div>
 
     <div class="article-grid">
