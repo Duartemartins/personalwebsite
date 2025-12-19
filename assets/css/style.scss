@@ -422,7 +422,7 @@ body {
     max-width: 1100px;
     width: 100%;
     margin: 0 auto;
-    padding: 4rem 3rem;
+    padding: 2rem 3rem;
 }
 
 /* Hero / Lead Story */
@@ -430,8 +430,8 @@ body {
     display: grid;
     grid-template-columns: 1.5fr 1fr;
     gap: 5rem; /* Increased gap for better spacing */
-    margin-bottom: 5rem; /* Increased margin */
-    padding-bottom: 5rem; /* Increased padding */
+    margin-bottom: 2rem; /* Reduced margin */
+    padding-bottom: 2rem; /* Reduced padding */
     border-bottom: 1px solid var(--border-strong);
 }
 
@@ -745,4 +745,76 @@ pre code {
 
 .footnotes p {
     margin-bottom: 0;
+}
+
+/* As Seen On Carousel */
+.as-seen-on-container {
+    margin: 2rem 0 5rem 0; /* Added bottom margin to push Archive down */
+}
+
+.as-seen-title {
+    font-family: var(--font-ui);
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--ink-light);
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.as-seen-on {
+    overflow: hidden;
+    padding: 1rem 0;
+    background: var(--bg);
+    white-space: nowrap;
+    position: relative;
+}
+
+.as-seen-on:before,
+.as-seen-on:after {
+    position: absolute;
+    top: 0;
+    width: 100px;
+    height: 100%;
+    content: "";
+    z-index: 2;
+}
+
+.as-seen-on:before {
+    left: 0;
+    background: linear-gradient(to right, var(--bg), transparent);
+}
+
+.as-seen-on:after {
+    right: 0;
+    background: linear-gradient(to left, var(--bg), transparent);
+}
+
+.logos-slide {
+    display: inline-block;
+    animation: 35s slide infinite linear;
+}
+
+.logos-slide img {
+    height: 40px; /* Fixed height for all logos */
+    width: auto;
+    max-width: none; /* Allow images to exceed container width */
+    margin: 0 3rem;
+    filter: grayscale(100%) opacity(0.6);
+    transition: filter 0.3s;
+    vertical-align: middle; /* Align vertically */
+}
+
+.logos-slide img:hover {
+    filter: grayscale(0%) opacity(1);
+}
+
+@keyframes slide {
+    from {
+        transform: translateX(0);
+    }
+    to {
+        transform: translateX(-100%);
+    }
 }
