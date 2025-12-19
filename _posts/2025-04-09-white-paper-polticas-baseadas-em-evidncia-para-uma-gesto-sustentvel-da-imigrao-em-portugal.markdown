@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "White Paper: Políticas Baseadas em Evidência para uma Gestão Sustentável da Imigração em Portugal"
-description: "Este white paper propõe um conjunto de sete medidas baseadas em evidência, inspiradas em boas práticas internacionais — com ênfase no modelo dinamarquês — mas adaptadas à realidade portuguesa. O objectivo é garantir uma imigração que responda às necessidades do país de forma estrategicamente controlada, socialmente equilibrada e economicamente vantajosa."
+description: "Este white paper propõe um conjunto de sete medidas baseadas em evidência, inspiradas em boas práticas internacionais."
 date: 2025-04-09 13:00:29 +0200
 published: true
 categories: migration policy, policy, politics

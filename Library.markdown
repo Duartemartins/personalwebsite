@@ -17,5 +17,6 @@ Here I collate my favourite links to articles, concepts, books and other media.
 * Change in per Capita CO2 emissions and GDP [Our World in Data](https://ourworldindata.org/co2/country/united-kingdom?country=~GBR#consumption-based-accounting-how-do-emissions-compare-when-we-adjust-for-trade)
     > Contrary to common knowledge, de-growth is not necessary to solve climate change.
     > A number of countries – such as the USA, UK, France, Spain, Italy, and many others – have managed to reduce emissions (even when we correct for trade) whilst increasing GDP.
-<iframe src="https://ourworldindata.org/grapher/co2-emissions-and-gdp?time=1990..latest" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-<iframe src="https://ourworldindata.org/grapher/consumption-co2-per-capita-vs-gdppc?zoomToSelection=true&endpointsOnly=1&time=1990..2016&country=ARM~BGR~CYP~CZE~DNK~EST~FIN~FRA~DEU~GRC~HUN~ISR~ITA~JOR~LVA~LTU~NLD~POL~PRT~ROU~SVK~ESP~SWE~GBR" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+    
+    <iframe src="https://ourworldindata.org/grapher/co2-emissions-and-gdp?time=1990..latest" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+    <iframe src="https://ourworldindata.org/grapher/consumption-co2-per-capita-vs-gdppc?zoomToSelection=true&endpointsOnly=1&time=1990..2016&country=ARM~BGR~CYP~CZE~DNK~EST~FIN~FRA~DEU~GRC~HUN~ISR~ITA~JOR~LVA~LTU~NLD~POL~PRT~ROU~SVK~ESP~SWE~GBR" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>

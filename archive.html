@@ -1,0 +1,36 @@
+---
+layout: default
+title: Archive
+permalink: /archive/
+---
+
+<div class="top-bar">
+    <div class="ui" style="font-size: 0.75rem; font-weight: 600; color: var(--ink-light);">
+        ARCHIVE
+    </div>
+    <div class="ui" style="font-size: 0.75rem; font-weight: 600;">
+        {{ site.posts | size }} POSTS
+    </div>
+</div>
+
+<div class="container">
+    <header class="article-header" style="margin-bottom: 4rem; text-align: left;">
+        <h1 class="article-title display">Archive</h1>
+    </header>
+
+    <div class="article-grid">
+        {% for post in site.posts %}
+        <article class="grid-item">
+            <span class="kicker" style="margin-bottom: 0.5rem; font-size: 0.7rem;">{{ post.date | date: "%B %d, %Y" }}</span>
+            <h3 class="grid-headline">
+                <a href="{{ post.url | relative_url }}" style="text-decoration: none; color: inherit;">
+                    {{ post.title }}
+                </a>
+            </h3>
+            <p class="grid-excerpt">
+                {{ post.description | default: post.excerpt | strip_html | truncatewords: 40 }}
+            </p>
+        </article>
+        {% endfor %}
+    </div>
+</div>

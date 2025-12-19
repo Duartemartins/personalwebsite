@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if page.title %}{{ page.title | escape }} — {{ site.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+    {% include google-analytics.html %}
+    {% feed_meta %}
+    {% seo %}
+</head>
+<body>
+
+    <div class="mobile-header">
+        <a href="{{ "/" | relative_url }}" class="mobile-brand">Duart's Blog'</a>
+        <button class="mobile-menu-toggle" aria-label="Toggle menu">
+            <span></span>
+            <span></span>
+        </button>
+    </div>
+
+    <div class="mobile-menu-overlay">
+        <nav class="mobile-nav">
+            <a href="{{ "/" | relative_url }}" class="mobile-nav-link">Home</a>
+            {% assign sorted_pages = site.pages | sort: "title" %}
+            {% for p in sorted_pages %}
+                {% if p.title and p.url != "/" and p.url != "/404.html" and p.nav_exclude != true %}
+                <a href="{{ p.url | relative_url }}" class="mobile-nav-link">{{ p.title }}</a>
+                {% endif %}
+            {% endfor %}
+        </nav>
+    </div>
+
+    {% include sidebar.html %}
+
+    <main class="main">
+        {{ content }}
+    </main>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            // Mobile Menu Toggle
+            const toggle = document.querySelector('.mobile-menu-toggle');
+            const overlay = document.querySelector('.mobile-menu-overlay');
+            
+            if (toggle && overlay) {
+                toggle.addEventListener('click', () => {
+                    toggle.classList.toggle('active');
+                    overlay.classList.toggle('active');
+                    document.body.style.overflow = overlay.classList.contains('active') ? 'hidden' : '';
+                });
+            }
+
+            // Share functionality
+            const twitterLink = document.querySelector('.share-twitter');
+            const copyLink = document.querySelector('.share-copy');
+            
+            if (twitterLink) {
+                twitterLink.addEventListener('click', (e) => {
+                    e.preventDefault();
+                    const text = encodeURIComponent(document.title);
+                    const url = encodeURIComponent(window.location.href);
+                    window.open(`https://twitter.com/intent/tweet?text=${text}&url=${url}&via={{ site.twitter_username }}`, '_blank');
+                });
+            }
+
+            if (copyLink) {
+                copyLink.addEventListener('click', (e) => {
+                    e.preventDefault();
+                    navigator.clipboard.writeText(window.location.href).then(() => {
+                        const originalText = copyLink.textContent;
+                        copyLink.textContent = 'Copied!';
+                        setTimeout(() => {
+                            copyLink.textContent = originalText;
+                        }, 2000);
+                    });
+                });
+            }
+        });
+    </script>
+</body>
+</html>

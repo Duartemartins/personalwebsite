@@ -1,24 +1,56 @@
 ---
-layout: page
-permalink: /categories/
+layout: default
 title: Categories
+permalink: /categories/
 ---
 
+<div class="top-bar">
+    <div class="ui" style="font-size: 0.75rem; font-weight: 600; color: var(--ink-light);">
+        CATEGORIES
+    </div>
+    <div class="ui" style="font-size: 0.75rem; font-weight: 600;">
+        {{ site.categories | size }} TOPICS
+    </div>
+</div>
 
-<div id="archives">
-{% for category in site.categories %}
-  <div class="archive-group">
-    {% capture category_name %}{{ category | first }}{% endcapture %}
-    <div id="#{{ category_name | slugize }}"></div>
-    <p></p>
+<div class="container">
+    <header class="article-header" style="margin-bottom: 4rem; text-align: left;">
+        <h1 class="article-title display">Categories</h1>
+    </header>
 
-    <h3 class="category-head">🔖  {{ category_name }}</h3>
-    <a name="{{ category_name | slugize }}"></a>
-    {% for post in site.categories[category_name] %}
-    <article class="archive-item">
-      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
-    </article>
+    <div class="category-index" style="margin-bottom: 4rem; display: flex; flex-wrap: wrap; gap: 0.75rem;">
+        {% assign sorted_categories = site.categories | sort %}
+        {% for category in sorted_categories %}
+            {% capture category_name %}{{ category | first }}{% endcapture %}
+            <a href="#{{ category_name | slugize }}" style="font-family: var(--font-ui); font-size: 0.85rem; color: var(--ink); text-decoration: none; border: 1px solid var(--border); padding: 0.4rem 0.8rem; border-radius: 20px; transition: all 0.2s; background: #fff;">
+                {{ category_name }} <span style="color: var(--ink-light); margin-left: 0.25rem; font-size: 0.75rem;">{{ site.categories[category_name] | size }}</span>
+            </a>
+        {% endfor %}
+    </div>
+
+    {% for category in site.categories %}
+        {% capture category_name %}{{ category | first }}{% endcapture %}
+        
+        <div id="{{ category_name | slugize }}" class="category-section" style="margin-bottom: 6rem;">
+            <h2 class="display" style="font-size: 2rem; margin-bottom: 2rem; border-bottom: 1px solid var(--border); padding-bottom: 1rem;">
+                {{ category_name }}
+            </h2>
+            
+            <div class="article-grid">
+                {% for post in site.categories[category_name] %}
+                <article class="grid-item">
+                    <span class="kicker" style="margin-bottom: 0.5rem; font-size: 0.7rem;">{{ post.date | date: "%B %Y" }}</span>
+                    <h3 class="grid-headline">
+                        <a href="{{ post.url | relative_url }}" style="text-decoration: none; color: inherit;">
+                            {{ post.title }}
+                        </a>
+                    </h3>
+                    <p class="grid-excerpt">
+                        {{ post.description | default: post.excerpt | strip_html | truncatewords: 40 }}
+                    </p>
+                </article>
+                {% endfor %}
+            </div>
+        </div>
     {% endfor %}
-  </div>
-{% endfor %}
 </div>

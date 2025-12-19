@@ -1,48 +1,69 @@
 ---
 layout: default
 ---
-<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-58484QB"
-  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
-  <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="post-meta">
-      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {{ page.date | date: date_format }}
-      </time>
-      {%- if page.author -%}
-      • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card"
-          itemprop="name">{{ page.author }}</span></span>
-      {%- endif -%}
-    </p>
-    <p class="post-meta">Estimated {% include reading-time.html %} </p>
 
-    <div class="post-categories">
-      {% if post %}
-      {% assign categories = post.categories %}
-      {% else %}
-      {% assign categories = page.categories %}
-      {% endif %}
-      {% for category in categories %}
-      <a href="{{site.baseurl}}/categories/#{{category|slugize}}">🔖 {{category}}</a>
-      {% unless forloop.last %}&nbsp;{% endunless %}
-      {% endfor %}
+<div class="top-bar">
+    <div class="ui" style="font-size: 0.75rem; font-weight: 600; color: var(--ink-light);">
+        {{ page.categories | first | default: "ESSAY" | upcase }}
     </div>
-    {% seo %}
-  </header>
+    <div class="ui" style="font-size: 0.75rem; font-weight: 600;">
+        {% assign words = content | number_of_words %}
+        {% if words < 360 %}
+          1 MIN READ
+        {% else %}
+          {{ words | divided_by: 180 }} MIN READ
+        {% endif %}
+    </div>
+    <div class="progress-bar"></div>
+</div>
 
+<article class="article-container" itemscope itemtype="http://schema.org/BlogPosting">
+    <header class="article-header">
+        <span class="kicker">{{ page.categories | first | default: "The Manifesto" }}</span>
+        <h1 class="article-title display" itemprop="name headline">{{ page.title }}</h1>
+        <div class="article-meta">
+            <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+                <span itemprop="name">By {{ page.author | default: site.author }}</span>
+            </span>
+            <span>•</span>
+            <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+                {{ page.date | date: "%B %d, %Y" }}
+            </time>
+            <span>•</span>
+            <span>{{ content | number_of_words }} words</span>
+        </div>
+    </header>
 
+    <div class="article-body" itemprop="articleBody">
+        {{ content }}
+    </div>
 
-  <div class="post-content e-content" itemprop="articleBody">
-    {{ content }}
-  </div>
-
-  {%- if site.disqus.shortname -%}
-  {%- include disqus_comments.html -%}
-  {%- endif -%}
-
-  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+    <footer class="article-footer">
+        <div class="footer-spec">
+            <span>Revision</span>
+            v1.0 — Final
+        </div>
+        <div class="footer-spec">
+            <span>Typeset In</span>
+            Instrument Serif & Libre Baskerville
+        </div>
+        <div class="footer-spec">
+            <span>Word Count</span>
+            {{ content | number_of_words }} Words
+        </div>
+        <div class="footer-spec">
+            <span>Location</span>
+            Lisbon, Portugal
+        </div>
+    </footer>
 </article>
+
+<script>
+    // Reading Progress Bar
+    window.addEventListener('scroll', () => {
+        const winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+        const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+        const scrolled = (winScroll / height) * 100;
+        document.querySelector('.progress-bar').style.width = scrolled + "%";
+    });
+</script>

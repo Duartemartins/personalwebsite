@@ -1,3 +1,10 @@
+---
+layout: page
+title: Brand Identity
+permalink: /brand-identity/
+nav_exclude: true
+---
+
 # Brand Identity: The Editorial Workshop
 
 ## Core Concept
@@ -62,9 +69,6 @@ Charts are built using pure CSS/HTML (or SVG for complex lines) to ensure lightw
 - **Reading Progress**: A subtle progress bar or "Read Time" indicator in the top metadata bar.
 
 ## GitHub Pages Compatibility
-- These mockups are designed as standalone HTML files.
-- They reside in the `brand-concepts/` directory.
-- **Deployment**: When pushed to GitHub Pages, they will be accessible at:
-    - `https://[your-domain]/brand-concepts/mockup_digital_workshop.html`
-    - `https://[your-domain]/brand-concepts/mockup_digital_workshop_post.html`
-- **Note**: Ensure the `brand-concepts` folder is not excluded in `_config.yml` (it is included by default).
+- **Theme Architecture**: The "Editorial Workshop" identity is implemented as a set of layout overrides (`_layouts/`) and a custom SCSS framework (`assets/css/style.scss`) on top of the standard Jekyll structure.
+- **No Custom Plugins**: The design relies on standard Liquid templating and CSS, requiring no unsupported plugins, ensuring seamless deployment on GitHub Pages.
+- **Asset Management**: All styles and scripts are self-contained within the repository, ensuring the visual identity remains consistent across local development and production environments.

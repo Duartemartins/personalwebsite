@@ -1,0 +1,45 @@
+<figure class="data-viz">
+    <div class="viz-header">
+        <h3 class="viz-title">{{ include.title }}</h3>
+        <p class="viz-subtitle">{{ include.subtitle }}</p>
+    </div>
+    
+    <div class="chart-container" style="display: block; height: auto; padding: 1rem 0 2rem 0; border: none;">
+        <svg viewBox="0 0 600 350" style="width: 100%; height: auto; overflow: visible;">
+            <!-- Grid Lines -->
+            <line x1="0" y1="300" x2="600" y2="300" stroke="var(--ink)" stroke-width="1" />
+            <line x1="0" y1="225" x2="600" y2="225" stroke="var(--border)" stroke-width="1" />
+            <line x1="0" y1="150" x2="600" y2="150" stroke="var(--border)" stroke-width="1" />
+            <line x1="0" y1="75" x2="600" y2="75" stroke="var(--border)" stroke-width="1" />
+            <line x1="0" y1="0" x2="600" y2="0" stroke="var(--border)" stroke-width="1" />
+
+            <!-- Y Axis Labels -->
+            {% for label in include.y_labels %}
+            <text x="-15" y="{{ label.y }}" text-anchor="end" font-family="var(--font-ui)" font-size="12" fill="var(--ink-light)">{{ label.text }}</text>
+            {% endfor %}
+
+            <!-- X Axis Labels -->
+            {% for label in include.x_labels %}
+            <text x="{{ label.x }}" y="330" text-anchor="middle" font-family="var(--font-ui)" font-size="12" fill="var(--ink-light)">{{ label.text }}</text>
+            {% endfor %}
+
+            <!-- Data Lines -->
+            {% for line in include.lines %}
+            <path d="{{ line.path }}" fill="none" stroke="{{ line.color | default: 'var(--ink)' }}" stroke-width="3" />
+            <circle cx="{{ line.end_x }}" cy="{{ line.end_y }}" r="4" fill="{{ line.color | default: 'var(--ink)' }}" />
+            <text x="{{ line.end_x | plus: 10 }}" y="{{ line.end_y | plus: 4 }}" font-family="var(--font-ui)" font-size="12" font-weight="bold" fill="{{ line.color | default: 'var(--ink)' }}">{{ line.label }}</text>
+            {% endfor %}
+        </svg>
+    </div>
+
+    <div class="viz-footer">
+        <div class="viz-meta-col">
+            <span>Source: {{ include.source }}</span>
+            <span>{{ include.figure_id }}</span>
+        </div>
+        <div class="viz-meta-col viz-meta-right">
+            <span>{{ site.author }}</span>
+            <span>@{{ site.twitter_username }}</span>
+        </div>
+    </div>
+</figure>

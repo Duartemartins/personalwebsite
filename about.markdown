@@ -1,5 +1,4 @@
 ---
-
 layout: page
 title: About
 permalink: /about/
@@ -23,3 +22,7 @@ You can also find me elsewhere — feel free to get in touch:
 - This blog is also mirrored on [Medium](https://medium.com/@duartem).  
 
 By day, I work in tech. In my spare time, I’m building [PopaDex](https://popadex.com) – a personal finance tracker.  
+
+## Colophon
+
+This site is designed with a "Digital Workshop" aesthetic, prioritizing readability and a craftsman-like approach to content. You can read more about the [Brand Identity here](/brand-identity/).  

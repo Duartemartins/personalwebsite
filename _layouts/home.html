@@ -1,58 +1,77 @@
 ---
 layout: default
 ---
-{% include head.html %}
-<div class="home">
-  {%- if page.title -%}
-  <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
-  <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-58484QB"
-  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
-  {{ content }}
 
-  {%- if site.posts.size > 0 -%}
-  <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-  <ul class="post-list">
-    {%- for post in site.posts -%}
-    <li>
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      <span class="post-meta">{{ post.date | date: date_format }}</span>
+<div class="top-bar">
+    <div class="date-line">
+        {{ site.time | date: "%A, %B %d, %Y" }}
+    </div>
+    <div class="ui" style="font-size: 0.75rem; font-weight: 600;">
+        ISSUE NO. {{ site.posts | size }}
+    </div>
+</div>
 
+<div class="container">
+    <!-- Lead Story (Latest Post) -->
+    {% assign lead_post = site.posts.first %}
+    <div class="lead-story">
+        <div class="lead-content">
+            <span class="kicker">{{ lead_post.categories | first | default: "Essay" }}</span>
+            <h1 class="lead-headline display">
+                <a href="{{ lead_post.url | relative_url }}" style="text-decoration: none; color: inherit;">
+                    {{ lead_post.title }}
+                </a>
+            </h1>
+            <p class="lead-deck display">
+                {{ lead_post.description | default: lead_post.excerpt | strip_html | truncatewords: 50 }}
+            </p>
+            <div class="lead-meta">
+                <span>{{ lead_post.date | date: "%B %d, %Y" }}</span>
+                <span>•</span>
+                <span>{{ lead_post.content | number_of_words | divided_by: 180 }} min read</span>
+            </div>
+        </div>
 
-      <h3 style="margin-bottom: 2px;">
-        <a class="post-link" href="{{ post.url | relative_url }}">
-          {{ post.title | escape }}
-        </a>
-      </h3>
-      <p><span class="post-meta" ">{% capture words %}
-          {{ post.content | number_of_words | minus: 180 }}
-          {% endcapture %}
-          {% unless words contains '-' %}
-          {{ words | plus: 150 | divided_by: 150 | append: ' minutes to read' }}
-          {% endunless %}</span></p>
-            <p class=" post-categories">
-          {% if post %}
-          {% assign categories = post.categories %}
-          {% else %}
-          {% assign categories = page.categories %}
-          {% endif %}
-          {% for category in categories %}
-          <a href="{{site.baseurl}}/categories/#{{category|slugize}}">🔖 {{category}}</a>
-          {% unless forloop.last %}&nbsp;{% endunless %}
-          {% endfor %}
-      </p>
-      {%- if site.show_excerpts -%}
-      {{ post.excerpt }}
-      {%- endif -%}
-    </li>
-    {%- endfor -%}
-  </ul>
+        <div class="lead-sidebar">
+            <!-- Next 2 Recent Posts -->
+            {% for post in site.posts limit:2 offset:1 %}
+            <div class="sub-story">
+                <span class="kicker">{{ post.categories | first | default: "Note" }}</span>
+                <h3 class="sub-headline display">
+                    <a href="{{ post.url | relative_url }}" style="text-decoration: none; color: inherit;">
+                        {{ post.title }}
+                    </a>
+                </h3>
+                <p class="sub-excerpt display">
+                    {{ post.description | default: post.excerpt | strip_html | truncatewords: 25 }}
+                </p>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
 
-  <p class="rss-subscribe">subscribe <a href="{{ " /feed.xml" | relative_url }}">via RSS</a></p>
-  <script
-    id="mcjs">!function (c, h, i, m, p) { m = c.createElement(h), p = c.getElementsByTagName(h)[0], m.async = 1, m.src = i, p.parentNode.insertBefore(m, p) }(document, "script", "https://chimpstatic.com/mcjs-connected/js/users/a6efee2001dca0137c16246e9/2ff183a081580bdadb613a575.js");</script>
-  {%- endif -%}
+    <!-- The Archive Grid -->
+    <div class="grid-header">
+        <span class="grid-title">The Archive</span>
+        <a href="#" style="font-family: var(--font-ui); font-size: 0.8rem; color: var(--ink); text-decoration: none;">View All →</a>
+    </div>
 
+    <div class="article-grid">
+        {% for post in site.posts limit:6 offset:3 %}
+        <div class="grid-item">
+            <span class="kicker">{{ post.categories | first | default: "Archive" }}</span>
+            <h3 class="grid-headline display">
+                <a href="{{ post.url | relative_url }}" style="text-decoration: none; color: inherit;">
+                    {{ post.title }}
+                </a>
+            </h3>
+            <p class="grid-excerpt display">
+                {{ post.description | default: post.excerpt | strip_html | truncatewords: 40 }}
+            </p>
+            <div class="author-line">
+                {{ post.date | date: "%b %Y" }}
+            </div>
+        </div>
+        {% endfor %}
+    </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Open Letter on Accelerating European Progress
-description: This letter is directed at all leaders across Europe, to present a set of proposals, which we believe are both feasible and crucial for driving forward the collective potential of our nations.
+description: A letter directed at all leaders across Europe, to present a set of proposals, which we believe are both feasible and crucial for driving forward the collective potential of our nations.
 date: 2024-08-27 13:19:20 +0100
 published: true
 categories: europe technology startups
