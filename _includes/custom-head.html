@@ -1,8 +1,33 @@
-{% if page.lang %}
-<link rel="alternate" hreflang="{{ page.lang }}" href="{{ page.url }}" />
+{% if page.ref %}
+  {% assign languages = "en,pt" | split: "," %}
+  {% for lang in languages %}
+    {% if lang == "en" %}
+      {% assign lang_prefix = "" %}
+    {% else %}
+      {% assign lang_prefix = "/" | append: lang %}
+    {% endif %}
+
+    {% if page.lang == lang %}
+      <link rel="alternate" hreflang="{{ lang }}" href="{{ site.url }}{{ page.url }}" />
+    {% else %}
+      {% assign translated_page = site.pages | where: "ref", page.ref | where: "lang", lang | first %}
+      {% unless translated_page %}
+        {% assign translated_page = site.posts | where: "ref", page.ref | where: "lang", lang | first %}
+      {% endunless %}
+      
+      {% if translated_page %}
+        <link rel="alternate" hreflang="{{ lang }}" href="{{ site.url }}{{ translated_page.url }}" />
+      {% endif %}
+    {% endif %}
+  {% endfor %}
 {% else %}
-<link rel="alternate" hreflang="x-default" href="https://www.santiago-martins.com{{ page.url }}" />
+  {% if page.lang %}
+  <link rel="alternate" hreflang="{{ page.lang }}" href="{{ site.url }}{{ page.url }}" />
+  {% else %}
+  <link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ page.url }}" />
+  {% endif %}
 {% endif %}
+
 <script id="mcjs">
   !function (c, h, i, m, p) { m = c.createElement(h), p = c.getElementsByTagName(h)[0], m.async = 1, m.src = i, p.parentNode.insertBefore(m, p) }(document, "script", "https://chimpstatic.com/mcjs-connected/js/users/a6efee2001dca0137c16246e9/2ff183a081580bdadb613a575.js");
 </script>

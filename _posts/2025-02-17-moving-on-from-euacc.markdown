@@ -4,8 +4,8 @@ title: "Moving on from eu/acc"
 description: "Reflections on eu/acc, its impact, and why I’ve chosen a different path for accelerating European progress."
 date: 2025-02-17 17:55:02 +0000
 published: true
-categories: politics, policy, tech, europe
-tags: politics, policy, tech, europe
+categories: [politics, policy, tech, europe]
+tags: [politics, policy, tech, europe]
 lang: en
 image: assets/images/europe.avif
 ---

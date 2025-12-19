@@ -3,15 +3,17 @@ layout: default
 ---
 
 <div class="top-bar">
+    {% assign current_lang = page.lang | default: site.lang | default: "en" %}
+    {% assign t = site.data.ui_text[current_lang] %}
     <div class="ui" style="font-size: 0.75rem; font-weight: 600; color: var(--ink-light);">
-        {{ page.categories | first | default: "ESSAY" | upcase }}
+        {{ page.categories | first | default: t.essay | upcase | replace: ',', '' }}
     </div>
     <div class="ui" style="font-size: 0.75rem; font-weight: 600;">
         {% assign words = content | number_of_words %}
         {% if words < 360 %}
-          1 MIN READ
+          1 {{ t.min_read }}
         {% else %}
-          {{ words | divided_by: 180 }} MIN READ
+          {{ words | divided_by: 180 }} {{ t.min_read }}
         {% endif %}
     </div>
     <div class="progress-bar"></div>
@@ -19,18 +21,18 @@ layout: default
 
 <article class="article-container" itemscope itemtype="http://schema.org/BlogPosting">
     <header class="article-header">
-        <span class="kicker">{{ page.categories | first | default: "The Manifesto" }}</span>
+        <span class="kicker">{{ page.categories | first | default: t.manifesto | replace: ',', '' }}</span>
         <h1 class="article-title display" itemprop="name headline">{{ page.title }}</h1>
         <div class="article-meta">
             <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-                <span itemprop="name">By {{ page.author | default: site.author }}</span>
+                <span itemprop="name">{{ t.by }} {{ page.author | default: site.author }}</span>
             </span>
             <span>•</span>
             <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
                 {{ page.date | date: "%B %d, %Y" }}
             </time>
             <span>•</span>
-            <span>{{ content | number_of_words }} words</span>
+            <span>{{ content | number_of_words }} {{ t.words }}</span>
         </div>
     </header>
 
@@ -40,20 +42,20 @@ layout: default
 
     <footer class="article-footer">
         <div class="footer-spec">
-            <span>Revision</span>
-            v1.0 — Final
+            <span>{{ t.revision }}</span>
+            v1.0 — {{ t.final }}
         </div>
         <div class="footer-spec">
-            <span>Typeset In</span>
+            <span>{{ t.typeset_in }}</span>
             Instrument Serif & Libre Baskerville
         </div>
         <div class="footer-spec">
-            <span>Word Count</span>
-            {{ content | number_of_words }} Words
+            <span>{{ t.word_count }}</span>
+            {{ content | number_of_words }} {{ t.words | capitalize }}
         </div>
         <div class="footer-spec">
-            <span>Location</span>
-            Lisbon, Portugal
+            <span>{{ t.location }}</span>
+            {{ t.lisbon }}
         </div>
     </footer>
 </article>

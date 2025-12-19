@@ -21,11 +21,15 @@
 
     <div class="mobile-menu-overlay">
         <nav class="mobile-nav">
-            <a href="{{ "/" | relative_url }}" class="mobile-nav-link">Home</a>
+            {% assign current_lang = page.lang | default: site.lang | default: "en" %}
+            {% assign t = site.data.ui_text[current_lang] %}
+            <a href="{{ "/" | relative_url }}" class="mobile-nav-link">{{ t.home }}</a>
             {% assign sorted_pages = site.pages | sort: "title" %}
             {% for p in sorted_pages %}
                 {% if p.title and p.url != "/" and p.url != "/404.html" and p.nav_exclude != true %}
-                <a href="{{ p.url | relative_url }}" class="mobile-nav-link">{{ p.title }}</a>
+                    {% if p.lang == current_lang or (p.lang == nil and current_lang == "en") %}
+                    <a href="{{ p.url | relative_url }}" class="mobile-nav-link">{{ p.title }}</a>
+                    {% endif %}
                 {% endif %}
             {% endfor %}
         </nav>

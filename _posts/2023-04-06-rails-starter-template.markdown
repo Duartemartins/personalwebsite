@@ -5,7 +5,7 @@ description: Rails starter template with user authentication and payment capabil
 date: 2023-04-06 17:13:30 +0100
 published: true
 categories: development
-tags: rails, development
+tags: [rails, development]
 lang: en
 ---
 

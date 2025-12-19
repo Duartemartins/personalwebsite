@@ -4,9 +4,9 @@ title: "White Paper: Políticas Baseadas em Evidência para uma Gestão Sustent�
 description: "Este white paper propõe um conjunto de sete medidas baseadas em evidência, inspiradas em boas práticas internacionais."
 date: 2025-04-09 13:00:29 +0200
 published: true
-categories: migration policy, policy, politics
-tags: migration policy, policy, politics
-lang: portuguese
+categories: [migration policy, policy, politics]
+tags: [migration policy, policy, politics]
+lang: pt
 image: https://ecoonline.s3.amazonaws.com/uploads/2025/04/aima-1.png
 ---
 **Proposta de medidas inspiradas em modelos europeus e anglo-saxónicos, e ajustadas ao contexto português**

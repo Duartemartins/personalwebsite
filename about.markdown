@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+ref: about
 ---
 
 Hello and welcome to my blog! This is where I explore ideas that capture my curiosity: technology, the intricacies of society, and the occasional philosophical musing.  

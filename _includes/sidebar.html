@@ -3,31 +3,48 @@
         <a href="{{ "/" | relative_url }}" class="brand-logo">Duarte's<br>Blog</a>
     </div>
 
+    <div class="lang-switch" style="margin-bottom: 2rem; font-family: var(--font-ui); font-size: 0.8rem;">
+        {% if page.lang == 'pt' %}
+            <a href="{{ '/' | relative_url }}" style="color: var(--ink-light); text-decoration: none;">EN</a>
+            <span style="color: var(--border); margin: 0 0.3rem;">|</span>
+            <span style="color: var(--ink); font-weight: 600;">PT</span>
+        {% else %}
+            <span style="color: var(--ink); font-weight: 600;">EN</span>
+            <span style="color: var(--border); margin: 0 0.3rem;">|</span>
+            <a href="{{ '/pt/' | relative_url }}" style="color: var(--ink-light); text-decoration: none;">PT</a>
+        {% endif %}
+    </div>
+
     <nav class="nav-section">
-        <div class="nav-header">Navigation</div>
-        <a href="{{ "/" | relative_url }}" class="nav-link">Home</a>
+        {% assign current_lang = page.lang | default: site.lang | default: "en" %}
+        {% assign t = site.data.ui_text[current_lang] %}
+        
+        <div class="nav-header">{{ t.navigation }}</div>
+        <a href="{{ "/" | relative_url }}" class="nav-link">{{ t.home }}</a>
         {% assign sorted_pages = site.pages | sort: "title" %}
         {% for p in sorted_pages %}
             {% if p.title and p.url != "/" and p.url != "/404.html" and p.nav_exclude != true %}
-            <a href="{{ p.url | relative_url }}" class="nav-link">{{ p.title }}</a>
+                {% if p.lang == current_lang or (p.lang == nil and current_lang == "en") %}
+                <a href="{{ p.url | relative_url }}" class="nav-link">{{ p.title }}</a>
+                {% endif %}
             {% endif %}
         {% endfor %}
     </nav>
 
     <div style="margin-top: auto;">
-        <div class="nav-header">Connect</div>
-        <a href="mailto:{{ site.email | replace: '(at)', '@' }}" class="nav-link">Email</a>
-        <a href="https://twitter.com/{{ site.twitter_username }}" class="nav-link">Twitter / X</a>
-        <a href="{{ "/feed.xml" | relative_url }}" class="nav-link">RSS Feed</a>
+        <div class="nav-header">{{ t.connect }}</div>
+        <a href="mailto:{{ site.email | replace: '(at)', '@' }}" class="nav-link">{{ t.email }}</a>
+        <a href="https://twitter.com/{{ site.twitter_username }}" class="nav-link">{{ t.twitter }}</a>
+        <a href="{{ "/feed.xml" | relative_url }}" class="nav-link">{{ t.rss }}</a>
         
         <div style="margin-top: 2rem; padding-top: 2rem; border-top: 1px solid var(--border);">
-            <div class="nav-header" style="margin-bottom: 1rem;">Newsletter</div>
+            <div class="nav-header" style="margin-bottom: 1rem;">{{ t.newsletter }}</div>
             <p style="font-family: var(--font-ui); font-size: 0.8rem; color: var(--ink-light); margin-bottom: 1rem; line-height: 1.4;">
-                Subscribe below to receive my latest articles in your inbox.
+                {{ t.subscribe_text }}
             </p>
             <form onsubmit="window.open('https://interessant3.substack.com/subscribe?email=' + this.email.value, '_blank'); return false;" class="sidebar-form">
-                <input type="email" name="email" placeholder="Your email address" class="sidebar-input" required>
-                <button type="submit" class="btn" style="width: 100%; text-align: center; justify-content: center; padding: 0.6rem;">Subscribe</button>
+                <input type="email" name="email" placeholder="{{ t.subscribe_placeholder }}" class="sidebar-input" required>
+                <button type="submit" class="btn" style="width: 100%; text-align: center; justify-content: center; padding: 0.6rem;">{{ t.subscribe_button }}</button>
             </form>
         </div>
     </div>

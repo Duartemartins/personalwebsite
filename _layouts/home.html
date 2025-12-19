@@ -3,20 +3,30 @@ layout: default
 ---
 
 <div class="top-bar">
+    {% assign current_lang = page.lang | default: site.lang | default: "en" %}
+    {% assign t = site.data.ui_text[current_lang] %}
     <div class="date-line">
         {{ site.time | date: "%A, %B %d, %Y" }}
     </div>
     <div class="ui" style="font-size: 0.75rem; font-weight: 600;">
-        ISSUE NO. {{ site.posts | size }}
+        {{ t.issue_no }} {{ site.posts | size }}
     </div>
 </div>
 
 <div class="container">
+    {% assign local_posts = "" | split: "" %}
+    {% for post in site.posts %}
+        {% assign post_lang = post.lang | default: "en" %}
+        {% if post_lang == current_lang %}
+            {% assign local_posts = local_posts | push: post %}
+        {% endif %}
+    {% endfor %}
+
     <!-- Lead Story (Latest Post) -->
-    {% assign lead_post = site.posts.first %}
+    {% assign lead_post = local_posts.first %}
     <div class="lead-story">
         <div class="lead-content">
-            <span class="kicker">{{ lead_post.categories | first | default: "Essay" }}</span>
+            <span class="kicker">{{ lead_post.categories | first | default: t.essay | replace: ',', '' }}</span>
             <h1 class="lead-headline display">
                 <a href="{{ lead_post.url | relative_url }}" style="text-decoration: none; color: inherit;">
                     {{ lead_post.title }}
@@ -34,9 +44,9 @@ layout: default
 
         <div class="lead-sidebar">
             <!-- Next 2 Recent Posts -->
-            {% for post in site.posts limit:2 offset:1 %}
+            {% for post in local_posts limit:2 offset:1 %}
             <div class="sub-story">
-                <span class="kicker">{{ post.categories | first | default: "Note" }}</span>
+                <span class="kicker">{{ post.categories | first | default: t.note | replace: ',', '' }}</span>
                 <h3 class="sub-headline display">
                     <a href="{{ post.url | relative_url }}" style="text-decoration: none; color: inherit;">
                         {{ post.title }}
@@ -52,14 +62,14 @@ layout: default
 
     <!-- The Archive Grid -->
     <div class="grid-header">
-        <span class="grid-title">The Archive</span>
-        <a href="#" style="font-family: var(--font-ui); font-size: 0.8rem; color: var(--ink); text-decoration: none;">View All →</a>
+        <span class="grid-title">{{ t.the_archive }}</span>
+        <a href="#" style="font-family: var(--font-ui); font-size: 0.8rem; color: var(--ink); text-decoration: none;">{{ t.view_all }} →</a>
     </div>
 
     <div class="article-grid">
-        {% for post in site.posts limit:6 offset:3 %}
+        {% for post in local_posts limit:6 offset:3 %}
         <div class="grid-item">
-            <span class="kicker">{{ post.categories | first | default: "Archive" }}</span>
+            <span class="kicker">{{ post.categories | first | default: t.archive | replace: ',', '' }}</span>
             <h3 class="grid-headline display">
                 <a href="{{ post.url | relative_url }}" style="text-decoration: none; color: inherit;">
                     {{ post.title }}

@@ -4,8 +4,8 @@ title: Changing my mind #1
 description: Voting ID requirements don't appear necessary to me anymore.
 date: 2022-09-15 17:27:54 +0100
 published: true
-categories: personal_growth, politics
-tags: personal_growth, politics
+categories: [personal_growth, politics]
+tags: [personal_growth, politics]
 lang: english
 ---
 

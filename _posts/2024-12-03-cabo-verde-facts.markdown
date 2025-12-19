@@ -5,8 +5,8 @@ description: "A few interesting facts about the developing island nation and how
 date: 2024-12-03 19:15:16 +0000
 image: https://images.unsplash.com/photo-1714829732386-6bcf72919256?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FibyUyMHZlcmRlfGVufDB8fDB8fHwy
 published: true
-categories: travel, geography, economics
-tags: travel, geography, economics
+categories: [travel, geography, economics]
+tags: [travel, geography, economics]
 lang: en
 ---
 
