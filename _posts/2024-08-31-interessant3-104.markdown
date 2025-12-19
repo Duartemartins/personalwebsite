@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Interessant3 #104"
+description: "Basecamp's Origin, Dutch Disease in Portugal, Norse Greenland's Rise and Fall | Three Interesting Things for W/C 2024-08-25"
+date: 2024-08-31 07:00:51 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+###  The Birth of Basecamp: A Startup Success Story
+
+Jason Fried narrates the origin story of Basecamp, revealing how it evolved from a small web design company into a software giant. The journey highlights the power of simplicity, focus, and understanding user needs, making it an essential read for aspiring entrepreneurs.  
+[Read more](https://medium.com/@jasonfried/basecamp-the-origin-story-f509fdd725f8#.rhxmmqqba)
+
+###  Portugal's Dutch Disease: An Economic Dilemma
+
+This study from the University of Coimbra dives into how international aid and EU structural funds have inadvertently led to economic imbalances in Portugal, resembling the effects of Dutch Disease. It discusses potential solutions, such as investment in infrastructure, to mitigate these adverse effects, offering insights into economic policy and strategy.  
+[Read more](https://repec.uc.pt/gmf/wpaper/wpgemf/gemf_2013-05.pdf)
+
+###  The Viking Saga in Greenland: Survival and Decline
+
+Interestingly, when the Norse Vikings first colonised Greenland there were no other people living there, however, it was the Thule people who arrived a few centuries later that survived its harsh winters and climate change during the Little Ice Age, ultimately becoming the Inuit of today. Intriguingly, there’s evidence of ivory trade between Greenland and _Ukraine_, showing how globalised the world was even in Medieval times.  
+[Read more](https://thevikingherald.com/article/the-rise-and-fall-of-the-norse-settlements-in-greenland/220) | [Second link](https://royalsocietypublishing.org/doi/10.1098/rspb.2021.2773)

@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Interessant3 #82"
+description: "Future of Work, Science Simplicity, Digital Solitude | Three Interesting Things for W/C 2024-03-24"
+date: 2024-03-30 09:00:52 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1.  **Plentiful High-Paying Jobs in the Future thanks to AI?**  
+ dives into how the rise of robots and tech isn't a job stealer but a job creator, sparking a transformation that could lead to work we've never even dreamed of. He uses the concept of comparative advantage to explain this – a principle suggesting that as automation takes over high value tasks, humans will shift to jobs where we are comparatively less bad. An interesting counterpoint to claims that AI will automate our jobs away.  
+[Read more about the future job market](https://www.noahpinion.blog/p/plentiful-high-paying-jobs-in-the?utm_source=tldrnewsletter)
+2.  **The Elegance of Simplicity in Science**  
+In a remarkable demonstration of brevity and insight, Jack Dunitz's one-page paper breaks down the complex concept of the entropic cost of bound water molecules, presenting a universal and immensely applicable result through simple calculations. A great example of the power of clarity and brevity in scientific communication.  
+[Discover the simplicity of science](https://www.science.org/doi/10.1126/science.264.5159.670)
+
+1.  **The End of Solitude in the Digital Age**
+
+> "The smartphone provided a new technique to banish these remaining slivers of solitude: the quick glance. At the slightest hint of boredom, you can now surreptitiously glance at any number of apps or mobile-adapted websites that have been optimized to provide you an immediate and satisfying dose of input from other minds. It’s now possible to completely banish solitude from your life. Thoreau and Storr worried about people enjoying less solitude. We must now wonder if people might forget this state of being altogether."
+
+Cal Newport, _Digital Minimalism_

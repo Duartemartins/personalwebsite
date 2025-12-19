@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Interessant3 #26"
+description: "Three Interesting Things for W/C 2022-02-05"
+date: 2023-02-10 08:01:10 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1. Unfortunately the rise of negative news is corroborated by data. My take on this is don’t take the media so seriously, and make sure to switch off periodically.
+2. An archive of the history of political and economic liberalism by country, with a focus on academia, the media, and government. This makes for an interesting read. I learnt, for example, of the importance of people like Francisco Suárez and the Salamanca school in 16th century Spain in developing liberalism: https://econjwatch.org/ancillary/CLinEcon.html
+3. How a 19th century apparition of the Virgin Mary in rural Portugal and Russia’s current invasion of Ukraine are linked, via Rome:
+
+> In 1917, Our Lady of Fatima said that in order to avoid war, famine and persecution of the Church and the Holy Father, one should ask for Russia’s consecration to Her Immaculate Heart and the sacrifice of Holy Communion with a view to rewarding the first Saturdays of the month. If its aspirations are met, Russia will be converted and peace will prevail.
+
+https://the-blindspot.com/ww3-watch-an-unexpected-intervention-from-the-vatican/

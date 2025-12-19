@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Interessant3 #48"
+description: "Three Interesting Things for W/C 2023-07-30"
+date: 2023-08-06 18:24:43 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1. National histories of slavery and colonialism are neither necessary nor sufficient conditions for a country to have labour market discrimination. https://sociologicalscience.com/download/vol-6/june/SocSci\_v6\_467to496.pdf ! 
+2. Psychology has a very poor record on replication, however the study below highlights the top 10 replicated findings from behavioural genetics. I recommend reading the entire thing, but the conclusion has a particularly interesting passage:“What we like best about some of these findings is that they are counterintuitive. For example, who would have thought that the heritability of intelligence increases throughout development (_Finding 5_) or that environmental measures show genetic influence (_Finding 7_) or that the abnormal is normal (_Finding 10_)? Another feature of these findings is that each is falsifiable.” https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4739500/ 
+3. An excellent summary of recent longevity research, with a handy list of behaviours and compounds to improve it, including a great pretext to drink a lot of coffee! https://milkyeggs.com/biology/lifespan-extension-separating-fact-from-fiction/ 
+
+#### This newsletter is brought to you by DeepDive
+
+Amplify your performance and client satisfaction with DeepDive - the comprehensive SaaS analytics solution for agencies. Seamlessly aggregate all of your clients' web and marketing analytics, unearth deep insights, and deliver AI-powered, white-labeled presentations instantly.
+
+!
+
+[https://trydeepdive.com](https://trydeepdive.com?utm_source=substack&utm_medium=newsletter)

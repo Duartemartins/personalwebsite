@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Interessant3 #101"
+description: "Perceived Age, Swedish Billionaires, Cancer Target Pitfalls | Three Interesting Things for W/C 2024-08-04"
+date: 2024-08-10 13:59:05 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+###  **Perceived Age: Does It Really Matter?**
+
+This blog post discusses how our perception of time accelerates as we age due to diminishing dopamine levels and the reduction of novel experiences. It highlights how childhood memories feel longer because they are filled with new experiences, while adulthood, often repetitive, makes time seem to pass faster. By seeking novelty and embracing new challenges, we can stretch our subjective sense of time, making life feel richer and longer.  
+[Read more](https://suryad.com/blog/percieved-age/)
+
+###  **Sweden: A Socialist Paradise for Billionaires?**
+
+Sweden, often seen as a socialist haven on American media, surprisingly has nearly twice as many billionaires per capita as the capitalist United States. Of course, in reality Sweden is not socialist, and is significantly [more economically liberal](https://www.heritage.org/index/pages/all-country-scores) than the USA.
+
+!
+
+[Explore the tweet](https://x.com/eyeslasho/status/1818283546798346668)
+
+###  **Cancer Research: Avoiding Common Pitfalls**
+
+William Kaelin offers a crucial review of common mistakes in cancer target validation, essential reading for researchers. He highlights simple yet frequent statistical and methodological errors, providing a checklist that could be lifesaving in the quest for effective cancer treatments.  
+[Check it out](https://www.nature.com/articles/nrc.2017.32)

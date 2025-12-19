@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Interessant3 #16"
+description: "Three Interesting Things for W/C 2022-11-06"
+date: 2022-11-13 22:00:36 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1. “(…) we find that the taxation of human capital has a substantial negative effect on its accumulation. This in turn reduces innovation and, consequently, the income growth rate.” [https://onlinelibrary.wiley.com/doi/full/10.1111/ijet.12346](https://onlinelibrary.wiley.com/doi/full/10.1111/ijet.12346)
+2. Illuminated nets reduce bycatch while keeping profits up - a way to save sharks and turtles from fishing nets: [https://www.science.org/content/article/these-simple-green-lights-could-save-sharks-and-turtles-fishing-nets](https://www.science.org/content/article/these-simple-green-lights-could-save-sharks-and-turtles-fishing-nets)
+3. Based on how prices are determined, China can hardly be called a socialist economy. If anyone has more up to date data on this, please share. ![https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5cf582e6-792d-464c-906d-8ad687410758_1446x876.png](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/8d661fe5-8887-4247-906b-d163b410c1e4_1446x876.png)Looking for Data Visualisation, Reporting, or Data Analysis services? Check out [Quantica](https://quantica.carrd.co/). !

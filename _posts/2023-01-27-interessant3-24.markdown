@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Interessant3 #24"
+description: "Three Interesting Things for W/C 2022-01-22"
+date: 2023-01-27 12:54:43 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1. A study looking at 68 years of the Belgian coal industry in the 19th and 20th centuries shows that the Marxian idea that wages would always decline due to capitalist monopsony is wrong. It also shows that the main driver of wage growth was not Union membership, but effective antitrust laws. Competition is good for workers.
+
+1. This is a nice write-up on the potential of Green Hydrogen. Admittedly, I’m personally very sceptical of the viability of this technology, but the innovation curves seem to be approaching similar levels to those of wind and solar. Any thoughts on this?
+[
+ !Noahpinion
+
+I come bringing good news about hydrogen
+
+The is a techno-optimist blog, and it’s time for another techno-optimist post. By now, everyone knows about the importance of solar and wind power. Some people still argue against these technologies, but the brute logic of falling costs has simply overwhelmed the naysayers…
+
+Read more
+
+3 years ago · 190 likes · 126 comments · Noah Smith
+](https://noahpinion.substack.com/p/i-come-bringing-good-news-about-hydrogen?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
+2. The world’s largest shipping company, the Mediterranean Shipping Company, is rerouting its fleet to avoid collisions with endangered blue whales off the southern tip of Sri Lanka. The company is working with scientists and marine experts to modify its navigation guidance to reduce the risk of a ship striking a whale by 95%.[https://www.businessinsider.com/worlds-largest-container-line-reroutes-around-endangered-blue-whales-2022-9](https://www.businessinsider.com/worlds-largest-container-line-reroutes-around-endangered-blue-whales-2022-9)
+
+If you are looking for Data Visualisation, Reporting, or Data Analysis services, check out [Quantica](https://quantica.carrd.co/).

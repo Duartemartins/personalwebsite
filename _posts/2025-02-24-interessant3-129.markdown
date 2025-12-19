@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Interessant3 #129"
+description: "AI Scientists, British Financial Power, Board Diversity | Three Interesting Things for W/C 2025-02-23"
+date: 2025-02-24 07:01:54 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+### ** AI Beats PhDs in Literature Reviews**
+
+A new AI agent, **PaperQA2** , is making waves in scientific research. Developed by FutureHouse, it’s the first AI system to outperform PhD and postdoc-level biologists in literature review tasks. Not only does it summarise research more accurately, but it also powers **WikiCrow** , an AI that generates Wikipedia-style articles with higher factual accuracy than human-written ones. This could dramatically change how scientists interact with research. Demo in the link:
+
+ [Read more](https://x.com/SGRodriques/status/1833908643856818443)
+
+### ** The Mayfair Set: SAS Soldiers Turned Corporate Raiders**
+
+Adam Curtis’s documentary _The Mayfair Set_ explores how a group of buccaneering elite financiers who gambled together at an exclusive Mayfair club reshaped global capitalism after WWII. The first episode follows the rise of David Stirling, formerly the founder of the SAS special forces unit of the British military, who later used his military connections to build a mercenary empire. His world of covert operations and private wealth would inspire the rise of aggressive corporate raiders like Jim Slater, whose financial manoeuvres would transform British business.
+
+ [Watch here](https://www.youtube.com/watch?v=oz0WPMpx71s)
+
+### ** The Diversity Premium**
+
+A recent study examines how markets reacted to California courts overturning corporate board diversity mandates. The verdict? Perhaps counterintuitively, companies _increased_ in value, and those that had **not** previously been in compliance saw even more significant stock gains, suggesting investors viewed the quotas as a cost rather than a value driver. This challenges the argument that mandated diversity boosts firm performance - the so called ‘diversity premium’ - at least in the eyes of the market. The study does not explore why this is, but it raises doubts about the value of government-imposed quotas.
+
+ [Read the study](https://onlinelibrary.wiley.com/doi/10.1111/jels.12405)

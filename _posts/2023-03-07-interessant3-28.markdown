@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Interessant3 #28"
+description: "Three Interesting Things for W/C 2022-02-19"
+date: 2023-03-07 07:31:07 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+This week is a double issue due to being AFK, and I’ve also left an easter egg link below, enjoy!
+
+1. Market participation make people act more morally towards strangers. 
+
+> “We document a robust positive association between market participation and moral behaviour towards anonymous others. Market-integrated participants display universalism in moral decision-making, whereas non-market participants make more moral decisions towards co-villagers.”
+
+[https://academic.oup.com/ej/article-abstract/133/650/537/6712329](https://academic.oup.com/ej/article-abstract/133/650/537/6712329?redirectedFrom=fulltext)
+2. SE Asian countries have reduced measles cases by 90% in 17 years. Really impressive and [probably not on the news](https://www.theguardian.com/commentisfree/2018/feb/17/steven-pinker-media-negative-news)! See the correlation with vaccinations: !
+3. The concept of Holacracy is an interesting one for organisational governance, although it apparently means a lot more time in meetings and existing real-world examples aren’t exactly great: 
+
+> “A method of decentralized management and organizational governance, which claims to distribute authority and decision-making through a holarchy of self-organizing teams rather than being vested in a management hierarchy. Holacracy has been adopted by for-profit and non-profit organizations in several countries.”
+
+[https://en.wikipedia.org/wiki/Holacracy](https://en.wikipedia.org/wiki/Holacracy)
+
+Unlock the potential of your data with Deep Dive Data. We're a cost-effective subscription-based data analysis agency specializing in turning complex data into actionable insights. Our experts offer customized solutions, including data visualization, modeling, and predictive analytics. Whether you're a large or small business, we can help you make informed decisions and drive growth. [Contact us today](https://deepdivedata.agency/) to learn more.
+
+!
+
+[https://deepdivedata.agency/](https://deepdivedata.agency/)

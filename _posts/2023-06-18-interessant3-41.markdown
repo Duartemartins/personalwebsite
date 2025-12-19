@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Interessant3 #41"
+description: "Three Interesting Things for W/C 2023-06-11"
+date: 2023-06-18 23:05:07 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+Double issue due to being AFK
+
+1. Adolescent risk behaviours declined markedly in high-income countries, 1999–2019, partly due to a decrease in unstructured face-to-face time with friends. [https://www.sciencedirect.com/science/article/pii/S0277953622009224](https://www.sciencedirect.com/science/article/pii/S0277953622009224)
+2. !Economic growth in advanced economies is weak, growing less than 2% in the year before COVID-19, and per-person GDP growth in the median rich country is predicted to fall below 1.5% a year by 2027. However, modern politicians are less likely to advocate for free markets and often express anti-growth sentiments. They are more inclined to government control over the economy and exhibit a general apathy towards growth. According to this article, big reasons for that are ageing populations, social media, and high levels of private debt, all keeping politicians from engaging in long term thinking. [https://www.economist.com/finance-and-economics/2022/12/11/how-the-west-fell-out-of-love-with-economic-growth](https://www.economist.com/finance-and-economics/2022/12/11/how-the-west-fell-out-of-love-with-economic-growth) [Paywall]
+3. Researchers from various American universities document significant discrepancies between companies' disclosed commitments and their hiring practices, and classify firms that discuss diversity more than their actual employee gender and racial diversity warrants as “diversity washers." [They] find diversity-washing firms obtain superior scores from environmental, social, and governance (ESG) rating organizations and attract investment from institutional investors with an ESG focus. These outcomes occur even though diversity-washing firms are more likely to incur discrimination violations and pay larger fines for these actions.[https://papers.ssrn.com/sol3/papers.cfm?abstract\_id=4298626](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4298626)
+
+#### This newsletter is brought to you by DeepDive
+
+Amplify your performance and client satisfaction with DeepDive - the comprehensive SaaS analytics solution for agencies. Seamlessly aggregate all of your clients' web and marketing analytics, unearth deep insights, and deliver AI-powered, white-labeled presentations instantly.
+
+!
+
+[https://trydeepdive.com](https://trydeepdive.com)

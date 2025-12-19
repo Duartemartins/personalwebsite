@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Interessant3 #64"
+description: "Three Interesting Things for W/C 2023-11-19 | The Income Gap Over Two Centuries, Remembering John Tooby, and Javier Milei's Vision"
+date: 2023-11-25 14:54:51 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1. ** The Income Gap Over Two Centuries:** A captivating graph that illustrates the income share of the wealthiest 1% in various countries across the last 200 years. It is interesting to see the reduction in inequality over time in social market economies, and also to note that the top 1% in China receive a much larger share of income than France, and larger than the UK. The long term trends are also different, perhaps that could partly be explained by the stages of development these countries find themselves in. !
+2. ** Remembering John Tooby:** Recently passed, John Tooby was a pioneering figure in evolutionary psychology. To give one example of his impact, his work on "Coalitional Instincts" delved into how group affiliations can impact individual rationality, particularly in ideologically united groups. The evolution of these instincts was crucial for our ancestors to successfully compete for resources, shifting power from solitary individuals to coordinated groups, however, because they drive individuals to express beliefs and opinions that affirm their identity within a group, they often lead to irrational or extreme beliefs. Tooby’s contributions have greatly influenced our comprehension of human psychology and social behaviour.Read more about this idea [here](https://www.edge.org/response-detail/27168).
+3. ** Javier Milei - Argentina's New Direction:** Argentina's newly elected President Javier Milei, an eccentric academic economist, shares his bold vision for the country in a comprehensive interview given to The Economist. His Anarco-Capitalist philosophy and unique propositions, such as the dollarisation of Argentina's economy, mark a significant shift in the nation's political landscape. Interesting, at the very least.You can find the interview [here](https://www.economist.com/news/2023/09/07/an-interview-with-javier-milei) (paywall).
+
+#### This newsletter is brought to you by websummariser
+
+websummariser is an AI summarisation tool for the intellectually curious. Effortlessly condense vast expanses of web content into digestible insights with a single click. Delve into a wide array of topics and transform your reading experience into a more manageable and efficient venture. Your pathway to clearer understanding starts at [websummariser.com](https://www.websummariser.com/).

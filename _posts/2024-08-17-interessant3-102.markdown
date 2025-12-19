@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Interessant3 #102"
+description: "Innovation, Urban Paradoxes, Twin Studies | Three Interesting Things for W/C 2024-08-11"
+date: 2024-08-17 11:18:26 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+###  Embrace the Suck: Why Bad Ideas Can Lead to Great Success
+
+It's easy to dismiss ideas that initially seem flawed. But according to Jason Cohen, the success of an idea often hinges more on execution, persistence, and adaptability than on the idea itself. The process of refining a "bad" idea, learning from early failures, and pivoting when necessary can be more valuable than starting with a seemingly perfect concept. This article argues that the journey of turning a bad idea into a successful venture is a critical part of the creative process. So, instead of waiting for the perfect idea, start with what you have—no matter how imperfect it seems—and let the process of iteration guide you to success.
+
+ [Read more here](https://blog.asmartbear.com/your-idea-sucks-now-go-do-it-anyway/)
+
+###  The Empty Quadrant: The Housing Paradox
+
+There are cities that have high housing costs, and cities that build a lot, but no city builds a lot of housing and still sees very high costs. This observation, replicated in research across various countries, demonstrates the clear relationship between supply and prices. Strangely, policy makers are often more keen on subsidising demand, ignoring this evidence.
+
+![Image](/assets/images/substack/147812079-a95733c2.png)
+
+ [Explore the topic](https://x.com/JeremiahDJohns/status/1811478998825992690)
+
+###  Genetics, Environment, and the Unexplained: Norway’s Twins Study
+
+What shapes our life outcomes—genes, upbringing, or something else entirely? A fascinating study from Norway on twins reveals that genetics account for a staggering 35-45% of class and status outcomes, shared environment merely 10-15%, and the rest? It’s a mix of random chance, individual choices, and measurement errors. This challenges the simplistic views on social mobility and inheritance often debated in sociology.
+
+ [Discover more](https://x.com/whyvert/status/1822795512145203655)

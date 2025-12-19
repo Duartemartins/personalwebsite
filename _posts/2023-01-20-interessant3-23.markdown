@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Interessant3 #23"
+description: "Three Interesting Things for W/C 2023-01-15"
+date: 2023-01-20 18:07:54 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1. The Covid-19 pandemic has really put health systems under strain. Le Monde reports that Single Payer healthcare systems (AKA Beveridge systems) in particular are not in good shape, and Tyler Cowen argues here that this is an inevitable consequence of their design, not due to other reasons like austerity: [https://marginalrevolution.com/marginalrevolution/2022/09/the-evolution-of-single-payer-health-insurance.html](https://marginalrevolution.com/marginalrevolution/2022/09/the-evolution-of-single-payer-health-insurance.html)
+2. [The history of the exocentric compound noun](https://substack.com/redirect/a3f344d8-924c-4ac6-95c7-f3ec03c27654?r=b5lkt) : although English usually combines verbs and nouns in as $NOUN-$VERBER (eg “firefighter”, “giftgiver”), some lower-class people between 1550 and 1700 experimented with an alternative form, $VERB\_$NOUN. Their dialect survives in a few words most relevant to seedy 17th century life, like “pickpocket”, “turncoat”, “cutthroat”, and “sellsword.
+3. An essay by feminist activist Jo Freeman about living in a commune with no hierarchy: [https://www.jofreeman.com/joreen/tyranny.htm](https://www.jofreeman.com/joreen/tyranny.htm)
+
+If you are looking for Data Visualisation, Reporting, or Data Analysis services, check out [Quantica](https://quantica.carrd.co/).

@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Interessant3 #17"
+description: "Three Interesting Things for W/C 2022-11-13"
+date: 2022-11-16 22:01:01 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1. Contrary to what is usually said, Millenials in the USA are as wealthy as the preceding generations. ! [https://economistwritingeveryday.com/2021/09/01/who-is-the-wealthiest-generation/](https://economistwritingeveryday.com/2021/09/01/who-is-the-wealthiest-generation/)
+2. Second hand solar panels are a big deal in the developing world: [https://www.bloomberg.com/opinion/articles/2021-08-25/used-solar-panels-are-powering-the-developing-world](https://www.bloomberg.com/opinion/articles/2021-08-25/used-solar-panels-are-powering-the-developing-world)
+3. As of 2020, there has been a very large decrease in incarcerations in the USA: ![https://www.vera.org/downloads/publications/people-in-jail-and-prison-in-2020.pdf](https://www.vera.org/downloads/publications/people-in-jail-and-prison-in-2020.pdf)
+
+Looking for Data Visualisation, Reporting, or Data Analysis services? Check out [Quantica](https://quantica.carrd.co/).

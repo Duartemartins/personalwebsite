@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Interessant3 #77"
+description: "Three Interesting Things for W/C 2024-02-18 | Progressive Politics, Private Equity & Airports, Equity Insights"
+date: 2024-02-24 08:01:06 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1.  **Navigating the Future of Progressive Politics with Tony Blair** In a recent speech, Tony Blair shares a vision for the future of progressive politics, mentioning more than a few interesting insights and ideas. Blair’s analysis is highly recommended for anyone interested in the direction of global political trends and the potential for transformative change. Watch below: 
+2.  **The Hidden Dynamics of Private Equity Owning Airports** A detailed thread by unravels the complex implications of private equity firms acquiring airports, a trend that’s reshaping the aviation industry. It sheds light on how these acquisitions impact airport operations, infrastructure investments, and ultimately, the passenger experience. It’s a revealing look into the financial manoeuvres behind the scenes and their real-world consequences for travellers and the aviation sector at large. [Read the thread](https://x.com/cremieuxrecueil/status/1759993280832369004?s=46).
+
+1.  **Equity 101: Lessons from Joining a Unicorn** Navigating the world of equity in startups can be daunting, especially when joining a unicorn company. This brilliant article, shared as a GitHub “gist”, offers valuable lessons and personal insights on what to know about equity before diving into the startup world. [A must-read](https://gist.github.com/yossorion/4965df74fd6da6cdc280ec57e83a202d) for anyone considering a leap into high-growth companies.

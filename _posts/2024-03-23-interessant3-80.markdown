@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Interessant3 #80"
+description: "Three Interesting Things for W/C 2024-03-10 | Thermodynamics of Computation, Violence Insights, AI Video Generation"
+date: 2024-03-23 08:00:14 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1.  **Merging Disciplines: The Brilliance of Computational Thermodynamics**  
+Charles Bennett's pioneering work integrates the fields of thermodynamics, computation, and molecular biology, highlighting a groundbreaking interdisciplinary approach. His 1982 paper illustrates how these realms interconnect and influence each other, suggesting profound implications for future technological advancements and our understanding of the natural world.  
+[Read more about Bennett's insights here](https://sites.pitt.edu/~jdnorton/lectures/Rotman_Summer_School_2013/thermo_computing_docs/Bennett_1982.pdf)
+2.  **Taleb's Perspective on Violence**  
+Nassim Nicholas Taleb's paper on violence is an exploration of its statistical and philosophical underpinnings. He delves into the unpredictability and variance inherent in violent acts, critiquing common perceptions and models that attempt to simplify or predict these complex phenomena. Taleb emphasises the fat-tailed nature of violence distributions, suggesting that extreme events are more common and impactful than traditional models account for. In essence, he argues that the potential for violence has massively increased over time, contrary to the argument made by Steven Pinker that violence has and will probably continue to reduce.  
+[Explore Taleb's detailed perspective on violence](https://www.fooledbyrandomness.com/violence.pdf)
+
+1.  **Innovation in AI: Stability AI's Video Generation Breakthrough**  
+You may have seen OpenAI’s sneak peek of their video generation model. European startup Stability AI has leapfrogged them and released a new video generation model that is already available for use. The possibilities are mind-boggling.  
+[Check out Stability AI's new video generation model](https://stability.ai/stable-video)

@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Interessant3 #19"
+description: "Three Interesting Things for W/C 2022-12-18"
+date: 2022-12-19 12:01:15 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1. Existence of Monasteries as a predictor of Innovation: 
+2. There will be other significant factors, namely policy, but it’s striking how technology has not managed to sufficiently improve productivity in American education, F&B, and healthcare: ![https://www.cato.org/sites/cato.org/files/styles/pubs_2x/public/2021-05/lincicomee4.jpg?itok=RiF09sXn](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6d2deed0-7965-448c-aff1-19f8239b49f3_700x811.jpeg)
+3. Funding Public Goods, a great essay on how the blockchain can incentivise the creation of public goods: [https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c](https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c)
+
+If you are looking for Data Visualisation, Reporting, or Data Analysis services, check out [Quantica](https://quantica.carrd.co/).

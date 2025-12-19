@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Interessant3 #116"
+description: "NMN & NR Trials , Virtuous-Victim Signalling , Green Policies & Nuclear Energy | Three Interesting Things for W/C 2024-11-17"
+date: 2024-12-01 17:01:07 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+A double-post this week dear reader, as I have been on holiday. Enjoy.
+
+###  **NMN & NR: The Science Behind Longevity Molecules**
+
+A new review unpacks the roles of nicotinamide mononucleotide (NMN) and nicotinamide riboside (NR), both crucial precursors for NAD+, a molecule essential for cellular energy and longevity. The review dives into their functions, comparing their transport mechanisms, systemic effects, and safety profiles in preclinical and clinical trials. Evidence shows NR’s potential in neurodegeneration due to its ability to cross the blood-brain barrier, while NMN excels in systemic energy restoration and reducing inflammation. Although promising, further research is needed to refine their long-term applications and optimal dosing.
+
+[Read More](https://x.com/davidasinclair/status/1860320475043209428) in a thread by Prof. David Sinclair
+
+###  **The Dark Side of Virtuous-Victim Signalling**
+
+A recent study by Prof. Timothy Bates of Edinburgh University explores the phenomenon of **“virtuous-victim signalling,”** where individuals combine expressions of suffering (victimhood) with displays of moral righteousness (virtue) to secure social and material benefits. This behaviour is linked to **“Dark Triad”** traits—Narcissism, Machiavellianism, and Sadism—and is often a deliberate strategy to manipulate others. By exploiting communal trust and the natural tendency to support perceived victims, these individuals gain resources and moral protection, often at the expense of genuine victims. This reveals a darker, self-serving side to virtue and victimhood in social contexts.
+
+[Explore the Research](https://www.sciencedirect.com/science/article/pii/S0191886924004240)
+
+###  **Taxpayer-Funded Green Campaigns Against Nuclear Energy**
+
+An investigative report by journalist Morten Freidel unveils the misuse of public funds by the German Green party to propagate anti-nuclear sentiment globally. Documents from Germany’s committee of inquiry into the nuclear phase-out reveal that the Federal Environment Agency allocated €250,000 for a study on nuclear power’s climate impact, but internal papers show the results were predetermined. The study’s goal—carried out by an anti-nuclear organisation—was to declare nuclear energy unsustainable, despite scientific evidence acknowledging its low-carbon benefits. This ideological stance directly contradicts reports from bodies like the IPCC, which recognise nuclear power as a critical tool for climate protection. Such actions demonstrate how Green ideology can distort scientific findings, shaping energy policy based on beliefs rather than evidence.
+
+[Discover the Findings](https://threadreaderapp-com.translate.goog/thread/1859554264101671370.html?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en-US&_x_tr_pto=wapp)

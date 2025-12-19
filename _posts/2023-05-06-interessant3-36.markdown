@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Interessant3 #36"
+description: "Three Interesting Things for W/C 2022-04-23"
+date: 2023-05-06 13:01:33 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+Double issue this week due to missing last week - apologies.
+
+1. American millennials are roughly equal in wealth per capita to baby boomers and Gen X at the same age. [https://economistwritingeveryday.com/2022/12/21/the-wealth-of-generations-latest-update/](https://economistwritingeveryday.com/2022/12/21/the-wealth-of-generations-latest-update/)
+2. The complete case for nuclear, a webpage addressing all of the arguments in favour and against nuclear power. [https://environmentalprogress.org/the-complete-case-for-nuclear](https://environmentalprogress.org/the-complete-case-for-nuclear)
+3. The Price Specie Flow Mechanism (PSFM) is an economic theory that describes the adjustment process in international trade and capital flows, which helps maintain balance in the global economy. This concept was first introduced by Scottish economist David Hume in the 18th century, and it mainly focuses on the relationship between price levels, gold (or specie) flows, and exchange rates in a system with a gold standard or fixed exchange rates.Here's a step-by-step explanation of the price specie flow mechanism:
+  1. Trade Imbalance: Assume there are two countries, A and B. Country A has a trade surplus, meaning it exports more goods and services than it imports from Country B. In contrast, Country B has a trade deficit, as it imports more goods and services than it exports to Country A.
+  2. Specie Flow: In a gold standard system, international trade is settled using gold (or specie) as the medium of exchange. As a result, gold flows from Country B (deficit country) to Country A (surplus country) as payment for the trade imbalance.
+  3. Money Supply and Price Levels: The gold inflow to Country A increases its money supply, while the outflow of gold from Country B decreases its money supply. According to the Quantity Theory of Money, an increase in the money supply leads to an increase in price levels, while a decrease in the money supply leads to lower price levels. Consequently, Country A experiences inflation, while Country B experiences deflation.
+  4. Adjustment Process: The inflation in Country A makes its goods and services more expensive relative to those of Country B. Conversely, the deflation in Country B makes its goods and services cheaper relative to those of Country A. This change in relative prices encourages consumers in both countries to buy more goods and services from Country B and fewer goods and services from Country A.
+  5. Rebalancing of Trade: As a result of the adjustment in relative prices, the trade imbalance between the two countries starts to correct itself. Country A's exports decrease, and its imports increase, while Country B's exports increase, and its imports decrease. This process continues until the trade balance between the two countries is restored, and the flow of gold (specie) stabilizes.
+In summary, the price specie flow mechanism is a self-adjusting process that helps to correct imbalances in international trade by altering price levels and gold flows between countries. It is important to note that this mechanism primarily applies to economies operating under a gold standard or fixed exchange rate system, and its relevance has diminished in the modern era of floating exchange rates and fiat currencies.[https://en.wikipedia.org/wiki/Price%E2%80%93specie\_flow\_mechanism](https://en.wikipedia.org/wiki/Price%E2%80%93specie_flow_mechanism)
+
+#### This newsletter is brought to you by Deep Dive Data.
+
+Unlock the potential of your data with Deep Dive Data. We're a cost-effective subscription-based data analysis agency specializing in turning complex data into actionable insights. Our experts offer customized solutions, including data visualization, modeling, and predictive analytics. Whether you're a large or small business, we can help you make informed decisions and drive growth. [Contact us today](https://deepdivedata.agency/) to learn more.
+
+!
+
+[https://deepdivedata.agency/](https://deepdivedata.agency/)

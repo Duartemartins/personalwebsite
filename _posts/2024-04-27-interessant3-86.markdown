@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Interessant3 #86"
+description: "Latin American Development, Ergodicity, Appenzell Culture | Three Interesting Things for W/C 2024-04-21"
+date: 2024-04-27 11:58:51 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1.  **Latin America's Progress: Overcoming Old Barriers**  
+In a detailed post, discusses how several countries in Latin America are starting to overcome their long-time economic and social issues. While the region missed “The Great Egalitarian Levelling” of the 20th century, countries that have focused on improving education and economic growth have managed to reduce inequality and increase wealth. A hopeful look!  
+ [Read more about Latin America's progress](https://www.noahpinion.blog/p/how-latin-america-started-to-beat)
+2.  **Understanding Ergodicity in Probability Theory**  
+In a lecture at [Gresham College](https://en.wikipedia.org/wiki/Gresham_College), Professor [Ole Peters](https://ergodicityeconomics.com/author/olebpeters/) explains the concept of ergodicity and its consequences on everything from science to betting. Covering the history of probability theory, this video provides a detailed explanation of how ergodicity helps us understand complex systems and make better decisions. **This is, in my view, one of the most mind-blowing videos on all of Youtube.**  
+[Watch the lecture on ergodicity](https://youtu.be/f1vXAHGIpfc?feature=shared)
+
+1.  **The Rich Culture of Appenzell, Switzerland**  
+In one of the most interesting threads I’ve ever read on Twitter, a Swiss native dives deep into the heart of one of Europe’s wealthiest and most culturally rich regions: Appenzell. The thread covers everything from fashion, naming conventions, the local geography and of course the region’s history. Here’s a sneak peek of this region in 21st century:
+
+![Image](/assets/images/substack/144067839-2a6bd55b.jpeg)
+
+[Explore Appenzell's culture in the thread here](https://x.com/womanoppressor/status/1433555808562778117?s=46)

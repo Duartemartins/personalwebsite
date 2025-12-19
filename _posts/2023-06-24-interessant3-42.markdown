@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Interessant3 #42"
+description: "Three Interesting Things for W/C 2022-06-18"
+date: 2023-06-24 08:01:05 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1. Portugal's discovery and plunder of Brazilian gold ended up causing a huge economic decline. By 1800, Portugal’s GDP was 40% lower vs counterfactual. An example of “Dutch Disease” and yet more evidence that mercantilism was economic nonsense. !
+2. These researchers look into just how political climate change communications should be in the USA, and posit that conservatives (in the American sense) have the opposite reaction to that which is intended by communications which are more ideological. This further exacerbates political polarisation and warrants a shift in scientific communication policy. [https://link.springer.com/article/10.1007/s10584-022-03372-5](https://link.springer.com/article/10.1007/s10584-022-03372-5)
+3. On the theme of unintended consequences, this study on rent control joins the very large heap of evidence showing “tenants who gained the most from rent control had higher incomes and were more likely to be white, while the owners who lost the most had lower incomes and were more likely to be minorities. For properties with high-income owners and low-income tenants, the transfer of wealth was close to zero. Thus, to the extent that rent control is intended to transfer wealth from high-income to low-income households, the realized impact of the law was the opposite of its intention.” [https://papers.ssrn.com/sol3/papers.cfm?abstract\_id=4061315](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4061315)
+
+#### This newsletter is brought to you by DeepDive
+
+Amplify your performance and client satisfaction with DeepDive - the comprehensive SaaS analytics solution for agencies. Seamlessly aggregate all of your clients' web and marketing analytics, unearth deep insights, and deliver AI-powered, white-labeled presentations instantly.
+
+!
+
+[https://trydeepdive.com](https://trydeepdive.com)

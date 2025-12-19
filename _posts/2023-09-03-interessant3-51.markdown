@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Interessant3 #51"
+description: "Three Interesting Things for W/C 2023-08-20"
+date: 2023-09-03 23:00:18 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+Double issue this week as I was AFK.
+
+1. This blog post titled "Mathematics for the Adventurous Self-Learner" dives into a six-year journey of self-discovery in the realm of maths. Whether you're someone who's just starting out or an experienced mathematician, this post offers valuable insights into books, exercises, and online courses worth exploring:  
+[https://www.neilwithdata.com/mathematics-self-learner](https://www.neilwithdata.com/mathematics-self-learner)
+2. Collaborative Fund is a venture capital fund based in New York City known for its interesting content. In this post one of their partners shares “Eight laws from all kinds of fields that should be useful regardless of what field you’re in.”  
+[https://www.collaborativefund.com/blog/useful-laws-of-the-land/](https://www.collaborativefund.com/blog/useful-laws-of-the-land/)
+3. An extensive deep dive on healthcare, with a US focus. This is quite a large essay with lots of arguments, not for the faint-hearted. ![rcafdm_oecd_income_health_elasticity_2017](/assets/images/substack/136697270-80a69a11.png)[https://randomcriticalanalysis.com/why-conventional-wisdom-on-health-care-is-wrong-a-primer/](https://randomcriticalanalysis.com/why-conventional-wisdom-on-health-care-is-wrong-a-primer/)
+
+#### This newsletter is brought to you by DeepDive
+
+Amplify your performance and client satisfaction with DeepDive - the comprehensive SaaS analytics solution for agencies. Seamlessly aggregate all of your clients' web and marketing analytics, unearth deep insights, and deliver AI-powered, white-labeled presentations instantly.
+
+!
+
+[https://trydeepdive.com](https://trydeepdive.com?utm_source=substack&utm_medium=newsletter)

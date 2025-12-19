@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Interessant3 #118"
+description: "Max-Flow, Min-Cut, Growth Mindsets, Beauty Perceptions| Three Interesting Things for W/C 2024-12-01"
+date: 2024-12-08 22:03:23 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+###  **Max-Flow, Min-Cut: Seeing Systems Through Maths**
+
+Oliver Johnson introduces the deceptively simple max-flow min-cut theorem, a mathematical concept applicable across networks—be it transport, warfare, power grids, or NHS operations. A striking example is the UK’s National Grid, where the capacity of electrical cables crossing the England-Scotland border limits energy flow. Despite increasing wind energy generation in Scotland, the grid’s bottleneck results in wasted energy until new undersea cables are built. From optimising resources to understanding bottlenecks, this simple principle offers profound insights into how different systems operate, fail, and improve.
+
+[Read about it here](https://bristoliver.substack.com/p/the-final-cut)
+
+###  **Growth Mindsets: Reality or Rhetoric?**
+
+A comprehensive review dismantles the hype around growth mindset interventions in education. Despite their popularity, evidence suggests minimal, if any, measurable impact on academic outcomes, with study flaws and biases undermining claims of effectiveness. The analysis calls for more rigorous research and transparency, asking for a rethink in the narrative of mindset as a transformative tool.
+
+[Explore the findings here](https://doi.org/10.1037/bul0000352)
+
+###  **Beauty: Maxim or Myth?**
+
+Another intriguing meta-analysis challenges common constructivist notions about beauty, revealing _consistent inter and intra cultural agreement_ on attractiveness and its tangible effects. Interestingly, it also shows that attractive children and adults exhibit more positive behaviours and traits than the unattractive.
+
+[Learn more about the research](https://psycnet.apa.org/doiLanding?doi=10.1037%2F0033-2909.126.3.390)

@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Interessant3 #130"
+description: "Science Funding, Future Shapers, AI Soloists | Three Interesting Things for W/C 2025-03-02"
+date: 2025-03-03 07:02:35 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+###  **The Politicisation of Science Grants**
+
+A 30-year analysis of the US’s NSF grants reveals a striking trend: increasing use of politicised language and a narrowing of research diversity. In 1990, just 2.9% of grants mentioned terms like “equity,” “diversity,” or “inclusion”; by 2020, that figure had risen to 30.4%. Fields like Education & Human Resources saw the biggest shift (4.3% to 53.8%), but even disciplines such as Mathematical & Physical Sciences (0.9% to 22.6%) showed significant increases.
+
+Alongside this, research abstracts have become increasingly similar over time, suggesting a decline in intellectual diversity. With the NSF funding over a quarter of all federally backed basic research in the US, these trends raise concerns about ideological conformity, scientific stagnation, and public trust in research institutions.
+
+ [Read more](https://www.cspicenter.com/p/increasing-politicization-and-homogeneity-in-scientific-funding-an-analysis-of-nsf-grants-1990-2020)
+
+###  **The People Who Will Shape the Future**
+
+Who are the thinkers, builders, and disruptors most likely to shape the next decade? curates a list of individuals he believes are set to have an outsized impact on the world. Inspired by Patrick Collison’s _Interesting People_ list, it highlights emerging intellectuals, researchers, and entrepreneurs who are doing high-leverage work across fields—from AI and biotech to philosophy and finance.
+
+Guzey himself is a writer and researcher known for his critiques of academia and institutional stagnation. He co-founded _New Science_, an organisation funding independent biomedical research outside traditional academic structures. His work often focuses on productivity, talent identification, and accelerating scientific progress.
+
+This list is less a directory and more a map of where energy and ambition are coalescing. If you’re looking for people worth watching (or working with), this is a potential starting point.
+
+ [Read more](https://guzey.com/people)
+
+###  **AI and the Rise of One-Person Unicorns**
+
+Could the next billion-dollar startup be built by a single person? Advances in AI-powered software development suggest it’s possible. Companies like Lovable are building AI tools that automate coding, enabling entrepreneurs to create complex applications with minimal human input. Founder Anton Osika predicts that by the end of 2025, AI will be capable of generating 80% of all SaaS applications—removing the need for large software engineering teams.
+
+Some see this as a game-changer, opening the doors for millions of non-technical founders to launch businesses that would have been impossible before. Others are sceptical, pointing to AI’s current limitations and questioning whether fully automated startups are realistic. Either way, if AI can replace the need for human developers, it could disrupt not just the startup ecosystem, but the entire venture capital model.
+
+ [Read more](https://sifted.eu/articles/ai-one-person-unicorns)

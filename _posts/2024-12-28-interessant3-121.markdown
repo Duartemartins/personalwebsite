@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Interessant3 #121"
+description: "Ruby on Rails, Reflections on India, Censorship in Psychology | Three Interesting Things for W/C 2024-12-22"
+date: 2024-12-28 12:01:46 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+###  **Ruby on Rails: Build Your First Web App**
+
+Curious about web development? The official “Getting Started with Rails” guide was recently released and offers a practical, beginner-friendly introduction to building web applications. Learn to install Ruby and Rails, set up a project, and dive into the Model-View-Controller (MVC) architecture that powers modern web apps such as Github and Shopify. This resource even walks you through routing, controllers, database migrations, and deploying your application live. It’s the perfect way to turn your ideas into fully functional web applications.
+
+ [Learn more here](https://guides.rubyonrails.org/getting_started.html)
+
+###  **Reflections on India: Beauty, Poverty, and Policy**
+
+Economist ’s first visit to India offers a thought-provoking blend of admiration and critique. While mesmerised by the Taj Mahal, Golden Temple, and ancient cave sites, he highlights stark challenges such as pervasive poverty and systemic regulatory hurdles. Caplan critiques India’s restrictive visa policies and Soviet-style economic planning, which he argues are talked about less than the much older British colonial period, and continue to hinder development. One interesting aspect is that an over regulated labour market has pushed over 90% of workers to the informal sector. Yet, amidst these challenges, the resilience and intellectual engagement of its people shine through.
+
+ [Read the reflections here](https://www.betonit.ai/p/reflections-on-india?r=7n4bs&utm_medium=ios&triedRedirect=true)
+
+###  **Taboos and Self-Censorship Among U.S. Psychology Professors**
+
+A recent study published in _Perspectives on Psychological Science_ explores the prevalence of self-censorship among psychology professors in the United States. The research reveals that many academics avoid certain topics or conclusions in their work due to perceived taboos, leading to a lack of open discourse on potentially controversial subjects. Interestingly, only an average of 66% of respondents “believed” that biological sex is binary and that there are evolved sex differences. Further,:
+
+> … in almost every case, males self-censored more than females (_p_ \< .005 for four conclusions), and females wanted to discourage research more than males (_p_ \< .005 for seven conclusions; […] There were two exceptions: (a) With a small but not significant effect, female professors self-censored more regarding discrimination against conservatives in the social sciences, and (b) male and female professors similarly had almost no desire to discourage research into discrimination against Black people in academia.
+
+This self-censorship demonstrates the impact that Critical Social Justice has had on academia and how it can hinder scientific progress and the development of a comprehensive understanding of human psychology. Below are the correlations between self censorship and belief in truth of statement, notice how all but one are positive.
+
+!
+
+ [Explore the study here](https://journals.sagepub.com/doi/full/10.1177/17456916241252085)

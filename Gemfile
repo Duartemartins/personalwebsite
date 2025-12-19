@@ -40,3 +40,7 @@ gem "date"
 gem "reverse_markdown"
 
 gem "rake"
+
+gem "csv"
+
+gem "nokogiri"

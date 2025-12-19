@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Interessant3 #107"
+description: "Ottoman Legacy, British Foundations, America’s Cultural Shift | Three Interesting Things for W/C 2024-09-15"
+date: 2024-09-21 16:03:49 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+### ** The Ottoman Origins of Modernity**
+
+This thought-provoking article from the always interesting traces how Ottoman military and political pressure inadvertently nurtured modernity in Europe. Protestantism’s survival, often attributed to the printing press, is reframed through the lens of Ottoman distractions, which weakened the Catholic Church’s focus on suppressing the Reformation. The piece weaves together complex historical threads, arguing that without the Ottomans, Europe might have remained stifled by the Catholic church’s powerful conservatism, ultimately delaying the scientific and economic transformations that shaped the modern world.
+
+Personally I find this intriguing because in Portugal the expulsion of the Jesuits in the 18th Century is often mentioned as one of the primary culprits of the country’s technological and intellectual stagnation. In fact you can see the effects of that in this chart from the article:
+
+!
+
+[Read the article here.](https://www.cremieux.xyz/p/the-ottoman-origins-of-modernity)
+
+###  **UK Foundations -** why Britain has stagnated
+
+The article discusses by , and demonstrates why the British economy has stagnated, pointing to housing, energy, and infrastructure as the key areas of concern. The authors argue that the planning system, which has remained largely unchanged since the 1947 Town and Country Planning Act, is the primary culprit. This system has prohibited new housing developments in high-demand areas, pushing housing costs up and leaving many unable to move to places with better jobs. Additionally, Britain’s infrastructure costs are significantly higher than in other developed countries, leading to fewer and less effective projects. High energy costs further limit industrial growth, particularly in energy-intensive sectors like manufacturing. The solution offered by the authors is to remove the regulatory barriers preventing investment in these areas. Doing so, they argue, would lead to rapid economic growth, benefiting businesses, industries, and families alike.
+
+!
+
+[Read the article here.](https://ukfoundations.co/)
+
+###  **America’s Waning ‘Wokeness’**
+
+The Economist’s deep dive into how America is slowly moving away from the “woke” movement. As public sentiment shifts, this analysis unpacks the reasons behind the cultural cooling, from political changes to the ways businesses and education are adapting to less focus on social justice rhetoric. A must-read.
+
+!
+
+[Read the article [Paywall]](https://www.economist.com/briefing/2024/09/19/america-is-becoming-less-woke)

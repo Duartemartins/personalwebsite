@@ -1,0 +1,24 @@
+---
+layout: post
+title: "#1"
+description: "Three interesting things for W/C 2022-04-17"
+date: 2022-04-20 07:00:34 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1. Agricultural land use per capita is now at a similar level to 2500B.C.
+
+[
+ !
+
+](/assets/images/substack/52501435-5564b90c.png)
+
+[Our World in Data](https://ourworldindata.org/grapher/total-agricultural-land-use-per-person)
+
+2. “Theoretically, wealthier people should buy less insurance, and should self-insure through saving instead, as insurance entails monitoring costs. Here, we use administrative data for 63,000 individuals and, contrary to theory, find that the wealthier have better life and property insurance coverage”
+
+[NBER](https://www.nber.org/papers/w29069)
+
+3. Productivity per country, selected countries. Denmark, Germany, US, & France do well. U.K. does relatively poorly, and Portugal does slightly better than Malaysia.

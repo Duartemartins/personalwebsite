@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Interessant3 #89"
+description: "The eu/acc Charter, Marketplaces, Redistribution | Three Interesting Things for W/C 2024-05-12"
+date: 2024-05-18 07:01:00 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1. ** The eu/acc Charter**  
+Following on from [my previous article](https://www.santiago-martins.com/european-accelerationism-eu-acc.html) on eu/acc which was mention in the FT and Marginal Revolution, I co-authored the movement’s charter with [Andreas Klinger](https://twitter.com/andreasklinger). This initiative aims to accelerate progress in Europe through innovation, technology, and a European-positive mindset. The charter promotes a unified approach to creating a vibrant tech ecosystem, valuing local identities while advocating for a Pan-European innovation superhub. It emphasises a data-driven approach, practical technological advancements, and enabling policymakers to support entrepreneurs. If you believe in Europe's potential for progress, I invite you to [join the discord](https://discord.gg/jKfRnT2c) and contribute to this vision by [signing the petition](https://docs.google.com/document/d/1jF_d49euri9a-c_kGd5G-hrniNoQeJtkiIeBii_ir5A/edit).  
+[Read the charter here](https://www.santiago-martins.com/the-eu-acc-charter.html)
+2.  **Building and Investing in Marketplaces**  
+’s detailed article explores how marketplaces work, why they are successful, and the different types of marketplaces that exist. From the basics of supply and demand to the benefits of network effects and asset-light operations, this piece provides a thorough understanding of marketplace businesses. It also discusses the differences between horizontal and vertical marketplaces and offers tips on building and investing in them.[Read more](https://eriktorenberg.substack.com/p/building-and-investing-in-marketplaces)
+
+1.  **Exposure to Poor People Weakens Support for Redistribution among the Rich**   
+A surprising study published in the British Journal of Political Science shows that seeing poor people can decrease the rich's support for redistribution policies. The findings highlight an unexpected effect where direct interactions with poverty may lead to a greater belief in self-selection based on stable individual characteristics and less support for welfare measures. Understand what this research means for social policies and wealth distribution debates [here](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/unequal-and-unsupportive-exposure-to-poor-people-weakens-support-for-redistribution-among-the-rich/FC32FA59B3C5525A178C7012859F95D8?utm_source=SFMC&utm_medium=email&utm_content=Article&utm_campaign=New%20Cambridge%20Alert%20-%20Articles&WT.mc_id=New%20Cambridge%20Alert%20-%20Articles).

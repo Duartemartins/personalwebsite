@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Interessant3 #115"
+description: "Digital Time Capsules, How to Ship, Cabo Verde | Three Interesting Things for W/C 2024-11-10"
+date: 2024-11-17 18:15:25 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+###  **Digital Time Capsules: Discover Forgotten Moments**
+
+Between 2009 and 2012, Apple devices featured a “Send to YouTube” option that created an unintentional archive of forgotten, low-view videos. By searching YouTube for terms like “IMG\_0416,” you can uncover raw, uncurated glimpses into people’s lives—a woman unboxing her first book, families enjoying game nights, and more. Try searching for your birthday, mine returned everything from a Pink Floyd gig to someone throwing a discus.
+
+ [Explore more here](https://ben-mini.github.io/2024/img-0416)
+
+###  **How to Ship: Secrets for Big Tech Success**
+
+Sean Goedecke’s article breaks down the art of shipping projects at major tech companies. Success, he argues, is not just about completing the work but ensuring it aligns with leadership’s vision and builds trust. Goedecke outlines the importance of clear goals, anticipating risks, and deploying early to identify issues. For anyone navigating the complexities of tech projects, this is your guide to shipping with impact.
+
+ [Read the full article here](https://www.seangoedecke.com/how-to-ship/)
+
+ **Cabo Verde: The Remarkable Story of Manuel Negrito**
+
+I am currently travelling the beautiful African archipelago of Cabo Verde and recently visited its first settlement - Ribeira Grande. It was the first European settlement south of the Tropic of Cancer - over 500 years ago! Here’s the central pillory:
+
+!
+
+The article below describes the life of Negrito Manuel, a historical figure symbolising the fusion of African traditions and European Catholicism. Born in 1604 in West Africa, Manuel was captured and sold into slavery in Guinea, and brought to Ribeira Grande in Cabo Verde. He underwent ‘ladinização’ or latinisation, a forced process of cultural and religious assimilation into Latin culture, before being shipped to Brazil. He became very devout, witnessed a miracle, and is currently in the process of beatification by the Catholic Church.
+
+ [Discover his story](https://pordentrodaafrica.com/cultura/cabo-verde-a-fabulosa-historia-de-negrito-manuel) (use a translator tool)

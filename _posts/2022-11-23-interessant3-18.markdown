@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Interessant3 #18"
+description: "Three Interesting Things for W/C 2022-11-20"
+date: 2022-11-23 18:01:08 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1. Impact of Internet access in Africa: 
+2. The Soviet Union provided Nazi Germany with several crucial commodities just prior to declaring war on them: [https://www.bbc.co.uk/sounds/play/m0007rlg](https://www.bbc.co.uk/sounds/play/m0007rlg)
+3. “We find that losing an early joiner has a large negative effect on firm size that persists for at least ten years.” [https://www.nber.org/papers/w28417](https://www.nber.org/papers/w28417)
+
+[Share Three Interesting Things](https://interessant3.substack.com/?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+Looking for Data Visualisation, Reporting, or Data Analysis services? Check out [Quantica](https://quantica.carrd.co/).

@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Interessant3 #93"
+description: "Diverse Performance, Geothermal Energy, Founder Liquidity | Three Interesting Things for W/C 2024-06-09"
+date: 2024-06-15 21:00:50 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1.  **Discernment Matters Even More** London Business School Finance Professor Alex Edmans critiques McKinsey's ongoing research asserting that diversity significantly boosts firm performance. Recurrent methodological flaws in McKinsey's studies are pointed out, which were highlighted by prior academic critiques yet continue in recent publications. The author argues that these repeated errors undermine the studies' claims, suggesting a need for more robust, scientifically sound research. For example, the methodology implies that financial success may lead to increased diversity rather than diversity driving success. The post warns of the danger in accepting such influential yet potentially flawed studies without deeper analysis and verification. [Read more](https://maycontainlies.com/discernment-matters-even-more/?utm_source=substack&utm_medium=email)
+2.  **Watt Lies Beneath** Imagine tapping into the Earth's natural heat to power our homes and industries. This article by dives into the exciting advancements in geothermal energy, the technical challenges and the considerable benefits of harnessing the Earth's heat, focusing on advances in drilling technologies and the integration of techniques from the oil and gas industry. The piece also considers the broader implications of deeper and more effective geothermal exploitation, including the extraction of valuable minerals like lithium and gold from geothermal brine. As we move towards greener solutions, understanding the potential beneath our feet becomes increasingly important.   
+[Read more](https://worksinprogress.co/issue/watt-lies-beneath/)
+
+1.  **Silicon Valley's Best-Kept Secret: Founder Liquidity**   
+For many tech entrepreneurs, finding ways to cash out without giving up control of their companies is a well-kept secret. This practice, usually undisclosed except to insiders, provides founders significant financial relief but is not extended to early employees, perpetuating a disparity in risk and reward within startups. The author argues for transparency and more equal risk-sharing between founders and employees.  
+[Read more](https://www.stefantheard.com/silicon-valleys-best-kept-secret-founder-liquidity/)

@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Interessant3 #87"
+description: "Colonialism and Progress, The Nature of Genius, Economic Growth | Three Interesting Things for W/C 2024-04-28"
+date: 2024-05-04 13:42:36 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1.  **Colonialism and Progress: A Critical Perspective**   
+In this fascinating article, Rasheed Griffiths critiques Bruce Gilley's provocative book, _The Case for Colonialism_, where the author argues against the commonly accepted view that colonialism was primarily detrimental. The book highlights examples from the Caribbean, citing economic data to argue that colonial governance might have economic and civil liberties benefits, challenging readers to reconsider entrenched perspectives on colonial history. Here’s a bombshell from the article that made me reflect:
+
+> “World Bank statistics reveal that independent small states have performed considerably worse than their dependent territory counterparts.”
+
+[Read more about the impact of colonialism](https://cpsi.media/p/colonialism-and-progress-fb9)
+2.  **Insights on Genius from Paul Graham**   
+Paul Graham's essay on the “Bus Ticket Theory of Genius” discusses the concept of genius not as a rare innate talent but as a deep, obsessive interest in specific subjects that might seem trivial to others. He suggests that true innovation comes from relentless exploration of these interests rather than from deliberate, goal-oriented effort. This interesting perspective shows how different people can achieve great things by following what genuinely fascinates them.   
+[Explore Paul Graham's insights on genius](http://www.paulgraham.com/genius.html)
+
+1.  **Economic Growth Insights from Jason Furman**   
+Jason Furman, professor of Economic Policy at Harvard, highlights the significant impact of small differences in economic growth rates over long periods. His tweet points out that even a small difference, like 0.5 percentage points, can lead to major divergences in the economic trajectories of countries over a century, as illustrated by the economic histories of the United States and Argentina. Economic growth needs to be front and centre of government priorities, and even small improvements are extremely important in the long run.  
+[Learn more from Jason Furman's analysis](https://twitter.com/jasonfurman/status/1780592423288098927)

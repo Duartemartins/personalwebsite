@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Interessant3 #71"
+description: "Three Interesting Things for W/C 2024-01-07 | Skin in the Game, AI Discoveries, Unintended Consequences of Open Government"
+date: 2024-01-13 14:48:26 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1.  **Skin in the game:** An insightful quote from Nicholas Nassim Taleb in Skin in the Game that sums up the concept quite well: 
+
+> We start with the Yiddish proverb: You can’t chew with somebody else’s teeth. “Your fingernail can best scratch your itch,” picked up by Scaliger circa 1614 in _Proverborum Arabicorum_.
+
+2.  **AI's Leap in Mathematics: Solving the Cap Set Problem** In a groundbreaking development, Large Language Models (LLMs) have demonstrated their ability to not just learn but discover new solutions. A recent paper published in Nature reveals how an AI model tackled the cap set problem, a complex and longstanding issue in mathematics. This achievement opens up discussion about the potential of AI in academic research and its capability to contribute novel insights in various fields. [Read More](https://www.nature.com/articles/s41586-023-06924-6)
+3.  **Open Government and Its Impact on Citizen Welfare** This study used comprehensive crime statistics and handgun carry permit records to analyze the impact of a Memphis newspaper's decision to publish an online database of handgun carry permit holders in December 2008. The findings were striking: after the database became public, burglary rates increased in zip codes with fewer gun permit holders and decreased in areas with more. An interesting relationship between public information, citizen welfare, and criminal activity, speaking to the repercussions of open data policies.[Read More](https://www.nber.org/papers/w29940)

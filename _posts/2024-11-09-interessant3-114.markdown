@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Interessant3 #114"
+description: "Authoritarian Similarities, Nuclear Fallout Insights, Rails 8 Revolution | Three Interesting Things for W/C 2024-11-03"
+date: 2024-11-09 14:05:24 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1. ** Authoritarian Similarities Across the Spectrum**
+
+New research reveals surprising psychological parallels between left-wing and far-right authoritarians. These groups, despite starkly different ideologies, share similar traits such as dogmatism and a penchant for aggressive tactics. This finding challenges conventional political classifications.
+
+[Read more here](https://phys.org/news/2021-09-left-wing-authoritarians-key-psychological-traits.html).
+
+2. ** Fallout’s Tale: Decoding Nuclear Secrets**
+
+For decades, it has been hypothesised that the Teller-Ulam invention of 1951, crucial for building a full-scale fusion device, could be inferred from studying fallout from atmospheric tests. The idea was explored in a 1990 _Bulletin of Atomic Scientists_ article, suggesting that the high neutron fluences observed from such tests, notably the first fusion device test “Mike,” could guide competent analysts to the H-bomb design. This paper goes further by indicating that this insight alone may not suffice and proposes what additional information could complete the picture. Supported by data from a 1976 Chinese fusion test, this analysis underscores the intricate balance between scientific disclosure and security.
+
+[Discover more here](https://scienceandglobalsecurity.org/archive/1991/12/the_radioactive_signature_of_t.html).
+
+3. ** Rails 8: The PaaS-Free Deployment Era**
+
+Rails 8.0 promises a new era where deploying web apps doesn’t require a costly PaaS. Featuring Kamal 2 for easy setups and innovative components like Thruster, Solid Cache, and Solid Queue, this release reduces dependencies and enhances performance. The open-source spirit ensures speed, security, and ease—all without a hefty price tag.
+
+[Explore the full release here](https://rubyonrails.org/2024/11/7/rails-8-no-paas-required).

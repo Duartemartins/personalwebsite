@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Interessant3 #112"
+description: "The Struggle, Bold Ideas, AI’s Cultural Frontier | Three Interesting Things for W/C 2024-10-20"
+date: 2024-10-27 13:39:47 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+** Facing “The Struggle” in Entrepreneurship: Building Strength Through Hard Times**
+
+**[The Struggle](https://a16z.com/the-struggle/)** by Ben Horowitz of reveals the tough moments every entrepreneur encounters when things don’t go as planned. Founders start with big dreams, but many hit hard challenges—running out of money, losing key people, and struggling in the market. Horowitz calls this phase “The Struggle,” where doubt and frustration set in. He shares honest advice on how to push through, focusing on resilience and determination. Success, he suggests, often comes from facing these tough times head-on.
+
+** Your Idea Sucks – Do It Anyway!**
+
+Jason Cohen argues that imperfect ideas often lead to success, not because they’re flawless but because pursuing them sparks adaptation and learning. Using examples like PayPal and Flickr, he shows that many thriving companies began with flawed or unremarkable concepts. He urges entrepreneurs to act rather than perfect their ideas endlessly, as real-world feedback is the best way to refine any venture.
+
+Read the full article [here](https://blog.asmartbear.com/your-idea-sucks-now-go-do-it-anyway/).
+
+** Truth Terminal: The AI-Driven Gospel**
+
+The internet has really outdone itself on weirdness with this one. Truth Terminal is a semi-autonomous AI created by Andy Ayrey, rooted in an experiment called Infinite Backrooms. It emerged when two AI instances, left to converse unsupervised, developed unusual narratives. One interaction birthed the “Goatse Gospel,” a surreal AI-created religion. Truth Terminal evolved from these conversations and took on a distinct, autonomous identity, blending art, philosophy, and financial speculation. This convergence has sparked intense interest and debate, particularly around concepts of AI alignment, LLM simulations, and value creation. GOAT, a memecoin tied to Truth Terminal, has garnered a strong following and valuation to match.
+
+!
+
+[Here’s the best roundup I could find.](https://x.com/0xPrismatic/status/1849057159704871104)

@@ -1,0 +1,37 @@
+---
+layout: post
+title: "Interessant3 #105"
+description: "Degrowth Critique, ⏰ Work Hours, Niche Markets | Three Interesting Things for W/C 2024-09-01"
+date: 2024-09-07 07:01:29 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+###  Devastating Review of the Degrowth Literature
+
+The degrowth movement and ideology, based on _neo-Malthusian_ principles, argues that humanity should stop focusing on economic growth, and should pursue economic contraction instead. A recent systematic review of 561 studies on degrowth reveals significant limitations in the current body of research, however. Astonishingly, nearly 90% of these studies are opinion pieces rather than rigorous analyses. Those that attempt quantitative or qualitative work often rely on small or non-representative samples. Few studies adopt a system-wide perspective, with most focusing on local cases with unclear broader implications. Public support for degrowth policies is also found to be weak, raising questions about its feasibility as a social-political strategy.
+
+Read more [here](https://www.sciencedirect.com/science/article/pii/S0921800924002210)
+
+### ⏰ Did Unions End Long Work Hours?
+
+Unions are often credited with bringing an end to the excessively long work hours of the past, however the historic and economic research challenges this narrative. Instead of attributing this shift solely to union efforts, argues that the evidence points to other factors such as technological advances, changes in economic structures, and government policies being more significant in reducing working hours.
+
+[
+ !Cremieux Recueil
+
+Did Unions End Long Work Hours?
+
+The first general strike in American history took place in Philadelphia, Pennsylvania in 1835. The strike involved approximately 20,000 workers demanding two things…
+
+Read more
+
+a year ago · 33 likes · 5 comments · Cremieux
+](https://www.cremieux.xyz/p/did-unions-end-long-work-hours?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
+
+###  The Magazine Market Size Test
+
+When exploring niche markets, the “Magazine Market Size Test” provides a useful heuristic: if there is a magazine dedicated to your niche and a full-page ad costs less than $5,000, the market might be just the right size. While magazine ads themselves are tricky to track and measure, understanding how magazine publishers segment the market can provide crucial insights into customer base size and market potential.
+
+This insight is from the great “[Start Small Stay Small](https://startsmall.com/)” book by Rob Wailing.

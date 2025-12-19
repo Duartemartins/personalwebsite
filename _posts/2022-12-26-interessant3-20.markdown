@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Interessant3 #20"
+description: "Three Interesting Things for W/C 2022-12-25"
+date: 2022-12-26 08:00:58 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1. Vaccine Lotteries in Ohio: 
+2. The idea of Futarchy: 
+[
+ !Bretton Goods
+
+Why you should issue GDP linked bonds
+
+If you’re an ambitious political thinker, one of the things you should do is imagine a utopia. Almost everyone does it. Milton Friedman did it with his book Capitalism and Freedom where he listed what his ideal society looked like and steps to get there. Karl Marx did it, but was short on empirics and his…
+
+Read more
+
+4 years ago · 12 likes · 7 comments
+](https://brettongoods.substack.com/p/why-you-should-issue-gdp-linked-bonds?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
+3. The effects of ad optimisation on either gender: [https://www.scientificamerican.com/article/science-career-ads-are-disproportionately-seen-by-men/](https://www.scientificamerican.com/article/science-career-ads-are-disproportionately-seen-by-men/) 
+
+> In each case the platform’s ad algorithm optimized the advertisement so the most people would see it. As a result of that optimization, however, men saw the ad 20 percent more often than women did. Women are pricier to reach because they generally make more household purchasing decisions than men do. The findings cannot be explained by a lack of interest in STEM among women. Facebook’s ad-targeting category for an interest in science or engineering actually has more women than men in the U.S. And when women did see the ad across almost all of the social media platforms studied, they were actually more likely than men to click on it, the research found. somewhat ironically, antidiscrimination law itself is the biggest barrier to an easy solution)
+
+and
+
+> antidiscrimination law itself is the biggest barrier to an easy solution
+
+If you are looking for Data Visualisation, Reporting, or Data Analysis services, check out [Quantica](https://quantica.carrd.co/).

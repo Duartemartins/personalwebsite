@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Interessant3 #79"
+description: "Three Interesting Things for W/C 2024-03-03 | Economics Education, Liechtenstein's Success, London Dining"
+date: 2024-03-16 08:03:18 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1.  **Understanding Essential Economics Concepts**  
+A survey of 419 Swedish economists sheds light on what they consider the most crucial economic concepts for individuals and citizens alike, pinpointing opportunity cost as the most important in both contexts. This insight not only emphasises the importance of informed decision-making in personal finance but also highlights the critical role of economic literacy in civic participation. The world would be a better place if we all learned these concepts.  
+[Read more about the economists' perspectives here](https://www.tandfonline.com/doi/full/10.1080/03075079.2020.1716319)
+ !
+2.  **The Mechanics of Liechtenstein's Prosperity**  
+Liechtenstein is a successful nation where self-determination and market governance intertwine to create a thriving economic and social environment. This analysis delves into the principality's strategies, which could offer valuable lessons on governance and economic policy for other countries looking to foster similar prosperity. One interesting quote by the Prince of Liechtenstein is this:
+
+> The State should treat its citizens like an enterprise treats its customers. For this to work, the State also needs competition. We therefore support the right of self-determination at the municipal level, in order to end the monopoly of the State over its territory.
+
+[Explore why Liechtenstein works](https://mises.org/mises-wire/why-liechtenstein-works-self-determination-and-market-governance)
+
+1.  **Oisin Rogers' Top London Eateries**  
+Ever in London and looking for a place to eat? Get a taste of London's vibrant gastronomic scene through the recommendations of Oisín Rogers, a known connoisseur of the city's dining establishments. From cozy bistros to high-end restaurants, discover places where the ambiance and flavours promise an unforgettable dining experience.  
+[Check out Oisín Rogers' recommended restaurants in London](https://x.com/McMoop/status/1166995517399805952?s=20)

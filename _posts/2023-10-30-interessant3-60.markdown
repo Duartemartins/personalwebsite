@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Interessant3 #60"
+description: "Three Interesting Things for W/C 2023-10-22 | Revisiting the Crisis in Children's Mental Well-being, Impact of 20th Century Migrations on Genetic Structure, and The Environmental Kuznets Curve"
+date: 2023-10-30 23:00:30 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+Double issue this week.
+
+1.  **Revisiting the Crisis in Children's Mental Well-being** : A 2023 study delves into the alarming rise in mental disorders among children and teens, attributing it to the decline in opportunities for independent activities. The study posits that the lack of unsupervised play and freedom to roam has both immediate and long-term detrimental effects on mental resilience. Find out more about this important issue [here](https://x.com/DKThomp/status/1713537450033701218?s=20).
+2.  **Impact of 20th Century Migrations on Genetic Structure in Estonia** : A compelling study yet to be peer-reviewed uncovers how internal migrations in the 20th century have affected the genetic landscape of Estonia. Using a sample size of over 180,000 individuals, the research reveals that migration has smoothed the genome-wide genetic structure but intensified inter-regional differences in polygenic scores for specific traits, notably educational attainment. Urbanisation is flagged as a significant driving force for this pattern. Dive deeper into the study [here](https://www.biorxiv.org/content/10.1101/2023.10.25.564036v1).
+3.  **The Environmental Kuznets Curve Explored** : The Environmental Kuznets Curve (EKC) presents a nuanced model connecting energy use, economic growth, and environmental degradation. Named after Simon Kuznets, the curve suggests that as economic development progresses, environmental degradation and pollutant emissions first increase, reach a peak, and then start to decline. The concept provides intriguing insights into the complex relationship between sustainability and development. Learn more [here](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/environmental-kuznets-curve). !
+
+#### This newsletter is brought to you by websummariser
+
+websummariser is an AI summarisation tool for the intellectually curious. Effortlessly condense vast expanses of web content into digestible insights with a single click. Delve into a wide array of topics and transform your reading experience into a more manageable and efficient venture. Your pathway to clearer understanding starts at [websummariser.com](https://www.websummariser.com/).

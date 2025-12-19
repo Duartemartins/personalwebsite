@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Interessant3 #85"
+description: "Postmodern Rhetoric, Draft Economics, Hard Tech Startups | Three Interesting Things for W/C 2024-04-15"
+date: 2024-04-20 07:01:09 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1.  **Postmodernism Unshackled** Nick Shackel, known for identifying the “Motte and Bailey” fallacy, has also outlined other less-known rhetorical tactics in his influential 2005 paper “The Vacuity of Postmodernist Methodology”. These include “Trolls Truisms,” “Equivocating Fulcra,” “Postmodernist Foxtrot,” and the “No-Position Position,” each representing different methods of argumentation and misdirection used widely in debates and discussions. Understanding these tactics is not just important to navigate the current culture wars but also helpful to sharpen your thinking.See ’s thread on the matter [here](https://x.com/cremieuxrecueil/status/1679600784705552385?s=46).
+2. ** The Economic Argument Against the Draft**  
+Milton Friedman and other notable economists played pivotal roles in the economic critique against the U.S. military draft. They argued that the draft imposes significant economic and opportunity costs, tying individuals to military service and away from potentially more productive economic activities. This perspective showcased the draft not only as a fiscal burden but also as a barrier to more efficient market-driven labor allocation. These insights were among the most significant drivers of ending the draft in the US, and with the changing geopolitical context, are highly relevant again today. [Read the detailed economic argument against the draft here](https://econjwatch.org/File+download/84/2005-08-henderson-char_issue.pdf?mimetype=pdf)
+
+1. ** Hard Tech Startup Incubation**  
+The "Inside The Hard Tech Startups Turning Sci-Fi Into Reality" episode from the Hacker News podcast highlights how startups are pushing the boundaries of technology to turn what once seemed like science fiction into reality. These companies, such as those building supersonic jets and 3D-printed rockets, are rapidly proving their concepts with limited budgets. They show significant progress within months by focusing on concrete milestones, which attracts investment and paves the way for future advancements, a very inspiring approach that encourages engineers to embark on ambitious projects that could revolutionise industries and change the world. [Learn more about these pioneering startups](https://www.ycombinator.com/library/Kq-inside-the-hard-tech-startups-turning-sci-fi-into-reality-lightcone-podcast-ep-5)

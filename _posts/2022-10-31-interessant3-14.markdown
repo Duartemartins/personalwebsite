@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Interessant3 #14"
+description: "Three Interesting Things for W/C 2022-10-30"
+date: 2022-10-31 16:00:58 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1. Most of what you read on the internet is written by insane people: [https://www.reddit.com/r/slatestarcodex/comments/9rvroo/most\_of\_what\_you\_read\_on\_the\_internet\_is\_written/](https://www.reddit.com/r/slatestarcodex/comments/9rvroo/most_of_what_you_read_on_the_internet_is_written/) 
+2. Agricultural land use per capita has been decreasing: [https://www.humanprogress.org/dataset/global-agricultural-land-use-per-capita/](https://www.humanprogress.org/dataset/global-agricultural-land-use-per-capita/)
+3. Paradoxically, black/white income inequality increased after apartheid: [https://www.pewresearch.org/fact-tank/2013/12/06/chart-of-the-week-how-south-africa-changed-and-didnt-over-mandelas-lifetime/](https://www.pewresearch.org/fact-tank/2013/12/06/chart-of-the-week-how-south-africa-changed-and-didnt-over-mandelas-lifetime/)
+
+If you are looking for Data Visualisation, Reporting, or Data Analysis services, check out [Quantica](https://quantica.carrd.co/).

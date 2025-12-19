@@ -1,0 +1,37 @@
+---
+layout: post
+title: "Interessant3 #128"
+description: "Europe’s Self-Imposed Tariffs, Copilot’s Evolution, The UK Startup Party | Three Interesting Things for W/C 2025-02-16"
+date: 2025-02-16 23:21:06 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+###  **Europe’s Self-Inflicted Trade Barriers**
+
+Forget US tariffs—Europe has effectively imposed them on itself. In an article for the FT, Mario Draghi highlights how the EU’s high _internal_ barriers and regulatory hurdles are stifling growth more than any external trade restrictions. With internal trade costs equivalent to a 45% tariff on manufacturing and 110% on services, Europe’s fragmented market is dragging down competitiveness. More than anything, the EU must break free from its own constraints.
+
+![Image](/assets/images/substack/157282408-30baed38.jpeg)
+
+ [Read more](https://archive.ph/gzMPE)
+
+###  **GitHub Copilot: The Agent Awakens**
+
+Microsoft released the GitHub Copilot AI Agent. My recent hands-on test showed mixed results—failing at building an iOS app with a Plaid integration but succeeding in creating a simple inflation web app with Sinatra. It’s still early days, but the potential is massive. We are on the cusp of a software development revolution, where common people will be able to use AI Agent teams to turn ideas into reality.
+
+![Image](/assets/images/substack/157282408-95030d96.jpeg)
+
+ [Read more](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/?ref=producthunt)
+
+###  **The Startup Party: Dominic Cummings’ Plan to Replace the Tories**
+
+argues that Britain’s political and administrative class—Westminster, Whitehall, and the old parties—are failing catastrophically. He describes a collapse of state capacity, with institutions unable to handle immigration, crime, defence, or technological competition. Courts are blocking deportations of criminals while prioritising the rights of terrorists and sex offenders. Meanwhile, a political-media class fixated on preserving the status quo ignores public outrage.
+
+Cummings claims that we are entering a period of elite fragmentation and mass disillusionment, where the “Hollow Men” of SW1 (Westminster and Whitehall) have lost public trust. He sees parallels with past civilisational breakdowns—when ruling classes lose their creative power, and the wider population stops imitating them. Technological and political shifts in the US, particularly the rise of a Silicon Valley-backed push for radical institutional reform (DOGE, MAGA), are breaking the old consensus. Britain, however, remains locked in a dysfunctional system where even crises fail to provoke real change.
+
+His prescription? Scrap the Tories as a viable party, merge with Reform and a new “Third Force” of outsiders, and push for a decisive break from 1992-2024 politics. He argues that serious transformation requires a combination of elite defection, grassroots energy, and a new political structure capable of bypassing Whitehall’s bureaucratic inertia.
+
+Controversial but very interesting.
+
+ [Read more](https://dominiccummings.substack.com/p/tsp-5-what-comes-in-2025-6-as-both)

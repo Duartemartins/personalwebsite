@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Interessant3 #88"
+description: "The Science of Exercise, Late Bloomers, European Accelerationism | Three Interesting Things for W/C 2024-05-05"
+date: 2024-05-11 07:01:13 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1.  **Optimising Strength and Hypertrophy in Limited Time** This meta review of the available evidence by Schoenfeld et. al. outlines strategies for effective strength training within constrained schedules, emphasising multi-joint exercises and minimal sets per muscle group weekly. It’s essentially the 80/20 of strength training. Here’s a TL;DR: 
+  1. **Weekly Training Volume:** Emphasised over frequency, with a minimum recommendation of 4 weekly sets per muscle group, using a 6–15 RM loading range. Higher repetitions up to 40 are also effective if reaching volitional failure.
+  2. **Equipment Use:** Conventional equipment is preferred for heavy multi-joint exercises, especially for the lower body, but resistance bands are a viable alternative when such equipment isn't available.
+  3. **Repetition Velocities and Rest Intervals:** Faster repetition velocities are more time-efficient. Untrained individuals should have 1–2 min rest intervals, while trained individuals need at least 2 min.
+  4. **Drop Sets** : Drop sets can reduce workout duration significantly without impacting training volume or hypertrophy, suitable for time-pressed individuals.
+[Discover efficient training strategies including a template exercise regime.](https://link.springer.com/content/pdf/10.1007/s40279-021-01490-1.pdf)
+2.  **Celebrating Late Bloomers**   
+Ever feel old or that you’re underachieving? It’s probably a case of survivorship or availability bias. This collection of 50 inspiring stories shines a light on people who, for various reasons, achieved greatness in their respective fields later in life. It’s a testament to the power of persistence and the potential for success at any age. My favourite is quite possibly this one:  
+“Robin Chase was a stay-at-home mother with an MBA before she founded Zipcar, aged forty-two.”[Explore this list of late bloomers](https://www.commonreader.co.uk/p/fifty-late-bloomers?r=7n4bs&utm_campaign=post&utm_medium=web)
+
+1.  **European Accelerationism - eu/acc: A New Ideological Wave**   
+European Accelerationism is an emerging ideology focused on spearheading societal and technological advancements in Europe. In my latest article, I discuss European Doomerism and make the case that the data does not warrant a pessimistic outlook. I do however make five policy recommendations to accelerate European progress, I hope you enjoy it:[European Accelerationism](https://www.santiago-martins.com/european-accelerationism-eu-acc.html).

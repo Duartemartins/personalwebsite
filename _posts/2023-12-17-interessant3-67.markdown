@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Interessant3 #67"
+description: "Three Interesting Things for W/C 2023-12-09 | Campbell's Law, The Uber Pay Gap, The 10:10 Watch Mystery"
+date: 2023-12-17 14:02:11 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1.  **Campbell's Law in Modern Context** : This principle states that the more a metric is used to make decisions, the more likely it is to be corrupted and the more likely it is to corrupt the people it's meant to assess. In today's data-driven society, this law raises significant questions about the reliability and integrity of metrics in education, business, and government. For example, in the 90s and noughties in the UK, the National Health Service's implementation of strict performance targets to reduce patient waiting times led to unintended consequences, as healthcare providers manipulated data and prioritised patients based on target thresholds rather than medical need. [Learn more about Campbell's Law](https://en.wikipedia.org/wiki/Campbell's_law)
+
+1.  **The Uber Pay Gap** : A revealing study sheds light on the gender pay gap within Uber drivers. Despite the algorithmic, gender-blind assignment of work, a surprising disparity in earnings between male and female drivers persists. Researchers find this is not due to discrimination but rather driving speed, experience, and choices about where to drive. [Read about The Uber Pay Gap](https://marginalrevolution.com/marginalrevolution/2018/02/uber-pay-gap.html)
+
+1. ⌚ **Why Watches Show 10:10 in Ads** : Ever noticed how watches in advertisements are almost always set to 10:10? This peculiar standard is more than just a coincidence. Two small studies suggest this might be due to the subtle effect of the shape of the hands resembling a smiling face. [Understand the 10:10 Standard in Watch Ads here.](https://www.realclearscience.com/articles/2022/05/09/why_are_watches_usually_set_to_1010_in_advertisements_830409.html)
+
+#### **Revolutionise Your Professional Expertise with neuralvault**
+
+Whether you're a solicitor, fashion aficionado, art appraiser, investor, or crowdfunding campaign organiser, our advanced GPT tools provide unrivalled insights and efficiency. Embrace transformative AI technology - presently offering complimentary access to all models. Check out [https://neuralvault.xyz](https://HTTPS://neuralvault.xyz) and transform your professional approach today.

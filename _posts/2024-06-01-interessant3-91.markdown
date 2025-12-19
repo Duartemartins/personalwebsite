@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Interessant3 #91"
+description: "Quant Jobs, Solar Revolution, Tax and Innovation | Three Interesting Things for W/C 2024-05-26"
+date: 2024-06-01 07:01:39 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1.  **Buy-Side Quant Job Advice**   
+Quant trader [Giuseppe "Gappy" Paleologo](https://x.com/__paleologo?lang=en) provides lots of practical tips for landing a job as a quant researcher. This guide includes advice on networking, skill development, understanding the industry's dynamics, and lots of book recommendations. Readers of this newsletter may be particularly interested; one of the traits the author highlights as being important in a quant is curiosity: “People who read articles and scientific papers on their own, maybe duringweekends, for the sheer pleasure of finding things out.”Further, it outlines the best places to start your career in hedge funds and prop trading houses, and what to expect during the hiring process.   
+[Read more](https://www.dropbox.com/scl/fi/da7zfjj2rplwzf2sfiriz/Buy-Side-Quant-Job-Advice.pdf?rlkey=8abc10koby 9l84mqfglfeq&e=1&st=v700a5g8&dl=0)
+2.  **The Solar Industrial Revolution: A Massive Investment Opportunity**   
+This blog post by gigabrain [Casey Handmer](https://www.youtube.com/watch?v=NngCHTImH1g) explores the enormous investment potential in the renewable energy sector, especially solar power. It argues that the ongoing solar revolution is the biggest investment opportunity in history, driven by technological advances and the global push for sustainability. 
+
+> Our techno-capital machine is a thermodynamic mechanism that systematically hunts for and then maximally exploits the cheapest energy it can find. When it unlocks cheaper energy, first coal, then oil, then gas, and now solar, it drives up the rate of economic growth, due to an expanded spread between energy cost and application value.
+
+This article in particular provides a thorough analysis of the economic and environmental benefits of investing in solar energy, diving into many different processes that it will affect. Honestly though, his whole blog is worth reading. [Explore the article](https://caseyhandmer.wordpress.com/2024/05/22/the-solar-industrial-revolution-is-the-biggest-investment-opportunity-in-history/)
+
+1.  **Tax Cuts and Innovation: The Surprising Impact** On the topic of academic papers, a recent study shows just how significantly taxes negatively affect innovation. A one percent increase in the marginal tax rate for high-income earners results in a 2% drop in the number of patents and inventors. Corporate tax hikes have an even larger effect, decreasing patents by 2.8% and inventors by 2.3%. This research highlights how crucial tax policy is for encouraging innovation and economic growth.   
+[Learn more](https://www.maximum-progress.com/p/tax-cuts-and-innovation) from

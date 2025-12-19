@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Interessant3 #44"
+description: "Three Interesting Things for W/C 2023-07-02"
+date: 2023-07-06 19:15:07 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+Meta launched a new social media platform this week called Threads. Add me on [@duarteosrm](https://www.threads.net/@duarteosrm) if you’re that way inclined.
+
+1. There’s a phenomenon called the Pink Tax which is that women on average pay more for goods than men. This economist replicated the finding that this is due to women preferring goods with higher marginal costs, as opposed to discriminatory markups. ! [https://twitter.com/kayleighnbarnes/status/1580748080399364096?s=46&t=-DNv9rPw3guwQopwQG\_-Qg](https://twitter.com/kayleighnbarnes/status/1580748080399364096?s=46&t=-DNv9rPw3guwQopwQG_-Qg)
+2. For all of those confident in using the MacOS Terminal, here’s a guide for some handy command line tools: [https://saurabhs.org/advanced-macos-commands](https://saurabhs.org/advanced-macos-commands) 
+3. A great thread on the state of U.K. waters is linked below. You will often hear in the media (and in David Attenborough’s latest documentary series) that the UK’s water quality is at the worst it has ever been, with only a small proportion of waterways being free of pollution. Turns out that the single largest factor contributing to this is a change in the definition of pollution by the EU. I’m glad we’re being more stringent with water quality, however this is being used as a manipulative tool for propaganda without referring to the causes, making this an example of [Wittgenstein’s Ruler (bonus fourth link)](https://luca-dellanna.com/wittgensteins-ruler/). ![https://twitter.com/loftussteve/status/1659637753158545414?s=46&t=-DNv9rPw3guwQopwQG\_-Qg](https://twitter.com/loftussteve/status/1659637753158545414?s=46&t=-DNv9rPw3guwQopwQG_-Qg)
+
+#### This newsletter is brought to you by DeepDive
+
+Amplify your performance and client satisfaction with DeepDive - the comprehensive SaaS analytics solution for agencies. Seamlessly aggregate all of your clients' web and marketing analytics, unearth deep insights, and deliver AI-powered, white-labeled presentations instantly.
+
+!
+
+[https://trydeepdive.com](https://trydeepdive.com?utm_source=substack&utm_medium=newsletter)

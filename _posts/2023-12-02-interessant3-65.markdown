@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Interessant3 #65"
+description: "Three Interesting Things for W/C 2023-11-26 | Remembering Charlie Munger, Challenging Piketty's Inequality Theory, Defending Effective Altruism"
+date: 2023-12-02 13:14:30 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1.  **Remembering Charlie Munger: The Wisdom of 'Inversion'.** The recent passing of Charlie Munger, the legendary investor and partner of Warren Buffett, marks the end of an era in the world of finance. Munger was renowned for his sharp wit and profound insights, notably his advocacy of the mental model of 'inversion'. This approach, where one considers the opposite of what they want to avoid, helped shape much of his investment strategy. His legacy continues to inspire and guide investors around the world. Reflect on his contributions and the power of inversion [here](https://fs.blog/inversion/). Additionally, in case it’s of interest, I created a custom GPT to help value investors, which can be found [here](https://chat.openai.com/g/g-OVZvxftBz-intelligent-gpt-investor).
+2.  **Revisiting the 20th Century: Inequality Remains Constant?** A groundbreaking study in a top peer-reviewed journal challenges the widely-accepted views of economist Thomas Piketty on 20th-century inequality. Contrary to Piketty's findings, this new research suggests that US real income has increased for all groups and inequality levels remained consistent throughout the century. This revelation could reshape our understanding of economic history and prompt a reevaluation of current economic policies. Dive deeper into the study by Gerald Auten and David Splinter and its implications for economic theory [here](https://x.com/sc_cath/status/1729698413258682628?s=46). ![Image](/assets/images/substack/139362987-71466bd7.jpeg)
+3.  **In Defence of Effective Altruism: Scott Adams' Perspective.** Despite recent criticisms, especially around its adoption of longtermism, the Bankman-Fried debacle, and institutional failures, Effective Altruism (EA) finds a defender in Scott Alexander. In a recent Astral Codex Ten post, Alexander highlights the track record of EA, arguing that its contributions and approach towards addressing global challenges remain significant. Personally, it has partially restored my faith in the movement and serves as a reminder to give preference to data over narratives. Explore Alexander's defence and the ongoing conversation around EA [here](https://open.substack.com/pub/astralcodexten/p/in-continued-defense-of-effective?r=7n4bs&utm_medium=ios&utm_campaign=post).
+
+#### This newsletter is brought to you by websummariser
+
+websummariser is an AI summarisation tool for the intellectually curious. Effortlessly condense vast expanses of web content into digestible insights with a single click. Delve into a wide array of topics and transform your reading experience into a more manageable and efficient venture. Your pathway to clearer understanding starts at [websummariser.com](https://www.websummariser.com/).

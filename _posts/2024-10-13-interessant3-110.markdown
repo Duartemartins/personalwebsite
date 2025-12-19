@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Interessant3 #110"
+description: "The Art of Stellarator Design, Solar’s Carbon Cost, and Spain vs. Latin America | Three Interesting Things for W/C 2024-10-06"
+date: 2024-10-13 20:25:41 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+** The Art of Stellarator Design**
+
+A former Senior Stellarator Engineer shares insights into the intricate and artistic process of designing stellarators, a type of fusion reactor. As the “ideas guy” behind these complex systems, he dives into the fusion technology’s unique challenges and the delicate balance between art and science. This thread offers a rare look at this promising energy solution.
+
+![Image](/assets/images/substack/150185171-f0807ff6.jpeg)
+
+[Read more here](https://x.com/Andercot/status/1844892115865829691)
+
+** Solar’s Carbon Cost Compared to Nuclear**
+
+Data reveals that solar power in Texas and California is about four times more carbon-intensive than nuclear and wind, with the disparity even starker in the UK due to the lower amount of sunshine hours. Something we’ll need to grapple with as society transitions to sustainable sources of energy.
+
+![Image](/assets/images/substack/150185171-92538280.jpeg)
+
+[Explore the details here](https://x.com/bswud/status/1844359539145179377)
+
+** Spain vs. Latin America: A Century of Economic Shifts**
+
+An intriguing historical comparison highlights how, until the mid-20th century, former Spanish colonies like Argentina and Venezuela were economically on par with or even wealthier than Spain. However, Spain has since surged ahead, pointing to complex socio-economic factors that have shaped this divergence, with consequences for discussions on colonialism.

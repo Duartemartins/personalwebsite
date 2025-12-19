@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Interessant3 #31"
+description: "Three Interesting Things for W/C 2022-03-19"
+date: 2023-03-26 22:30:53 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1. Coral rebirth: “The most astonishing and heartening coral rebirth the world has ever seen." In 2015/16, the most powerful El Niño ever recorded swept through the coral reefs of the Pacific Line Islands, resulting in the demise of 50% of the corals. Fast forward six years, and these reefs are flourishing, boasting over 43 million colonies per square kilometer. Given the chance, nature can bounce back. [Nat Geo](https://archive.ph/DTQKa) 
+2. In 19th century England, the vast majority of road construction had been carried out by private entities, rather than the government. That would be difficult to imagine nowadays. 
+3. Spotify subscriber growth continued to increase at the same rate after the boycott last year. Unexpected by journalists, researchers show this is because people value the product more than they value the artists that drove the boycott:
+
+#### This newsletter is brought to you by Deep Dive Data.
+
+Unlock the potential of your data with Deep Dive Data. We're a cost-effective subscription-based data analysis agency specializing in turning complex data into actionable insights. Our experts offer customized solutions, including data visualization, modeling, and predictive analytics. Whether you're a large or small business, we can help you make informed decisions and drive growth. [Contact us today](https://deepdivedata.agency/) to learn more.
+
+!
+
+[https://deepdivedata.agency/](https://deepdivedata.agency/)

@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Interessant3 #38"
+description: "Three Interesting Things for W/C 2023-05-07"
+date: 2023-05-15 12:01:25 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1. Unlike what the news may make you perceive, crime in the UK is way down. Overall crime is down 12% in two years, and about 75% since 1995. Truly remarkable. !
+2. The Pew Research Center did a poll of black Americans in 2022. Findings include: 60% say racism is an extremely big problem, 15% say they are regularly (64% from-time-to-time, 21% neither of the above) discriminated against, 65% say increased focus on racial inequality has not improved black people's lives, 77% don’t want local police funding decreased. Many more results at the link: https://www.pewresearch.org/race-ethnicity/2022/08/30/black-americans-are-pessimistic-about-their-position-in-u-s-society/ 
+3. Your weekly reminder that we need to build more houses, rather urgently, even if they’re luxury flats: [https://twitter.com/GeorgistSteve/status/1598135264270245888](https://twitter.com/GeorgistSteve/status/1598135264270245888)
+
+#### This newsletter is brought to you by Deep Dive Data.
+
+Unlock the potential of your data with Deep Dive Data. We're a cost-effective subscription-based data analysis agency specializing in turning complex data into actionable insights. Our experts offer customized solutions, including data visualization, modeling, and predictive analytics. Whether you're a large or small business, we can help you make informed decisions and drive growth. [Contact us today](https://deepdivedata.agency/) to learn more.
+
+!
+
+[https://deepdivedata.agency/](https://deepdivedata.agency/)

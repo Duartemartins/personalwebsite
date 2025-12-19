@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Interessant3 #37"
+description: "Three Interesting Things for W/C 2023-04-30"
+date: 2023-05-06 13:01:33 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1. Fast and frugal heuristics are simple decision-making strategies or rules of thumb that people use to make quick and efficient judgments or choices, particularly under conditions of uncertainty or limited information. These heuristics are based on the idea that, rather than engaging in complex and time-consuming analytical processes, humans often rely on cognitive shortcuts to arrive at satisfactory, if not optimal, decisions.The concept of fast and frugal heuristics has its roots in the research of psychologists Gerd Gigerenzer and his colleagues at the Max Planck Institute for Human Development. The key insight is that, contrary to traditional economic theories that assume humans are rational decision-makers who optimize their choices, people often make decisions using simple heuristics that reduce cognitive effort and processing time. [https://library.mpib-berlin.mpg.de/ft/gg/GG\_Fast\_1999.pdf](https://library.mpib-berlin.mpg.de/ft/gg/GG_Fast_1999.pdf)
+2. In NYC on many summer days, photosynthesis by trees and grasses absorbs all the carbon emissions produced by cars, trucks and buses, “and then some”. The article doesn’t mention that this is part of the natural carbon cycle and that therefore most of the carbon gets re-emitted back into the atmosphere when the plants die and rot, but nonetheless this is an interest finding. [https://phys.org/news/2023-01-york-city-greenery-absorbs-amount.html](https://phys.org/news/2023-01-york-city-greenery-absorbs-amount.html)
+3. Adolescent risk behaviours declined markedly in high-income countries, 1999–2019. [https://www.sciencedirect.com/science/article/pii/S0277953622009224](https://www.sciencedirect.com/science/article/pii/S0277953622009224)
+
+#### This newsletter is brought to you by Deep Dive Data.
+
+Unlock the potential of your data with Deep Dive Data. We're a cost-effective subscription-based data analysis agency specializing in turning complex data into actionable insights. Our experts offer customized solutions, including data visualization, modeling, and predictive analytics. Whether you're a large or small business, we can help you make informed decisions and drive growth. [Contact us today](https://deepdivedata.agency/) to learn more.
+
+!
+
+[https://deepdivedata.agency/](https://deepdivedata.agency/)

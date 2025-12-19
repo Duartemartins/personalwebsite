@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Interessant3 #126"
+description: "Supersonic Startups, The Trust-Diversity Paradox, Africa’s Unfinished Buildings | Three Interesting Things for W/C 2025-02-02"
+date: 2025-02-02 21:11:19 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+The first long-form post on Interessant3 is now free to read for all subscribers:
+
+### ** From Groupon to Supersonic: The Bold Journey of Boom**
+
+How does a product manager from a coupon company end up building a supersonic jet? Blake Scholl’s story is a masterclass in first-principles thinking, perseverance, and daring to challenge industry norms. This fascinating thread traces his journey—leaving a stagnant tech job, self-teaching aerospace engineering, and convincing investors that supersonic travel is viable once again. With $25B in pre-orders, Boom Supersonic is making history.
+
+![Image](/assets/images/substack/156324887-6efccb5b.jpeg)
+
+ [Read the full story](https://threadreaderapp.com/thread/1884745797004357813.html)
+
+### ** The Trust-Diversity Paradox: Is the Debate Overblown?**
+
+Does diversity erode trust? As we shared [last week](https://interessant3.substack.com/p/interessant3-125?r=7n4bs), Robert Putnam’s research suggests a strong link, however economist argues the effect is vastly overstated. His analysis of Putnam’s data reveals that factors like home ownership, crime rates, and commuting times have a far greater impact on trust than diversity. If true, the policy focus should shift away from diversity debates and towards structural reforms that actually improve social cohesion.
+
+ [Explore the counterargument](https://www.betonit.ai/p/trust_and_diverhtml?r=7n4bs&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
+
+### ** Why So Many Buildings in Africa Are Left Unfinished**
+
+Across Africa, skeletal high-rises and half-built homes are a common sight. The reasons are complex: weak property rights, economic instability, and a “build-as-you-can-afford” mindset. Unlike in the West, where developers rely on mortgages and large-scale financing, many African builders fund projects in small, incremental steps—leading to long, uncertain timelines. Personally, I always assumed the reason was simply poverty, and not primarily a consequence of poor property rights and lack of debt financing.
+
+ [Read the full analysis](https://www.economist.com/middle-east-and-africa/2021/04/29/why-are-there-so-many-unfinished-buildings-in-africa) [paywall]

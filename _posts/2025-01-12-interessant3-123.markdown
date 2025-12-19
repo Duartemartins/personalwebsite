@@ -1,0 +1,41 @@
+---
+layout: post
+title: "Interessant3 #123"
+description: "Madrid Metro, Rethinking Rape Gang Discourse, Renewable Energy Pricing | Three Interesting Things for W/C 2025-01-12"
+date: 2025-01-12 22:35:57 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+###  **Madrid’s Metro: A Model of Efficiency**
+
+Between 1995 and 2007, Madrid’s metro system expanded by an impressive 126 miles (203 kilometres), all at a fraction of the cost seen in other cities. The secret? Streamlined planning, pragmatic designs, and 24/7 construction operations allowed the city to achieve rapid growth without breaking the bank. Compared to New York’s and London’s exorbitantly priced projects, Madrid’s approach offers a compelling blueprint for efficient urban transit.
+
+!
+
+ [Read more](https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/)
+
+###  **Rethinking Rape Gang Discourse**
+
+The issue of “grooming gangs,” more accurately described as rape gangs, has ignited a heated and polarising debate. Organised sexual abuse by groups of Pakistani Muslim men, often targeting non-Muslim girls, requires a balanced approach to address specific motivations while avoiding collective blame. As usual, the brilliant does an outstanding job of critically analysing a complex and highly sensitive situation:
+
+> We must reject and ignore the virulent racists who care only about what people look like or what religious background they have and nothing for what their values are or what kind of neighbours they are. We need to dismiss the culturally relativist posturings of the Critical Social Justice activists and reject their claim that any objection to deeply illiberal and even abusive cultural values is racist and imperialistic. We must expect British Muslims to respect and value non-Muslims and feel a bond of loyalty to them and to our country and report any suspicions of predatory behaviour to the police for the integrity of the Muslim community and wellbeing of the broader one. We should respect and thank the feminists who have been working on this problem for so long but urge any of them inclined to regard the problem as ‘men’ to recognise misogynistic and predatory subcultures for maximally effective and focused activism. We cannot allow ourselves to be distracted by foreign or local cults of personality spinning simplistic political narratives which do not align with reality. We must urge liberals to temper their pure individualism with a recognition of cultural difference and lean into the conservative aspect of liberalism which enables us to assertively defend both our liberal traditions and cultural cohesion.
+
+ [Read more](https://www.hpluckrose.com/p/how-not-to-talk-about-rape-gangs)
+
+###  **Exposing the Myths of Renewable Energy Pricing**
+
+A House of Commons Library document briefing MPs on renewable energy pricing has been criticised for spreading disinformation. Claims that renewables are “cheapest” and gas sets the price for renewable energy are deeply misleading. This analysis reveals:
+
+• Renewable energy contracts are often priced higher than wholesale gas prices, undermining the merit order mechanism.
+
+• Subsidies and external costs distort the perception of renewables being “cheap.”
+
+• Global data, used to claim falling prices, doesn’t reflect UK-specific realities where costs are flat or rising.
+
+![Image](/assets/images/substack/154693421-ef6ba4c9.png)
+
+These inaccuracies have shaped public narratives, but addressing them is essential for an informed debate on energy policy and its impact on consumers.
+
+ [Read more](https://threadreaderapp.com/thread/1831369989091201352.html)

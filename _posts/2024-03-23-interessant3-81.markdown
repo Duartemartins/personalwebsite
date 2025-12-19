@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Interessant3 #81"
+description: "Three Interesting Things for W/C 2024-03-17 | Dyson's Universe, Fermat's Library, Founder's Insight"
+date: 2024-03-23 08:05:07 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1.  **Dyson's Universe: Navigating the Cosmos through Thermodynamics** Freeman Dyson offers an interesting journey into the potential survival strategies of life in an ever-expanding universe. This study is not mere speculation; it's a rigorous exploration underpinned by solid mathematical frameworks and thermodynamic principles. Dyson meticulously outlines how life could adapt and thrive amidst the relentless forces of cosmic expansion, providing a narrative that is both audacious and creative. [Read Dyson's Analysis](https://suli.pppl.gov/2019/course/RevModPhys.51.447.pdf)
+2.  **Fermat's Library: A Confluence of Science and Curiosity** Born from the innovative minds of Portuguese computer scientists and physicists, Fermat's Library is a platform for anyone keen on diving deep into scientific literature, providing annotated versions of significant papers, often by the authors themselves. Scientific papers tend to miss a lot of context that led to their publication, so it’s quite cool to have a platform where academics can discuss them after publishing. They also have a Twitter account with great content.[Explore Fermat's Library](https://fermatslibrary.com/)
+
+1.  **Founder's Insight** I’ll leave you with this quote by Alice Bentinck and Matt Clifford in “How to be a Founder”:
+
+> "The best founders realize that their superpower is seeing simplicity in the complexity surrounding them. This enables them to spot opportunities that others can’t, problem solve quickly and communicate to others effectively."

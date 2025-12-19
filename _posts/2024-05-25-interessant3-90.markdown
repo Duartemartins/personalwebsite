@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Interessant3 #90"
+description: "Income and IQ, Entropic Cost, GDP Growth | Three Interesting Things for W/C 2024-05-19"
+date: 2024-05-25 07:00:36 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1.  **Income and IQ: Proof of Meritocracy**  
+ writes how a study using Finnish data corroborates a clear link between income and IQ, providing extremely solid proof that meritocracy exists. It explores how smarter individuals tend to earn more, which one would think is self-evident, yet meritocracy has had a bad rap for decades now. Learn more about this fascinating relationship: [Read more](https://open.substack.com/pub/cremieux/p/income-and-iq-finnish-data?r=7n4bs&utm_medium=ios)
+2.  **Entropic Cost of Bound Water Molecules: A One-Page Masterclass**   
+Jack Dunitz's short paper on the entropic cost of bound water molecules is a perfect example of how simple calculations can lead to big discoveries. In just one page, he explains an important scientific concept in a clear and concise way. Check out this brilliant piece of work: [Read more](https://www.science.org/doi/10.1126/science.264.5159.670)
+
+1.  **European Dominance in 21st Century GDP Growth**  
+Despite often being painted as stagnant in the press, even in reputable places like the Financial Times, large parts of Europe have shown strong economic growth in the 21st century. Seven out of the ten countries with the highest absolute GDP growth in the entire world are in Europe, even when accounting for Ireland’s artificial inflation of this metric. [Read more](https://x.com/duarteosrm/status/1793678144974807191?s=46) !

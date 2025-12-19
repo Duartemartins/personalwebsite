@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Interessant3 #27"
+description: "Three Interesting Things for W/C 2022-02-12"
+date: 2023-02-18 12:01:31 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1. The authors of this paper see no significant gender gap in programming skill. However, employers guess significantly lower programming skill for female applicants (0.12 SD). To add, this perceived skill gap is driven by _female_ employers (!)
+
+1. Italy has officially banned the slaughter of male chicks to end the culling of up to 40 million young birds by the egg industry each year. This is made possible by sexing technology which identifies the sex of a chick before hatching. It follows two years of campaigning by activists, starting with a petition in 2020. France and Germany have also banned culling and a similar petition in the US has exceeded 50,000 signatures.&nbsp;[Link](https://www.eurogroupforanimals.org/news/italy-moves-forward-ban-selective-culling-male-chicks)
+2. This thread on the effects of inflation is very interesting. Oil-shock driven inflation is doubly regressive in that it increases costs for the poor, and makes stocks cheaper to accumulate for the rich. 
+
+#### This newsletter is brought to you by Deep Dive Data.
+
+Unlock the potential of your data with Deep Dive Data. We're a cost-effective subscription-based data analysis agency specializing in turning complex data into actionable insights. Our experts offer customized solutions, including data visualization, modeling, and predictive analytics. Whether you're a large or small business, we can help you make informed decisions and drive growth. [Contact us today](https://deepdivedata.agency/) to learn more.
+
+!
+
+[https://deepdivedata.agency/](https://deepdivedata.agency/)

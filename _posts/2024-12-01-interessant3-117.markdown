@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Interessant3 #117"
+description: "Infinite Water, Cancer Myths, Dorsey’s Vision| Three Interesting Things for W/C 2024-11-24"
+date: 2024-12-01 17:02:43 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+###  **Can Desalination Deliver Infinite Water?**
+
+explores how desalination could solve global water scarcity, transforming deserts into lush paradises. With costs as low as $0.40 per ton—and expected to drop further—desalinated water is already sustaining nations like Israel and Saudi Arabia. Beyond drinking and industrial uses, this technology has the potential to irrigate deserts, create lakes, and support new cities. As renewable energy drives costs even lower, the only limit may be our imagination.
+
+On a personal note, I was recently in Cabo Verde, an African archipelago which has both lush areas and desert, which also makes extensive use of desalination. The potential to increase crop yields there is enormous.
+
+ [Discover the possibilities](https://threadreaderapp.com/thread/1856737836675821862.html)
+
+###  **Cancer Deaths Among Young People: A Myth Debunked?**
+
+Widespread claims of a recent spike in cancer deaths among those aged 0-54 may have been exaggerated. ’s analysis highlights the steady trends in mortality rates, challenging current narratives around this sensitive topic.
+
+![Image](/assets/images/substack/152405316-75b49ec1.png)
+
+ [Read More Here](https://x.com/cremieuxrecueil/status/1858938556342792344)
+
+###  **Jack Dorsey Reflects on Tech, Censorship, and Freedom**
+
+In a recent interview with , Jack Dorsey opens up about his departure from Bluesky, critiques Twitter’s past missteps, and advocates for decentralised social media to uphold free speech. He discusses the challenges of content moderation, the pitfalls of brand advertising, and his vision for censorship-resistant platforms. Dorsey also shares insights into Elon Musk’s acquisition of Twitter and offers a bold prediction for Bitcoin’s future.
+
+ [Read the full interview](https://www.piratewires.com/p/interview-with-jack-dorsey-mike-solana?utm_source=substack&utm_medium=email)

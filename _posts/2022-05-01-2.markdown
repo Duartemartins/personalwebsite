@@ -1,0 +1,19 @@
+---
+layout: post
+title: "#2"
+description: "Three interesting things for W/C 2022-04-25"
+date: 2022-05-01 20:00:29 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1. Democracies perform better than autocracies on economic growth, despite what autocratic governments will lead you to believe:
+
+2. “We find that losing an early joiner has a large negative effect on firm size that persists for at least ten years.”
+
+[NBER - Early Joiners and Startup Performance](https://www.nber.org/papers/w28417)
+
+3. “(…)by 2020 cage-free eggs became much more dominant, representing the majority of eggs produced (in the UK, the EU, Australia)
+
+[The Poultry Site](https://www.thepoultrysite.com/articles/a-closer-look-at-the-cage-free-revolution)

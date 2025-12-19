@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Interessant3 #11"
+description: "Three Interesting Things for W/C 2022-10-09"
+date: 2022-10-13 17:00:47 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1. German political party voting intention and income, visualised as above and under the average. Clear differences between the Brahmin and working class left, as well as Merchant vs working class right. ![https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd727fe12-87fd-4f03-984e-a94cf344c29b_1212x884.png](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/278b3448-4246-4465-9082-4f67c74105e9_1212x884.png)
+2. Minimum wage policy is hotly debated within economics research. This extensive study finds that “relatively large minimum wage increases reduced employment rates among low-skilled individuals by just over 2.5 percentage points”. 
+3. Peer-review is completely inconsistent according to this study, a hugely problematic finding for science:
+
+Looking for jobs in Data? Interested in how a career in Data can contribute effectively to a better world? Check out [https://www.gooddatajobs.com/](https://www.gooddatajobs.com/)
+
+!
+
+Alternatively if you are looking for Data Visualisation, Reporting, or Data Analysis services, check out [Quantica](https://quantica.carrd.co/).

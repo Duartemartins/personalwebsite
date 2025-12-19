@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Interessant3 #94"
+description: "Venture Capital in the US, Shenzhen’s Hidden Treasures, Nuclear Power Challenges | Three Interesting Things for W/C 2024-06-16"
+date: 2024-06-22 06:01:15 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1.  **Navigating the US Venture Capital Landscape** Alice Bentinck from Entrepreneur First explains how to raise venture capital in the US. She discusses the differences between US and UK funding, emphasizing the need for strong networking and understanding what investors expect. This guide is crucial for anyone aiming to raise funds in the competitive US market.[Read more here](https://www.bunniestudios.com/blog/2007/akihabara-eat-your-heart-out/)
+2.  **Exploring the SEG Electronics Market in Shenzhen** Bunnie Huang describes the SEG Electronics Market in Shenzhen as a vibrant hub for electronic components and gadgets. It’s a place where you can find everything from basic parts to rare items, often sold in large quantities suitable for immediate production. The market features tiny booths crammed with components, run by knowledgeable shopkeepers. It’s a tech enthusiast’s paradise, filled with the energy of a flea market and the efficiency of a wholesale supplier. The surrounding area also offers affordable technical books and access to factories that can bring any electronic idea to life.[Read more here](https://www.bunniestudios.com/blog/2007/akihabara-eat-your-heart-out/)
+
+1.  **The Complex Reality of Nuclear Power** This excellent article by , highlights why nuclear power has struggled despite its potential. Overly strict regulations, high costs, and inefficient practices have hindered its progress. The review explains why nuclear energy hasn’t reached its promise and offers insights for future energy policies.[Read more here](https://rootsofprogress.org/devanney-on-the-nuclear-flop)

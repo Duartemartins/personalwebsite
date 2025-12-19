@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Interessant3 #70"
+description: "Three Interesting Things for W/C 2024-01-06 | Smart People and Stupid Beliefs, A Critique of Effective Altruism, and Cattle’s Role in the Carbon Cycle"
+date: 2024-01-06 12:00:44 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1.  **Rethinking Rationality: Why Smart People Hold Stupid Beliefs** A captivating exploration into why intelligent individuals can hold irrational beliefs. This excellent article by delves into the psychological mechanisms behind this paradox, including cognitive biases and the influence of social environments. It's a thought-provoking read that challenges our understanding of human reasoning and the complexities of navigating a world rife with misinformation.[Read More](https://gurwinder.substack.com/p/why-smart-people-hold-stupid-beliefs)
+2.  **The Missteps of Effective Altruism: Losing Focus?** This insightful critique examines the trajectory of the Effective Altruism movement, questioning whether its noble intentions are being overshadowed by impractical strategies and institutional issues. The piece discusses the balance between idealism and practicality and how the movement's priorities may have deviated from its original ethos. It's an essential read for those interested in the intersection of philanthropy, ethics, and practical action.[Read More](https://iai.tv/articles/how-effective-altruism-lost-the-plot-auid-2284)
+3.  **Cattle and the Carbon Cycle: Beyond the Common Narrative** Diving into the role of cattle in the biogenic carbon cycle, this article by the University of California Davis differentiates between gases emitted by cattle and fossil fuel gases, illustrating their distinct impacts on the atmosphere and challenging the now common belief that cattle contributes to climate change. It also explores the potential role of cattle in carbon sequestration, presenting a counter-narrative to common beliefs about livestock and climate change. This piece is vital for understanding the complexities of agricultural practices and their environmental implications.[Read More](https://clear.ucdavis.edu/explainers/biogenic-carbon-cycle-and-cattle)
+
+#### **Revolutionise Your Professional Expertise with neuralvault**
+
+Whether you're a solicitor, fashion aficionado, art appraiser, investor, or crowdfunding campaign organiser, our advanced GPT tools provide unrivalled insights and efficiency. Embrace transformative AI technology - presently offering complimentary access to all models. Check out [https://neuralvault.xyz](https://HTTPS://neuralvault.xyz) and transform your professional approach today.

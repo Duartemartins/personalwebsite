@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Interessant3 #39"
+description: "Three Interesting Things for W/C 2023-05-21"
+date: 2023-05-28 13:52:11 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1. The double marginalisation problem is when a supply chain has two or more monopolies at different stages. Each monopoly, being the only supplier in its part of the supply chain, imposes its own markup on the price. This creates a more-than-proportional deadweight loss, meaning the monopolies make less money, consumers have less marginal utility, and social welfare is decreased because fewer goods are consumed. Alex Tabarrok of GMU illustrates this really well by using the example of tolls on the Rhine river, but we see this all the time in consumer tech, for example when we use the Facebook app on an iPhone. 
+2. This is a really interesting Twitter thread by the chief data reporter at the FT on the differences between UK and US political sentiments, full of really surprising facts: [https://twitter.com/jburnmurdoch/status/1662061344814768129](https://twitter.com/jburnmurdoch/status/1662061344814768129?s=20)
+3. An excellent write up on what Napoli’s Serie A victory means for the city of Naples: [https://unherd.com/2023/05/the-fairy-tale-that-freed-napoli/](https://unherd.com/2023/05/the-fairy-tale-that-freed-napoli/?tl_inbound=1&tl_groups[0]=18743&tl_period_type=3)
+
+#### This newsletter is brought to you by Deep Dive Data.
+
+Unlock the potential of your data with Deep Dive Data. We're a cost-effective subscription-based data analysis agency specializing in turning complex data into actionable insights. Our experts offer customized solutions, including data visualization, modeling, and predictive analytics. Whether you're a large or small business, we can help you make informed decisions and drive growth. [Contact us today](https://deepdivedata.agency/) to learn more.
+
+!
+
+[https://deepdivedata.agency/](https://deepdivedata.agency/)

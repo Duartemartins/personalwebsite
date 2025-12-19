@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Interessant3 #12"
+description: "Three Interesting Things for W/C 2022-10-16"
+date: 2022-10-20 12:51:21 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1. Some not great news for those in rich nations: Midlife crises are a real thing!
+2. On the other hand, it might help to gain some perspective about how unique and unlikely life is. 
+3. This study finds that when ethnicity is accounted for and historic data errors are corrected, upward mobility for men in the USA has improved over time: 
+
+Looking for jobs in Data? Interested in how a career in Data can contribute effectively to a better world? Check out [https://www.gooddatajobs.com/](https://www.gooddatajobs.com/)
+
+!
+
+Alternatively if you are looking for Data Visualisation, Reporting, or Data Analysis services, check out [Quantica](https://quantica.carrd.co/).

@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Interessant3 #61"
+description: "Three Interesting Things for W/C 2023-10-29 | The Debate on Minimum Wage Impact, Nuanced Perspectives on the Israeli-Palestinian Conflict, and Kant's Influence on the Open Society"
+date: 2023-10-30 23:01:15 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+Double issue this week.
+
+1.  **The Debate on Minimum Wage Impact** : The effects of minimum wage increases on employment are a topic of much debate among economists. A comprehensive review of studies in the United States concludes that higher minimum wages have strong negative employment effects, particularly for teens and young adults, as well as the less well educated. Explore this contentious issue further [here](https://www.nber.org/system/files/working_papers/w28388/w28388.pdf).
+2.  **Nuanced Perspectives on the Israeli-Palestinian Conflict** : A detailed analysis exploring the ideological battles embedded within the Israeli-Palestinian conflict. Both parties are deeply entrenched in a left-wing ideological framework concerning justice, racism, and oppression. The piece suggests that Israel's technological advancements have made its society complacent, while the Palestinian society remains bogged down by a culture of hostility and violence. Delve deeper into the intricacies of this longstanding conflict [here](https://x.com/HusseinAboubak/status/1717231909917413882?s=20).
+3.  **Kant’s Influence on the Open Society** : Philosopher Immanuel Kant's central practical doctrine, as cited by Karl Popper in "The Open Society and Its Enemies," asserts that 'human individuals are ends, and should not be used as mere means to your ends.' According to Popper, no other thought has been as influential in the moral development of humanity. This age-old wisdom remains crucial in the context of modern social and ethical dilemmas. Learn more about this enduring philosophy [here](https://chat.openai.com/share/fde7e8d8-cf6a-4cec-a248-6a80c59f9820). !
+
+#### This newsletter is brought to you by websummariser
+
+websummariser is an AI summarisation tool for the intellectually curious. Effortlessly condense vast expanses of web content into digestible insights with a single click. Delve into a wide array of topics and transform your reading experience into a more manageable and efficient venture. Your pathway to clearer understanding starts at [websummariser.com](https://www.websummariser.com/).

@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Interessant3 #62"
+description: "Three Interesting Things for W/C 2023-11-05 | The Ripple Effects of Minimum Wage, The Long-Term Benefits of CBT, and The Myth of Multitasking"
+date: 2023-11-06 22:00:11 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1.  **The Unintended Consequences of Minimum Wage Increases:** Continuing from last week’s theme on the impacts of minimum wages, a study examining the aftermath of a substantial minimum wage hike in Israel reveals a counterintuitive impact. While aiming to benefit low-income workers, the increase actually resulted in reduced profits for companies, particularly those employing many minimum wage workers. Intriguingly, these financial hits were felt more by lower-income business owners, not the affluent, suggesting a complex interplay between policy and income redistribution. Learn about the delicate balance between wage policies and business sustainability [here](https://www.sciencedirect.com/science/article/abs/pii/S0047272721000591).
+2.  **Sustaining Change with CBT and Economic Assistance:** An extensive 10-year study has shown that a combination of cognitive behavioral therapy (CBT) and a modest cash incentive has a remarkable long-term impact on reducing crime and violence. In West Africa, the most troubled young men saw their engagement in such activities drop by half, with an average of 350 fewer crimes committed per participant _over a decade_. The cost-effectiveness is as astonishing as the social benefit: roughly $1.50 invested prevented one crime, totaling an investment of about $500 per individual for therapy and cash. This transformative approach promises a new horizon in behavioral intervention and social policy, proving that strategic investment in human potential can yield sustained, positive change. Discover the implications for crime prevention and social policy [here](https://osf.io/preprints/socarxiv/q85ux/).
+3.  **Debunking the Multitasking Myth:** An insightful analysis inspired by a lecture from American author, essayist, and literary critic William Deresiewicz, supported by Stanford research, dismantles the myth of multitasking. It turns out, the more we try to do at once, the less effectively we do any of it—including the very act of multitasking itself. Focused thought and the cultivation of patience are especially important for developing original ideas, and a crucial skill in an age of endless distractions. Read more on why slowing down is the secret to better thinking [here](https://fs.blog/how-to-think/).
+
+#### This newsletter is brought to you by websummariser
+
+websummariser is an AI summarisation tool for the intellectually curious. Effortlessly condense vast expanses of web content into digestible insights with a single click. Delve into a wide array of topics and transform your reading experience into a more manageable and efficient venture. Your pathway to clearer understanding starts at [websummariser.com](https://www.websummariser.com/).

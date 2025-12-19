@@ -1,0 +1,37 @@
+---
+layout: post
+title: "Interessant3 #127"
+description: "Graduate Tax, Nordic Electricity Prices, Thomas Sowell | Three Interesting Things for W/C 2025-02-09"
+date: 2025-02-09 22:15:02 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+### ** The Graduate Tax Debate: Who Really Pays?**
+
+An evidence review by Ron Diris and Erwin Ooghe of Maastrich University examines how higher education should be funded, weighing tax-financed subsidies against alternatives like income-contingent loans (ICLs) and graduate taxes (GRTs). While tax-funded systems without tuition fees keep education accessible, they tend to be **regressive** , as lower-income taxpayers subsidise wealthier graduates. The authors argue that **GRTs and ICLs strike a better balance between equity and efficiency** , ensuring graduates contribute in proportion to their future earnings while reducing financial risk. The study also questions whether higher education produces enough external benefits to justify large public subsidies.
+
+The UK’s income-contingent student loan system, which functions similarly to a graduate tax, demonstrates the benefits of aligning contributions with earnings. According to UK Parliamentary data, 2022/23 saw **record levels of higher education participation** , with over 2.9 million students enrolled. The system’s flexibility has driven a steady increase in university entry rates, **particularly among the disadvantaged** , whose participation doubled since 2005.
+
+![Image](/assets/images/substack/156816002-2ffe62b2.jpeg)
+
+ [Read more](https://academic.oup.com/economicpolicy/article-abstract/33/94/265/4955984)
+
+ [UK data](https://commonslibrary.parliament.uk/research-briefings/cbp-7857/)
+
+### ** Nordic Electricity Prices: The Cheapest in Europe**
+
+Eurostat data shows that non-household electricity prices in the Nordics are among the lowest in Europe, even before adjusting for purchasing power parity (PPP). The region benefits from a mix of low (often no) taxation, efficient market operations via Nord Pool, and a strong reliance on nuclear and renewable energy. Nordic heavy industry has a triple advantage of highly skilled labour, access to capital, and cheap energy.
+
+![Image](/assets/images/substack/156816002-b5b3c6be.jpeg)
+
+ [Read more](https://ec.europa.eu/eurostat)
+
+### ** The Nonconformist: Thomas Sowell’s Intellectual Journey**
+
+wrote a very interesting piece on the economist Thomas Sowell. Harvard psychologist describes Sowell as **“the most underrated writer in history,”** , combining profound insights with plainspoken clarity. Once a Marxist, Sowell shifted to free-market Liberalism after witnessing egregious government inefficiencies firsthand. His works, including _Basic Economics_ and _Knowledge and Decisions_, challenge mainstream narratives on race, inequality, and positive discrimination, focusing on cultural and historical factors over simplistic explanations.
+
+Sowell’s enduring impact lies in his advocacy for decentralised decision-making and policies judged by their results, not intentions. His story, from severe poverty in North Carolina to academic prominence, is a testament to his belief in self-reliance and personal responsibility. Highly recommended reading.
+
+ [Read more](https://www.city-journal.org/article/the-nonconformist)

@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Interessant3 #55"
+description: "Three Interesting Things for W/C 2023-09-17"
+date: 2023-09-18 18:31:22 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1.  **Preference Falsification** : The complexity of societal pressures often makes us misrepresent our true feelings and opinions. This phenomenon, known as Preference Falsification, can sometimes lead to shocking revelations. For instance, a 2020 study by Bursztyn et al. found that most young married men in Saudi Arabia privately support women working outside the home. Yet, these men significantly underestimate how many of their peers share this belief. When they learn the true level of support, they are more willing to help their wives secure employment. Discover more about this intriguing concept [here](https://en.m.wikipedia.org/wiki/Preference_falsification).
+2.  **Keralan Fisherman and the Power of Mobile Phones:** It's amazing what a difference a piece of technology can make. In Kerala, introducing mobile phones to fishermen led to remarkable market efficiency. Within weeks, prices stabilized, waste became a thing of the past, and the region's economy reaped the benefits. This demonstrates the far-reaching impacts of connectivity in even the most traditional sectors. Check out the full story [here](https://x.com/cremieuxrecueil/status/1703568268970053930?s=20).
+3.  **Zeppelins Over London:** We've all heard about the World War II Blitz, but did you know that London was also bombed by Germany during the Great War? These raids were executed using Zeppelins, which were not always accurate or reliable. Winds often dispersed the airships, with some even getting lost over the Mediterranean or crash-landing in France. If you're in London, remnants of these bombings can still be found near St. Bartholomew's Hospital. Learn more about this fascinating slice of history [here](https://en.wikipedia.org/wiki/German_bombing_of_Britain,_1914%E2%80%931918). !Stay curious and join us again next week for three more interesting things! 
+
+#### This newsletter is brought to you by DeepDive
+
+Amplify your performance and client satisfaction with DeepDive - the comprehensive SaaS analytics solution for agencies. Seamlessly aggregate all of your clients' web and marketing analytics, unearth deep insights, and deliver AI-powered, white-labeled presentations instantly.
+
+!
+
+[https://trydeepdive.com](https://trydeepdive.com?utm_source=substack&utm_medium=newsletter)

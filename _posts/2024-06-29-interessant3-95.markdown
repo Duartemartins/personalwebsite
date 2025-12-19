@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Interessant3 #95"
+description: "Therapeutic Hats, Working Hard, Emergent Phenomena | Three Interesting Things for W/C 2024-06-23"
+date: 2024-06-29 11:01:17 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1.  **Purple Hat Therapy: Visualising Causation** Purple hat therapy refers to the practice of combining established therapeutic methods with an unusual addition, like wearing a purple hat. This approach highlights how the added element often does not contribute to the therapy's effectiveness, which stems from the underlying established practice. It’s a good way to visualise the importance of underlying causal drivers rather than things which may be claimed to be the root cause. One example that is often used is eye movement desensitisation and reprocessing, however others that come to mind are beneficial practices that incorporate supernatural practices and beliefs on top.[Read more](https://en.wikipedia.org/wiki/Purple_hat_therapy)
+2.  **The Secret to Success: Work Hard**   
+Renowned mathematician Terry Tao shares insights on the critical role of hard work in achieving success. Through his experiences and advice, he emphasises perseverance, strategic effort, and the importance of enjoying your work. Tao offers lots of useful advice, such as not obsessing over a single big problem, suggesting instead a balanced approach to professional growth and problem-solving.   
+[Read more](https://terrytao.wordpress.com/career-advice/work-hard/)
+
+1.  **Emergence Explained: More is Different**   
+Philip Anderson's short and influential paper "More is Different" explores the concept of emergence, where complex behaviours emerge from simpler interactions that cannot be fully explained by examining individual components alone. This principle explains why fields like chemistry and biology maintain their own unique complexities beyond just physics. One example I like is that of “wetness”, which is not present in hydrogen and oxygen atoms, or in any singular molecule of water, but starts to occur in larger amounts of water.  
+[Read more](https://www.tkm.kit.edu/downloads/TKM1_2011_more_is_different_PWA.pdf)

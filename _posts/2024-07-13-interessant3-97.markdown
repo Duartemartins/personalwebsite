@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Interessant3 #97"
+description: "False Alarms, Nat Friedman, The God Divide | Three Interesting Things for W/C 2024-07-06"
+date: 2024-07-13 07:01:53 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1.  **The Loudest Alarm is Probably False**  
+This LessWrong article explores why the most alarming warnings are often not the most accurate. People tend to overreact to loud, dramatic alerts, but these are frequently exaggerated or false. Instead, it’s essential to focus on evidence and critical thinking to assess real threats effectively. Particularly relevant in a world of activism and “secular religions”, understanding this can help avoid unnecessary panic and make better decisions.[Read more](https://www.lesswrong.com/posts/B2CfMNfay2P8f2yyc/the-loudest-alarm-is-probably-false)
+2.  **Meet Nat Friedman: A Visionary in Tech**  
+Nat Friedman is an influential investor, entrepreneur, and developer with an impressive background:
+  - **Education:** Attended MIT, inspired by Richard Feynman's autobiographies.
+  - **Career Highlights:** Founded two companies and served as CEO of GitHub from 2018 to 2021.
+  - **Current Work:** Focuses on AI, infrastructure, open source, and frontier tech, while also working on reading the ancient Herculaneum Papyri.
+Friedman believes in the power of technology to reshape the universe, the importance of enthusiasm and speed in work, and the value of smaller teams for efficiency and innovation.  
+[Read more](https://nat.org/) on his website
+
+1.  **The God Divide within the Heterodox Movement**  
+Within the heterodox movement, which values diverse viewpoints, there is a significant divide between religious New Theist and secular New Atheist members. Ayaan Hirsi Ali's recent essay argues that a return to Christianity is necessary to counter threats like authoritarianism and woke ideology. Public intellectuals like Jordan Peterson and Douglas Murray also stress the importance of Judeo-Christian values for social cohesion. However, others such as Christopher Hitchens, Richard Dawkins, or Daniel Dennet have pointed out that many Enlightenment thinkers who shaped modern liberal democracies were critical of religious authority. This article examines how the tension between these differing beliefs influence discussions and positions within the movement.  
+[Read more](https://www.persuasion.community/p/the-god-divide-within-the-heterodox?r=7n4bs&utm_medium=ios&triedRedirect=true)

@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Interessant3 #68"
+description: "Three Interesting Things for W/C 2023-12-24 | High-Speed Rail Insights, Tax Policy Implications, University Transformation"
+date: 2024-01-01 20:11:45 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+New Year’s Day double issue - I wish all my readers a fantastic 2024 full of enjoyable reads.
+
+1.  **The Paradox of High-Speed Rail** : An in-depth look at why high-speed rail is not more prevalent, particularly in the U.S. The article highlights a fascinating aspect of transportation networks: there are 15,000 airports in the U.S., each capable of interconnecting, whereas a new rail terminal adds only a single connection to the network. This comparison sheds light on the infrastructural and economic challenges that high-speed rail systems face, providing a comprehensive view of the hurdles in implementing these systems. [Explore the complexities of high-speed rail](https://caseyhandmer.wordpress.com/2022/10/11/why-high-speed-rail-hasnt-caught-on/).
+
+1.  **Evolving Tax Policies and Economic Growth** : This analysis from the Tax Foundation delves into how tax policies impact economic growth. A significant finding is the negative relationship between the progressivity of personal income taxes and economic growth. The study scrutinizes various tax structures, revealing how certain taxation models can impede or foster a nation's economic health. It's an insightful read for understanding the nuanced dynamics between taxation and economic prosperity. An excellent soporific for some, I’ve yet to find such a concise review of the literature on the subject. [Uncover the effects of tax policies on economic growth](https://taxfoundation.org/research/all/federal/what-evidence-taxes-and-growth/).
+
+1.  **Harvard's Free Speech Challenge** : Harvard University's recent struggles with free speech issues, particularly regarding politically sensitive topics, are brought to light in this article by Steven Pinker. The university's low FIRE (Foundation for Individual Rights in Education) rating, coupled with President Claudine Gay's controversial responses to questions about antisemitic hate speech, exemplify the broader challenges facing higher education. The article proposes a fivefold approach to address these issues: prioritising free speech, institutional neutrality, nonviolence, viewpoint diversity, and scrutinising diversity, equity, and inclusion (DEI) strategies. While not a quick fix, this approach is seen as necessary to restore universities' credibility and is argued to be a more effective solution than superficial measures. [Discover the proposed path for higher education reform](https://www.bostonglobe.com/2023/12/11/opinion/steven-pinker-how-to-save-universities-harvard-claudine-gay/).
+
+#### **Revolutionise Your Professional Expertise with neuralvault**
+
+Whether you're a solicitor, fashion aficionado, art appraiser, investor, or crowdfunding campaign organiser, our advanced GPT tools provide unrivalled insights and efficiency. Embrace transformative AI technology - presently offering complimentary access to all models. Check out [https://neuralvault.xyz](https://HTTPS://neuralvault.xyz) and transform your professional approach today.

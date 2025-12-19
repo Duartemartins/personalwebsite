@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Interessant3 #113"
+description: "Growth Strategies, Election Insights, Cultural Geography | Three Interesting Things for W/C 2024-10-27"
+date: 2024-11-09 14:01:16 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+**From Zero to 50,000 MAU Without Marketing**
+
+Discover how a startup, VEED.IO, scaled from 0 to 50,000 monthly active users (MAU) without spending on marketing. Starting with strong product-building skills but no experience in growth strategies, the cofounders navigated their journey through organic methods and strategic execution. With a focus on SEO, user feedback, and content-driven tactics, they achieved 40% month-over-month growth and edged close to profitability, proving that innovative thinking and commitment can propel self-funded startups to success. Learn from their playbook and take actionable insights for your own venture.
+
+[Read more on Reddit](https://www.reddit.com/r/Entrepreneur/comments/cwitc7/how_we_grew_from_0_to_50000_mau_with_no_marketing/?rdt=43021)
+
+ **Election Predictions and the “Neighbour Method”**
+
+In the world of high-stakes betting on political outcomes, one French whale on Polymarket accurately forecasted the Trump-Biden election by using an unconventional polling approach known as the “neighbour method.” This technique, differing from traditional polling, proved to yield more accurate insights, highlighting an innovative, if overlooked, strategy in predictive analytics.
+
+[Explore the details in The Wall Street Journal](https://www.wsj.com/finance/how-the-trump-whale-correctly-called-the-election-cb7eef1d)
+
+ **Tracing UK Ancestry in the US**
+
+A map reveals a fascinating aspect of American demography: regions where UK ancestry surpasses that of other European groups. This geographic representation sheds light on migration patterns and cultural legacies still embedded in parts of the United States. It’s a vivid reminder of how historical ties shape present-day identities.

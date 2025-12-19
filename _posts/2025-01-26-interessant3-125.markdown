@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Interessant3 #125"
+description: "Productivity, Bell Labs, Putnam on Diversity | Three Interesting Things for W/C 2025-01-26"
+date: 2025-01-26 23:14:23 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+### ** Notes on Productivity**
+
+There has been a lot of chat about European productivity lately, with the Draghi report, the recent speech by EU Commission President Von der Leyen, the eu/acc movement, and more. [I welcome any initiative to get Europe growing](https://www.santiago-martins.com/european-accelerationism-open-letter-eu-acc.html), but the general consensus is that the USA has a fast-growing dynamic economy whereas Europe is stagnant and even losing ground to China. I took a look at the OECD data and it’s a bit narrative-violating, however. There are a few interesting things to point out:
+
+First, Western European countries and the USA have had similar productivity as far back as records go. Second, Britain and Italy are similarly productive and started stagnating around the year 2000. Usually people point to the 2008 and 2010 crises, respectively, but they don’t seem to have had a significant effect. Finally, not only is productivity increasing over time, the _growth rate_ is also increasing, meaning we’re becoming more productive at a faster rate than ever. I wonder if this accelerates as older generations retire?
+
+!
+
+### ** The Golden Age of Bell Labs**
+
+A mini-documentary into Bell Labs’ incredible history by reveals how this innovation powerhouse shaped modern technology. From the invention of the transistor to the foundations of information theory by Claude Shannon, this video explores the lab’s incredible legacy. It made me think how we can replicate such institutions around the world. Definitely worth a watch.
+
+!
+
+ [Watch the video here](https://www.youtube.com/watch?v=c-cSeTz3dMg)
+
+### ** Putnam on Diversity**
+
+A New York Times article reports that Harvard political scientist Robert Putnam’s extensive research reveals a striking finding: greater diversity in communities tends to erode social capital very strongly. In diverse settings, people are more likely to “distrust their neighbours, regardless of the colour of their skin,” withdraw from friendships, volunteer less, give less to charity, and even vote less. They are also more likely to “hunker down” in social isolation, disengaging from civic life altogether, which leads to negative outcomes in health, education, and more.
+
+Putnam’s findings are not isolated. Economists Matthew Kahn of UCLA and Dora Costa of MIT reviewed 15 studies and all linked higher diversity with lower levels of trust and cooperation. Their own research found that during the American Civil War, Union Army units with greater diversity in age, occupation, and birthplace saw significantly higher desertion rates. Putnam argues we can remain hopeful, however, since in the very long run these effects disappear as communities become more homogeneous.
+
+ [Read more in the New York Times](https://archive.ph/mLwqe)

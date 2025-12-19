@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Interessant3 #47"
+description: "Three Interesting Things for W/C 2023-07-23"
+date: 2023-07-30 21:44:32 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1. Karl Popper’s _paradox of tolerance_ is a key concept in liberal democracy. Popper wrote his famous _The_ _Open Society and its Enemies_ while fleeing from the Nazis, yet he was always a steadfast defender of liberty, even the freedom to utter intolerant philosophies:
+
+> Less well known [than other paradoxes] is the _paradox of tolerance:_ Unlimited tolerance must lead to the disappearance of tolerance. If we extend unlimited tolerance even to those who are intolerant, if we are not prepared to defend a tolerant society against the onslaught of the intolerant, then the tolerant will be destroyed, and tolerance with them.—In this formulation, I do not imply, for instance, that we should always suppress the utterance of intolerant philosophies; as long as we can counter them by rational argument and keep them in check by public opinion, suppression would certainly be most unwise. But we should claim the _right_ to suppress them if necessary even by force; for it may easily turn out that they are not prepared to meet us on the level of rational argument, but begin by denouncing all argument; they may forbid their followers to listen to rational argument, because it is deceptive, and teach them to answer arguments by the use of their fists or pistols. We should therefore claim, in the name of tolerance, the right not to tolerate the intolerant. We should claim that any movement preaching intolerance places itself outside the law and we should consider incitement to intolerance and persecution as criminal, in the same way as we should consider incitement to murder, or to kidnapping, or to the revival of the slave trade, as criminal.
+
+[Link](https://en.wikipedia.org/wiki/Paradox_of_tolerance#cite_note-opensociety-1)
+2. Three cool companies with unique approaches in the geothermal space:
+[
+ !Faster, Please!
+
+ The prospects for geothermal energy are heating up
+
+Drill, baby, drill — but not for oil and natural gas. It’s easy to get excited by the potential of geothermal energy. For starters, that potential is pretty massive. Advocates call geothermal the “sun beneath our feet,” so much so that it’s a cliché. Yet that description is no exaggeration. The Earth’s molten core is roughly as hot as the surface of the…
+
+Read more
+
+4 years ago · 14 likes · James Pethokoukis
+](https://fasterplease.substack.com/p/-the-prospects-for-geothermal-energy?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
+3. Researchers show that in organisations, “the cost associated with misaligned incentives is minimized if experts of similar abilities are placed in the same team. Consequently, surplus maximization may lead to non-diversified teams”. Differences in ability appear to be one dimension on which team diversity is not optimal. Although the context is different, a successful example of sorting people based on ability is grouping children into sets at school. [https://www.sciencedirect.com/science/article/abs/pii/S0022053122000874](https://www.sciencedirect.com/science/article/abs/pii/S0022053122000874) 
+
+#### This newsletter is brought to you by DeepDive
+
+Amplify your performance and client satisfaction with DeepDive - the comprehensive SaaS analytics solution for agencies. Seamlessly aggregate all of your clients' web and marketing analytics, unearth deep insights, and deliver AI-powered, white-labeled presentations instantly.
+
+!
+
+[https://trydeepdive.com](https://trydeepdive.com?utm_source=substack&utm_medium=newsletter)

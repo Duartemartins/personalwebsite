@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Interessant3 #72"
+description: "Three Interesting Things for W/C 2024-01-14 | Repurposing Gas Pipelines, The Dzhanibekov Effect, High-Speed Rail Challenges"
+date: 2024-01-20 00:19:17 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1.  **Transforming Gas Pipelines for a Greener Future**   
+In an innovative move, New York is set to repurpose its existing gas pipelines to transport clean heat to buildings via ground-source heat pumps. These 13 pilot projects could potentially be a big step towards carbon-free buildings and are a good example of how existing infrastructure can be adapted for environmentally friendly solutions. [More on New York's Clean Heat Initiative](https://www.canarymedia.com/articles/carbon-free-buildings/new-york-will-repurpose-gas-pipelines-to-pump-clean-heat-into-buildings)
+2.  **The Dzhanibekov Effect: Space Oddity**   
+This fascinating phenomenon, named after Russian cosmonaut Vladimir Dzhanibekov, involves the unexpected motion of objects in a zero-gravity environment, defying our usual expectations of how things move in space. Also known as the Tennis Racket Theorem, it states that an object with three unique moments of inertia, rotation about the axis of intermediate moment of inertia is unstable, while rotation about the other two axis is stable.   
+[Watch the Dzhanibekov Effect in Action](https://twitter.com/historyinmemes/status/1727901865243758879)
+3.  **The Elusive Dream of High-Speed Rail**   
+High-speed rail systems are transformative in many parts of the world, yet they face unique challenges in certain regions, like the United States. A recent analysis delves into why high-speed rail hasn't become more widespread, despite its apparent benefits. From political hurdles to geographical and economic challenges, this article gives a comprehensive, if contrarian, look at the complexities surrounding the adoption of high-speed rail. Here’s one interesting quote:
+
+> If I build another airport, I have added 15,000 potential connections to the network. If I build another rail terminal and branch line, at significantly greater cost than an airstrip, I have added only one additional connection to the network.
+
+[Understanding High-Speed Rail Challenges](https://caseyhandmer.wordpress.com/2022/10/11/why-high-speed-rail-hasnt-caught-on/)

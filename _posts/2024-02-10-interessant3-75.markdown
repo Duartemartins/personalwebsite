@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Interessant3 #75"
+description: "Three Interesting Things for W/C 2024-02-04 | The Geopolitics of the Ukraine War, The Paradox of Tolerance, One Minute Focus"
+date: 2024-02-10 13:23:22 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1.  **The Geopolitics of the Ukraine War: Beyond the Battlefield**  
+The Ukraine conflict is more than a regional dispute; it's a lens into global power dynamics. ’s analysis explores the strategic interests and potential shifts in international relations resulting from the war, focusing on the role that Russia and Poland’s shared history has on the current conflict.[Explore the geopolitical stakes of the Ukraine War](https://open.substack.com/pub/noahpinion/p/the-ukraine-war-is-ultimately-about?r=7n4bs&utm_medium=ios&utm_campaign=post) !
+
+1.  **Civilisational Guilt and The Paradox of Tolerance**  
+Areo Magazine's thought-provoking piece discusses the fine line between tolerance and the endorsement of intolerant ideologies under the banner of liberalism, urging a reassessment of tolerance's limits and arguing in favour of the values of Liberalism - tolerance, individual liberty, freedom of speech, women’s and minority rights.[Read more about tolerance and civilisational guilt](https://areomagazine.com/2020/12/10/civilisational-guilt-and-the-paradox-of-tolerance/)
+
+1.  **One Minute Focus Tool**  
+Based off Andrew Huberman’s recommendations on using focused staring as a tool to improve mental focus, a Hacker News user created a very simple tool to help you do these exercises called “One Minute Focus”. I found it surprisingly pleasant and interesting to experience how one’s mind is always seeking stimulus.  
+[Join the discussion on Hacker News](https://news.ycombinator.com/item?id=39288039)

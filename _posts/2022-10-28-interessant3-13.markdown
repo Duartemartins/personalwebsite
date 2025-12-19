@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Interessant3 #13"
+description: "Three Interesting Things for W/C 2022-10-24"
+date: 2022-10-28 17:02:58 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1. These researchers find evidence for in-group bias in NBA refereeing:
+
+> “We provide the first analysis of racial in-group bias in Type-I and Type-II errors. Using player-referee matched data from NBA games we show that there is no overall racial bias or in-group bias in foul calls made by referees. Similarly, there is no racial bias or in-group bias in Type-I errors (incorrect foul calls). On the other hand, there is significant in-group favoritism in Type-II errors. These are wrongful acquittals where the referee did not blow the whistle although a foul was committed.” (…) “We also show that a higher Type-I error rate during the season lowers referees’ probability to be selected to officiate a game in the playoffs, whereas variations in the rate of Type-II errors have no impact on the likelihood of a playoff assignment. These results indicate that in-group favoritism takes place in a domain which is not costly (making Type-II errors), and that bias is eliminated when it is costly to the decisionmaker.”
+
+[https://www.nber.org/papers/w29860](https://www.nber.org/papers/w29860)
+2. How to reduce vaccine hesitancy, from The Economist: 
+
+> “Among the many factors that could change sceptics’ minds, two can be measured readily with national statistics. One is the pace of vaccination. The more doubters see that shots are available and that people they know have not suffered ill effects, the more willing they may be to follow suit. The other is the gravity of the pandemic. If lots of people are dying, fear of the virus might trump fear of the vaccine.”
+
+[https://archive.ph/W3EYr](https://archive.ph/W3EYr)
+
+1. Sam Bowman proposes government-subsidised loans for everyone to invest in their career. I find this an interesting proposal with potential for support across the political spectrum.
+
+> **“My proposal is to eliminate the bias in favour of university education by**  **allowing any school leaver to access a loan on the same terms as the student loan scheme**. This would mean that, in practice, you could borrow £27,000 or more at the age of 18 to spend on whatever you wanted, to be repaid as you started earning more as you got older on the same terms as university loans are repaid”
+
+[
+Consumer Surplus
+
+Student loans for everyone
+
+After Covid, people might want to “give back” to young people who’ve given up a year or more of the best part of their lives to help suppress a disease that poses only a very small danger to them. That’s not really how I see it - I think most younger people do not want older loved ones dying of Covid, so even if they are not the main beneficiaries of lo…
+
+Read more
+
+5 years ago · 9 likes · Sam Bowman
+](https://sambowman.substack.com/p/student-loans-for-everyone?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
+
+If you are looking for Data Visualisation, Reporting, or Data Analysis services, check out [Quantica](https://quantica.carrd.co/).

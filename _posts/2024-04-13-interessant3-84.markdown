@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Interessant3 #84"
+description: "The Madness of Starting Up in Germany, Living like Actors, The Doctrine of Gender Identity | Three Interesting Things for W/C 2024-04-08"
+date: 2024-04-13 07:01:30 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1.  **Founding Frustrations and Triumphs in Germany**  
+Starting a company in Germany involves navigating an almost unbelievable labyrinth of bureaucratic steps combined with significant personal perseverance. This self described rant by Nicolas Eberlein outlines the 14 steps marred by complexities and obstacles that entrepreneurs face, from registration to dealing with a banking catch-22. To give one example, you need at least €13,400 to _just get started_. I take my hat off to all that have had to undergo this process, and find it all the more surprising that Germany has any startups at all.  
+[Explore the entrepreneurial journey in Germany here](https://eidel.io/how-to-found-a-company-in-germany-14-easy-steps-and-lots-of-pain/)
+2.  **The Philosophy of Life's Roles: An Epictetan View**
+
+> "We are like actors in a play. The divine will has assigned us our roles in life without consulting us. Some of us will act in a short drama, others in a long one. We might be assigned the part of a poor person, a cripple, a distinguished celebrity or public leader, or an ordinary private citizen. Although we can’t control which roles are assigned to us, it must be our business to act our given role as best as we possibly can and to refrain from complaining about it. Wherever you find yourself and in whatever circumstances, give an impeccable performance. If you are supposed to be a reader, read; if you are supposed to be a writer, write."
+
+Epictetus - [The Handbook](https://www.goodreads.com/book/show/24618.The_Art_of_Living) (AKA The Art of Living)
+
+1.  **Critically Examining the Doctrine of Gender Identity**  
+In a presentation at Coventry Sceptics, Dr. Rebecca Reilly-Cooper, previously a philosophy lecturer at Oxford and Warwick, challenges the prevailing notions of gender identity. Her critique meticulously dissects the arguments and assumptions underlying this modern doctrine, highlighting the complexities and implications of defining gender beyond traditional binaries. A thought-provoking talk encouraging deeper reflection on this issue.  
+[Watch the full presentation here](https://www.youtube.com/watch?v=QPVNxYkawao)

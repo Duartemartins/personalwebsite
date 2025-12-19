@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Interessant3 #50"
+description: "Three Interesting Things for W/C 2023-08-13"
+date: 2023-08-20 20:05:24 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1. According to these researchers, individualism, as measured using Jonathan Haidt’s framework of moral values, is a key dimension of ideology in support of free-market solutions and individual optimisation. Interestingly, it is orthogonal to political stance. [https://www.nber.org/papers/w29942](https://www.nber.org/papers/w29942)
+2. A new study of London’s housing market provides evidence on the short-term and local impacts of new housing supply on affordability. The findings are very interesting, do give it a read. [https://x.com/geographyjim/status/1692116503536029733?s=46&t=-DNv9rPw3guwQopwQG\_-Qg](https://x.com/geographyjim/status/1692116503536029733?s=46&t=-DNv9rPw3guwQopwQG_-Qg)
+3. According to the Pew Research Center, women in the USA earn less than men. However, in several large cities this trend has reversed. In addition, average working hours for full time employees are higher for men than women.[https://www.pewresearch.org/short-reads/2022/03/28/young-women-are-out-earning-young-men-in-several-u-s-cities/](https://www.pewresearch.org/short-reads/2022/03/28/young-women-are-out-earning-young-men-in-several-u-s-cities/)
+
+#### This newsletter is brought to you by DeepDive
+
+Amplify your performance and client satisfaction with DeepDive - the comprehensive SaaS analytics solution for agencies. Seamlessly aggregate all of your clients' web and marketing analytics, unearth deep insights, and deliver AI-powered, white-labeled presentations instantly.
+
+!
+
+[https://trydeepdive.com](https://trydeepdive.com?utm_source=substack&utm_medium=newsletter)

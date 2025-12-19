@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Interessant3 #45"
+description: "Three Interesting Things for W/C 2023-07-09"
+date: 2023-07-16 21:32:55 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1. A recent study examining participation in Black Lives Matter and anti-lockdown protests in the USA revealed unexpected overlap in attendees, challenging the narrative that these two movements are in opposition. These findings underscore the complexity of public sentiment, with the decision to protest found to be a deliberate response to issue-specific incentives and salience, rather than adherence to a particular ideological camp. [https://www.nber.org/papers/w29987](https://www.nber.org/papers/w29987)
+2. Fertility and household income have a U-shape relationship. ![Image](/assets/images/substack/135049725-8cc3b6a4.jpeg)[https://twitter.com/mattyglesias/status/1538234746416812033?s=20&t=pmI28JJ5dbx6aGMF42YIkg](https://twitter.com/mattyglesias/status/1538234746416812033?s=20&t=pmI28JJ5dbx6aGMF42YIkg)
+3. I recently mapped Median Disposable Income Per Capita to Average Annual Working Hours across a number of countries, revealing some interesting findings. Turns out that Germans work the least hours of all but DACH countries have similar productivity levels. Overall the trend between higher incomes and lower working hours is clear, with Korea being a distinct outlier. ! ![https://twitter.com/Duarteosrm/status/1678847788358967296?s=20](https://twitter.com/Duarteosrm/status/1678847788358967296?s=20)
+
+#### This newsletter is brought to you by DeepDive
+
+Amplify your performance and client satisfaction with DeepDive - the comprehensive SaaS analytics solution for agencies. Seamlessly aggregate all of your clients' web and marketing analytics, unearth deep insights, and deliver AI-powered, white-labeled presentations instantly.
+
+!
+
+[https://trydeepdive.com](https://trydeepdive.com?utm_source=substack&utm_medium=newsletter)

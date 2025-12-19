@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Interessant3 #30"
+description: "Three Interesting Things for W/C 2022-03-05"
+date: 2023-03-11 07:31:03 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1. This [fantastic article in the NYT about climate change](https://archive.ph/OoBa0) is worth a read. Here’s just one of the many things they report: !
+2. In India, some&nbsp; **415 million people left multidimensional poverty in a 15-year period&nbsp;** - a historic change. ![https://news.un.org/en/story/2022/10/1129592](https://news.un.org/en/story/2022/10/1129592)
+3. The European continent has a complicated history of war, conquest and changes of national borders. This may have been positive for the continent in the long term:
+
+> So overall, competition between states had short-run costs but potential long-run benefits. We call this creative destruction in the market for governance: just like technological innovation displaces obsolete firms, institutional innovation displaces obsolete states over time.
+
+#### This newsletter is brought to you by Deep Dive Data.
+
+Unlock the potential of your data with Deep Dive Data. We're a cost-effective subscription-based data analysis agency specializing in turning complex data into actionable insights. Our experts offer customized solutions, including data visualization, modeling, and predictive analytics. Whether you're a large or small business, we can help you make informed decisions and drive growth. [Contact us today](https://deepdivedata.agency/) to learn more.
+
+!
+
+[https://deepdivedata.agency/](https://deepdivedata.agency/)

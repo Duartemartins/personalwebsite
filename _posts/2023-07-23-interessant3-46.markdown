@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Interessant3 #46"
+description: "Three Interesting Things for W/C 2023-07-16"
+date: 2023-07-23 21:48:18 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1. Since 1980 global sea levels have risen by about&nbsp;100 mm. According to a&nbsp;University of Auckland study, hundreds of islands in the Pacific are accumulating enough sediment to increase in land area even as sea level rise threatens the region. The focus of the study, Jeh Island, (one of the Marshall Islands, which are routinely held as “most at risk of disappearing due to sea level rise“) grew 13 percent over the last 80 years. More on the apparent increase in land area here: [https://www.humanprogress.org/are-low-lying-islands-helpless-in-the-face-of-sea-level-rise/](https://www.humanprogress.org/are-low-lying-islands-helpless-in-the-face-of-sea-level-rise/)
+2. In this awkwardly worderd thread, a professor of economics at Dartmouth College in the United States asks “what are the most important econ concepts where many non-economists have wrong intuitions with policy consequences?” The replies contain some really interesting concepts. ![https://twitter.com/paulnovosad/status/1440304517078126612?s=46&t=-DNv9rPw3guwQopwQG\_-Qg](https://twitter.com/paulnovosad/status/1440304517078126612?s=46&t=-DNv9rPw3guwQopwQG_-Qg)
+3. Some wonderful news! On Monday, the FDA approved a new preventative treatment for respiratory syncytial virus (RSV), a disease that is the leading cause of infant hospitalization, the killer of an estimated 120,000 children worldwide in 2015, and estimated to cost $5 billion/year in global medical costs. The vaccine is 70% effective at preventing disease, a huge improvement on previous treatments. It has been approved in the EU since November 2022. [https://www.fda.gov/news-events/press-announcements/fda-approves-new-drug-prevent-rsv-babies-and-toddlers](https://www.fda.gov/news-events/press-announcements/fda-approves-new-drug-prevent-rsv-babies-and-toddlers)
+
+#### This newsletter is brought to you by DeepDive
+
+Amplify your performance and client satisfaction with DeepDive - the comprehensive SaaS analytics solution for agencies. Seamlessly aggregate all of your clients' web and marketing analytics, unearth deep insights, and deliver AI-powered, white-labeled presentations instantly.
+
+!
+
+[https://trydeepdive.com](https://trydeepdive.com?utm_source=substack&utm_medium=newsletter)

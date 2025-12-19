@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Interessant3 #33"
+description: "Three Interesting Things for W/C 2023-04-02"
+date: 2023-04-10 18:17:27 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1. Dilip Mahalanabis was an Indian physician who pioneered the use of oral rehydration therapy - a simple solution of glucose, salts and water designed to replace vital fluids during bouts of infectious disease. The Lancet called it “the most important medical discovery of the 20th century.’’ It's estimated the number of children saved by ORT between 1982 and 2019 is more than 70 million. [FT](https://www.ft.com/content/65b0ab69-4d1e-4603-a9ea-e061ceb54bc0)
+2. In this research paper, the author shows that FDA deregulation increased innovation by as much as 400%, increased firm entry by 1000% and reduced prices by 40%. Deregulation is usually reported in a negative light in my experience, so this is an interesting counterexample.[https://twitter.com/parker\_rog/status/1587823415531999234](https://twitter.com/parker_rog/status/1587823415531999234?s=46&t=EffWK215aDmVsJubvMRsGQ)
+3. The Pony Express revolutionized mail delivery in the USA in the 1860s, but was soon replaced by the faster telegraph. As communication technology advanced, the need for increased speed and capacity led to the development of fiber-optic cables, which use photons to transmit data at astonishing speeds. Today, researchers are continually pushing the boundaries of data transmission, with the potential to reach speeds up to 100 petabits per second. This incredible progress in communication technology has enabled unprecedented access to information, fostering creativity and innovation around the world. Read this interesting article below:https://www.humanprogress.org/ponies-to-electrons-to-photons/ 
+
+#### This newsletter is brought to you by Deep Dive Data.
+
+Unlock the potential of your data with Deep Dive Data. We're a cost-effective subscription-based data analysis agency specializing in turning complex data into actionable insights. Our experts offer customized solutions, including data visualization, modeling, and predictive analytics. Whether you're a large or small business, we can help you make informed decisions and drive growth. [Contact us today](https://deepdivedata.agency/) to learn more.
+
+!
+
+[https://deepdivedata.agency/](https://deepdivedata.agency/)

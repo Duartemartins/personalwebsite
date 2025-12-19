@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Interessant3 #120"
+description: "The Great Stagnation, Western European Productivity, Regulation in Idaho | Three Interesting Things for W/C 2024-12-15"
+date: 2024-12-22 19:00:07 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+### ** Is the Great Stagnation Actually Over?**
+
+Could the “Great Stagnation” be less severe than we thought? challenges conventional wisdom, pointing to how increased education levels may have masked true productivity growth. While years of schooling have surged, stagnant literacy and numeracy scores suggest limited skill gains, hinting that education has served more as a credentialing mechanism. Adjusted metrics reveal technological advancements driving more growth than previously credited, raising hopes for an era of transformative innovation.
+
+!
+
+[Read more](https://www.maximum-progress.com/p/is-the-great-stagnation-actually)
+
+### ** European Productivity Surges Ahead**
+
+Contrary to the common narrative, Western Europe’s productivity growth outpaces America’s. Adjusting for purchasing power parity (PPP) and considering differences in work hours reveals a striking picture: countries like Austria, Belgium, and Denmark outperform the U.S. in hourly productivity. Structural factors like shorter working hours, robust social benefits, and differing labour policies allow Europeans to extract more value from each hour worked.
+
+!
+
+[Explore further](https://www.economist.com/graphic-detail/2023/10/04/productivity-has-grown-faster-in-western-europe-than-in-america)
+
+### ** A Blueprint for Smarter Regulation**
+
+The Manhattan Institute’s “Zero-Based Regulation” provides a detailed framework for regulatory reform, inspired by Idaho’s trailblazing approach. By requiring agencies to revisit and justify rules every five years, Idaho has cut thousands of unnecessary regulations, becoming the least regulated U.S. state. This proactive strategy offers a roadmap for other states to simplify governance, enhance efficiency, and foster economic growth in an era of bloated rulebooks. With the naughty Y axis in mind, this graph is illustrative:
+
+!
+
+[Learn more](https://manhattan.institute/article/zero-based-regulation-a-step-by-step-guide-for-states)

@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Interessant3 #111"
+description: "Floyd Murders, Levelling Up, Nobel Economics | Three Interesting Things for W/C 2024-10-13"
+date: 2024-10-20 14:56:17 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+** The Floyd Effect on U.S. Murders**
+
+Following George Floyd’s death, there was a rise in murders across the U.S., attributed to a decline in proactive policing amidst reforms. Interesting consequences for debates around social justice movements.
+
+!
+
+[Read more here.](https://x.com/cremieuxrecueil/status/1846440945794883637?s=46)
+
+** Levelling Up vs. Just Cities: Broadening the Approach**
+
+shows that in many UK regions, especially outside major cities, there is a negative graduate premium. Local economies struggle to absorb higher-skilled workers, as exemplified by areas like North Devon, where opportunities for graduates are scarce. The issue lies not in skills, but in the structure of local economies, meaning expanding university attendance won’t solve these disparities.
+
+!
+
+[Explore the full argument.](https://www.neilobrien.co.uk/p/levelling-up-against-just-cities)
+
+** The 2024 Nobel Prize in Economics**
+
+Daron Acemoglu, Simon Johnson, and James Robinson won the 2024 Nobel Prize in Economics for their research on how institutions affect a country’s wealth. Their work highlights how institutional choices, particularly during colonial times, have long-term impacts on economic development. Their insights have significantly shaped the study of political economy and development.
+
+[Discover the winning research](https://www.economicforces.xyz/p/and-the-2024-economics-nobel-goes?utm_medium=ios) in this article by

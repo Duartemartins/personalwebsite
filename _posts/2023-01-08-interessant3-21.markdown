@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Interessant3 #21"
+description: "Three Interesting Things for W/C 2022-09-04"
+date: 2023-01-08 21:09:30 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1. Typos in emails: 
+2. “In initial tests, adding a gene encoding for a protein called FTO to both rice and potato plants increased their yield by 50% in field tests. The plants grew significantly larger, produced longer root systems and were better able to tolerate drought stress. Analysis also showed that the plants had increased their rate of photosynthesis.”[https://news.uchicago.edu/story/rna-breakthrough-crops-grow-50-percent-more-potatoes-rice-climate-change](https://news.uchicago.edu/story/rna-breakthrough-crops-grow-50-percent-more-potatoes-rice-climate-change)
+3. Labour Productivity, selected countries: 
+
+If you are looking for Data Visualisation, Reporting, or Data Analysis services, check out [Quantica](https://quantica.carrd.co/).

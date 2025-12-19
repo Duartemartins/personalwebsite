@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Interessant3 #54"
+description: "Three Interesting Things for W/C 2023-09-10"
+date: 2023-09-12 20:51:11 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1. Collider bias is a form of selection bias that occurs in statistical models when conditioning on a variable that is a function of two or more other variables. To explain in simple terms, imagine we have two independent variables, A and B, and a dependent variable, C. If we condition our analysis on C, we might inadvertently introduce an association between A and B, even if they are otherwise independent. This is because C serves as a "collider" on the causal pathway between A and B.Example:Suppose we want to study the effect of exercise (A) and genetics (B) on weight loss (C). People may be enrolled in a weight loss program based on their current weight (C). If we only study people in the weight loss program, we have conditioned on C (weight loss), which might introduce a bias when estimating the relationship between exercise and genetics.In this example, conditioning on the collider (weight loss program enrollment) could make it look like there's a relationship between exercise and genetics when there might not be. For example, if people with certain genetics find it easier to lose weight, and people who exercise more also find it easier to lose weight, conditioning on being in a weight loss program might make it seem like people who exercise more have those specific genetics, even if exercise and genetics are independent factors affecting weight loss.[https://en.wikipedia.org/wiki/Berkson%27s\_paradox](https://en.wikipedia.org/wiki/Berkson%27s_paradox)
+2. The five pillars of moral foundations, originally championed by Jonathan Haidt, are to a considerable extent based on genes. [https://journals.sagepub.com/doi/full/10.1177/08902070221103957](https://journals.sagepub.com/doi/full/10.1177/08902070221103957)via [Twitter](https://twitter.com/DegenRolf/status/1530063158337052672)
+3. Below is the amount of UK rail passengers per year with the type of rail policy/management highlighted. Interesting to see that the amount of passengers roughly halved between WWI and 1995, but that it has skyrocketed to new records since then. In Britain rail privatisation is almost universally thought of in negative light, and British rail transport is the most expensive in Europe per “train kilometre”. Perhaps this is a case of stated vs revealed preferences? ![Image](/assets/images/substack/136986702-77c13ff0.jpeg)
+
+#### This newsletter is brought to you by DeepDive
+
+Amplify your performance and client satisfaction with DeepDive - the comprehensive SaaS analytics solution for agencies. Seamlessly aggregate all of your clients' web and marketing analytics, unearth deep insights, and deliver AI-powered, white-labeled presentations instantly.
+
+!
+
+[https://trydeepdive.com](https://trydeepdive.com?utm_source=substack&utm_medium=newsletter)

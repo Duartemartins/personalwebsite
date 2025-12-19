@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Interessant3 #73"
+description: "Three Interesting Things for W/C 2024-01-21 | David Ricardo's Economic Theory, The Downside of Rent Controls, David Heinemeier Hansson's Winning Philosophy"
+date: 2024-01-27 13:12:36 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1.  **The Brilliance of Comparative Advantage Explored by Paul Krugman**  
+Paul Krugman's elucidation of David Ricardo's principle of comparative advantage stands out for its clarity and depth. Krugman weaves in elements of evolution, philosophy, and history, a testament to how great ideas can transcend disciplines, offering insights that are as applicable today as they were in Ricardo's time. Explore Krugman's engaging exploration of comparative advantage [here](https://web.mit.edu/krugman/www/ricardo.htm). 
+2.  **The Pitfalls of Rent Controls in Argentina**  
+Argentina's experience with rent controls provides a textbook example of their unintended consequences. Despite good intentions, these policies often lead to reduced housing quality and availability. Javier Milei’s scrapping of these laws has had an immediate effect - the availability of rental properties has increased 50% and rental prices have fallen by 20%-30%. Argentina's case underscores the complexities of housing policies and their impact on both landlords and tenants. Learn more about why rent controls can be counterproductive [here](https://capx.co/argentina-offers-a-textbook-study-in-why-rent-controls-are-a-bad-idea/).
+3.  **David Heinemeier Hansson: A Philosophy of Winning**  
+In this podcast episode of , David Heinemeier Hansson (DHH), known for creating the software companies Basecamp and Hey and his success in the Le Mans racing series, offers genuinely profound insights into the essence of business success, technology innovation, and the ulterior motives of diversity, equity, and inclusion (DEI). From critiquing the venture capital funding model and advocating for a more sustainable path to “the first million”, to discussing the transformative power of Ruby on Rails in software development, DHH's viewpoints challenge conventional wisdom. His perspective also sheds light on achieving success while maintaining integrity and purpose. You can find the podcast episode [here](https://www.aarthiandsriram.com/p/ep-71-dhh-on-craft-winning-le-mans) - highly recommended.

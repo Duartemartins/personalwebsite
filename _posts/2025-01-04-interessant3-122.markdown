@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Interessant3 #122"
+description: "Self-Modeling AI, Palantir's Power, British Values | Three Interesting Things for W/C 2025-01-05"
+date: 2025-01-04 23:00:57 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+Happy new year, dear reader! I hope the three interesting things below reshape your thoughts in the year ahead.
+
+###  **Self-Modeling AI: Machines That Understand Themselves**
+
+At the 38th Chaos Communication Congress (CCC), an annual event organised by the Chaos Computer Club, Europe’s largest association of hackers, cognitive scientist Joscha Bach discussed the concept of self-awareness in artificial intelligence. He explained how AI systems can model themselves to better respond to complex situations, including ethical dilemmas and human interactions. The talk explores the philosophical nature of consciousness and addresses questions like “Who are we when our self-perception alters?”, “What does it mean to depersonalize, to dissolve the boundaries of the self?”, “Can we reverse engineer, debug and reconstruct our identities to become who we want to be?”, “Is there free will?”, “Is it possible to recreate self and sentience in nonbiological substrates?”, “Can AI be conscious?”, and “Could we perhaps even extend our own self to non biological substrates?”.
+
+[Watch the talk here](https://media.ccc.de/v/38c3-self-models-of-loving-grace)
+
+###  **Palantir and the Power of Data**
+
+Palantir, a controversial tech company that provides data analytics software for governments and businesses, has long been at the centre of debates about privacy, governance, and the role of technology in decision-making. Former employee and Emergent Ventures Awardee Nabeel S. Qureshi reflects on the company’s rise, its inclusion in the S&P 500, and its impact across industries like healthcare and defence. The essay touches on Palantir’s unique culture, its focus on solving critical problems, and the ethical questions surrounding its influence in sensitive areas of society.
+
+[Read the essay here](https://nabeelqu.co/reflections-on-palantir)
+
+###  **British Values: A Complex Identity**
+
+British-Nigerian author Tomiwa Owolade brilliantly examines the shifting nature of British values, using the famous 1979 _Life of Brian_ blasphemy debate as a lens to explore how attitudes towards religion, free speech, and identity have evolved. The article critiques attempts to define Britishness solely through liberal principles, noting that the country’s history includes both liberal and authoritarian traditions. Owolade suggests that what truly unites Britons is not abstract values but shared cultural touchstones like literature, institutions, landscapes, and humour.
+
+[Read more here](https://www.thetimes.com/article/e23381ec-e52e-4d3b-8c0e-23401527243c?shareToken=ff42afd6b4913e47777fe3f81a1d89be)

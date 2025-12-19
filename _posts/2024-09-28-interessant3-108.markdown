@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Interessant3 #108"
+description: "Car Seats, Virus Protection, Building Homes | Three Interesting Things for W/C 2024-09-22"
+date: 2024-09-28 12:15:10 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+###  **Are Car Seats Acting as Modern-Day Contraception?**
+
+Recently in the news, research suggests that strict car seat regulations may be discouraging families from having more than two children due to the inconvenience and expense of upgrading to larger vehicles. This surprising connection between child safety rules and birth rates opens up questions about unintended consequences in state regulation, yet another case of Bastiat’s “That which is Seen and that which is Unseen”.
+
+> “We estimate that these laws prevented only 57 car crash fatalities of children nationwide in 2017. Simultaneously, they led to a permanent reduction of approximately 8,000 births in the same year, and 145,000 fewer births since 1980, with 90% of this decline being since 2000."
+
+[Read more here](https://thezvi.wordpress.com/2022/08/22/on-car-seats-as-contraception/)
+
+###  **A Nasal Spray That Could Block Viruses Without Drugs**
+
+Harvard researchers have developed a revolutionary nasal spray capable of neutralizing viruses and bacteria that has no drugs of any kind. Unlike traditional drugs, this spray uses a physical mechanism to block pathogens, potentially offering a new tool for preventing infections and illnesses without the need for medications. They claim 99.99% effectiveness based on early studies.
+
+> It blocked and neutralized almost 100 percent of all viruses and bacteria we tested, including Influenza, SARS-CoV-2, RSV, adenovirus, K Pneumonia and more.
+
+[Discover more here](https://news.harvard.edu/gazette/story/2024/09/drug-free-nasal-spray-blocks-neutralizes-viruses-bacteria/)
+
+###  **Building Homes Reduces Costs for Everyone**
+
+A recent Financial Times article debunks the astonishingly widespread belief that new market-rate housing, AKA in London as “luxury flats”, drives up local rents. Studies show that building market-rate homes reduces costs across the board by freeing up affordable properties for lower-income residents. Cities like Auckland (New Zealand) and Minneapolis (United States) have benefited from increased housing supply, stabilising rent inflation.
+
+!
+
+[Learn more here](https://www.ft.com/content/86836af4-6b52-49e8-a8f0-8aec6181dbc5)

@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Interessant3 #92"
+description: "Markets, Simple Beauty in Physics, The Curse of Knowledge | Three Interesting Things for W/C 2024-06-02"
+date: 2024-06-08 15:00:52 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1.  **Techno-Optimism in Markets**  
+An oldie but a goldie, A16Z’s Techno-Optimist Manifesto argues for the transformative power of technology, by emphasising how innovation drives economic growth and empowers individuals. It’s a compelling argument for embracing a techno-optimistic perspective, and the bit on markets is especially good.
+
+> We believe a market sets wages as a function of the marginal productivity of the worker. Therefore technology – which raises productivity – drives wages up, not down. This is perhaps the most counterintuitive idea in all of economics, but it’s true, and we have 300 years of history that prove it.
+
+[Read more](https://a16z.com/the-techno-optimist-manifesto/)
+2.  **The Fermi-Pasta-Ulam-Tsingou Problem: Simple Beauty**  
+The Fermi-Pasta-Ulam-Tsingou problem is a cornerstone in the study of nonlinear systems. This article from 3 Quarks Daily explains the beautifully simple yet profoundly complex nature of this mathematical enigma, highlighting its significance in understanding chaos and predictability in physics.  
+[Discover the beauty](https://3quarksdaily.com/3quarksdaily/2020/01/the-fermi-pasta-ulam-tsingou-problem-a-foray-into-the-beautifully-simple-and-the-simply-beautiful.html)
+
+1.  **The Curse of Knowledge: Explaining Complexity**  
+Ever felt like you struggle to explain something that is already obvious to you, to someone hearing it for the first time? The 'Curse of Knowledge' is a cognitive bias that explains why experts often struggle to convey complex ideas to novices—they forget what it's like not to know the information. [Read more about this cognitive bias](https://en.wikipedia.org/wiki/Curse_of_knowledge)

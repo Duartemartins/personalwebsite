@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Interessant3 #98"
+description: "Malaria Vaccine Roll-Out, The Evolution of Cooperation, Causation and Correlation | Three Interesting Things for W/C 2024-07-13"
+date: 2024-07-20 16:45:28 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1.  **Malaria Vaccine Roll-Out: Saving Thousands of Lives** A new malaria vaccine, R21/Matrix-M, developed by the University of Oxford, is set to save hundreds of thousands of lives this decade. The first doses were recently administered in the Ivory Coast, marking a significant milestone. This vaccine is the first to meet the World Health Organisation's target of 75% efficacy. Sir Adrian Hill, the lead developer, believes this affordable vaccine could reduce malaria deaths from half a million to 200,000 annually. Learn more about this groundbreaking development [here](https://www.bbc.co.uk/news/articles/c9r3xxv1n5qo).
+2. ** Axelrod and Hamilton's Groundbreaking Study on Cooperation** In their seminal 1981 paper, Axelrod and Hamilton explore the evolution of cooperation through simple yet profound mathematical reasoning. Their work illustrates how cooperative strategies can evolve and stabilise within populations, offering universal insights that extend beyond biology. This paper remains a cornerstone in understanding the dynamics of cooperative behaviour across various fields. Read the brilliance of their findings [here](https://websites.umich.edu/~axe/research/Axelrod%20and%20Hamilton%20EC%201981.pdf).
+
+1. **∵ A Mental Model for Causation**![Causation is Hard](/assets/images/substack/146822084-ce31b995.png)Tim Urban's illustration is an excellent mental model for thinking about causality when two things are correlated. It highlights the complexity of establishing causal links and the potential for manipulation to support different narratives. Next time you need to think about the relationship between two correlated phenomena, try and think about these four possibilities.

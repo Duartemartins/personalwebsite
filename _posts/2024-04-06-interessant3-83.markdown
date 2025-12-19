@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Interessant3 #83"
+description: "Founders' Salaries, Behavioural Genetics, Insect Apocalypse Myth | Three Interesting Things for W/C 2024-04-01"
+date: 2024-04-06 11:03:21 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1.  **The Secrets of Founders' Salaries Unveiled**  
+The subject of tech founders' salaries is often shrouded in mystery, leading to various missteps in how and when they compensate themselves. YC Alum Enzo Avigo takes an insightful deep dive into this topic, uncovering the dos and don'ts that can significantly impact the health of a startup due to compensation incentives.Dive into the nuances of founder salaries [here](https://x.com/0zne/status/1774889526521155778).
+2.  **The Three Laws of Behavioural Genetics**
+
+> The First Law: All human behavioral traits are heritable.
+> 
+> The Second Law: The effect of being raised in the same family is smaller than the effect of the genes.
+> 
+> The Third Law: A substantial portion of the variation in complex human behavioral traits is not accounted for by the effects of genes or families.
+
+Steven Pinker - [The Blank Slate](https://www.wob.com/en-gb/books/steven-pinker/blank-slate/9780140276053)
+
+1.  **Questioning the Insect Apocalypse Narrative** Recent discussions around a global decline in insect populations have stirred controversy. While some research points to local decreases, overall evidence suggests a more complex picture, with many species remaining stable or even increasing. [This article from Quillette](https://quillette.com/2021/07/25/the-insect-apocalypse-that-never-was/) critiques the prevailing doom-and-gloom narrative, advocating for a more nuanced and data-driven approach to understanding insect biodiversity.

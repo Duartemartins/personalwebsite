@@ -1,0 +1,63 @@
+---
+layout: post
+title: "Interessant3 #132"
+description: "The Freemium Trap, The Mysterious Journey of Eels, Theanine Under the Microscope | Three Interesting Things for W/C 2025-03-16"
+date: 2025-03-18 14:04:08 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+Apologies for the delay on this one - I’ve been travelling. Let me know if you have restaurant recommendations in Silicon Valley. This week we have a very diverse edition, enjoy:
+
+### 🆓 **The Freemium Paradox: Why “Free” Can Cost You**
+
+Freemium is a popular business model where a company offers a basic version of its product for free, while charging for extra features or premium access. Think of Spotify’s free tier with ads, or Dropbox offering limited storage until you pay for more. It’s meant to attract users easily and convert some of them into paying customers - but according to Jason Cohen, the founder of $100M+ bootstrapped company WP Engine, freemium is often a trap that can backfire badly.
+
+Key takeaways:
+
+- **Most free users never convert** - even charging $1/month would drive them away.
+- **Feedback is skewed** , as free users outnumber paying customers 20:1 or more, leading to the wrong product decisions.
+- **Freemium makes marketing expensive** , with only 0.3% of website visitors typically converting to paid.
+- **Tech support costs spiral** , as free users expect help but often don’t generate revenue.
+- **The fix?** Treat freemium as a marketing expense - measure its ROI like paid ads and **only continue if it outperforms other growth channels**.
+
+**That said, freemium has benefits:**
+
+- **Social proof** – “Join 10,000 happy users” builds credibility.
+- **Referral loops** - free users may refer paid users.
+- **Competitive edge** – Keeping users from using rivals is valuable.
+- **Scalability** – High user counts prove your system can handle growth.
+
+ [Read here](https://longform.asmartbear.com/freemium/)
+
+###  **The Endlessly Mysterious Eel**
+
+For centuries, the life cycle of eels baffled scientists - Aristotle thought they emerged from mud, and Sigmund Freud once dissected them in search of sex organs. The truth? All European and American freshwater eels are born in the Sargasso Sea, an area of the Atlantic Ocean off the Caribbean and North American coasts first discovered by Portuguese sailors, before migrating thousands of miles to rivers and lakes, where they live for decades before returning to spawn and die.
+
+!
+
+Recent satellite tracking finally proved their epic journey:
+
+- Eels start life in the Sargasso Sea, drifting towards Europe and North America as transparent larvae.
+- They spend up to 85 years in freshwater before transforming for their final trip back.
+- Before the journey, eels undergo a dramatic metamorphosis - their eyes enlarge, stomach dissolves, and bodies bulk up for the 10,000km swim.
+- Why go so far? It’s an accident of evolution - millions of years ago, their ancestors had shorter migrations, but as the Atlantic widened, their journey stretched to today’s extreme.
+
+Even now, mysteries remain: Why the Sargasso Sea? How do eels navigate? And what happens if they arrive late? A fascinating deep dive into one of nature’s strangest travellers.
+
+ [Read here](https://tobyknott.substack.com/p/why-do-all-eels-breed-in-the-sargasso?r=2y9he&utm_campaign=post&utm_medium=web&triedRedirect=true)
+
+###  **Theanine: A Brain Booster, or Just Hype?**
+
+Theanine, an amino acid found in tea, is widely believed to promote calm, focus, and reduced anxiety. But does it actually work? put it to the test in a 16-month placebo-controlled self-experiment - and the results were surprising.
+
+- The science is weak - reviews from major health authorities, including the European Food Safety Authority, found no strong evidence that theanine improves mood or cognition.
+- Placebo effect in action? Despite meticulous tracking, the biohacker found that stress levels dropped just as much whether he took theanine or a vitamin D placebo.
+- Expectation vs. reality - he was confident he could tell the difference, but in nearly 100 blind trials, he guessed wrong just as often as chance.
+- A challenge to believers - many swear by theanine, but if it truly works, it should hold up under blind testing - and this experiment suggests it might not.
+- The takeaway: Theanine might feel effective, but this test raises serious doubts. If you’re convinced it helps, the challenge is simple: try a blind test yourself.
+
+Those looking for similar effects may be better served by [supercritical CO2 coriander extract](https://pmc.ncbi.nlm.nih.gov/articles/PMC3195130/) or [liposomal GABA](https://pmc.ncbi.nlm.nih.gov/articles/PMC6415746/).
+
+ [Read here](https://dynomight.net/theanine/)

@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Interessant3 #10"
+description: "Three Interesting Things for W/C 2022-09-20"
+date: 2022-09-20 09:40:19 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1. Privatisatising Sanitation in Dakar, pertinent for the UK’s current debate on water utility funding models:
+2. Black Americans report better self-esteem than their white counterparts, despite experiencing greater exposure to stress. This paper claims that better self-esteem explains most of the difference in black-white differences in depressive symptoms: [https://journals.sagepub.com/doi/abs/10.1177/00221465211041031](https://journals.sagepub.com/doi/abs/10.1177/00221465211041031) 
+3. Yet another individual vs collective incentive misalignment. Politicians always complicate things, because they act rationally: 
+
+Looking for jobs in Data? Interested in how a career in Data can contribute effectively to a better world? Check out [https://www.gooddatajobs.com/](https://www.gooddatajobs.com/)
+
+!
+
+Alternatively, if you are looking for Data Visualisation, Reporting, or Data Analysis services, check out [Quantica](https://quantica.carrd.co/).

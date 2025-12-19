@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Interessant3 #43"
+description: "Three Interesting Things for W/C 2023-06-25"
+date: 2023-07-01 07:48:43 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1. Contrary to popular belief, most fish stocks are increasing around the world. Researchers point to scientific management of fish stocks as the cause. [https://www.anthropocenemagazine.org/2020/01/the-verdict-managing-fisheries-really-does-work/](https://www.anthropocenemagazine.org/2020/01/the-verdict-managing-fisheries-really-does-work/)
+2. In this freakonomics podcast, ESG practices are scrutinised and a paper is discussed that shows that ESG in its current form actually hurts environmental efforts. The main reason is that it disincentivises investment into firms that pollute the most. These firms need capital to become more sustainable and ESG deprives them of it, resulting in higher emissions overall. [https://freakonomics.com/podcast/are-e-s-g-investors-actually-helping-the-environment/](https://freakonomics.com/podcast/are-e-s-g-investors-actually-helping-the-environment/)
+3. A fascinating study spanning hundreds of years and hundreds of thousands of people in England has replicated an old finding that social class is highly genetically determined. I find this astonishing as class is a social construct, and I would have thought that decades of government interventions would have had a significant effect on social mobility. There’s a link to the study in the thread below:[https://twitter.com/cremieuxrecueil/status/1673553538557833217?s=46&t=-DNv9rPw3guwQopwQG\_-Qg](https://twitter.com/cremieuxrecueil/status/1673553538557833217?s=46&t=-DNv9rPw3guwQopwQG_-Qg)
+
+#### This newsletter is brought to you by DeepDive
+
+Amplify your performance and client satisfaction with DeepDive - the comprehensive SaaS analytics solution for agencies. Seamlessly aggregate all of your clients' web and marketing analytics, unearth deep insights, and deliver AI-powered, white-labeled presentations instantly.
+
+!
+
+[https://trydeepdive.com](https://trydeepdive.com)

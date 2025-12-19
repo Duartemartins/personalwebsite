@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Interessant3 #58"
+description: "Three Interesting Things for W/C 2023-10-08 | Claudia Goldin's Nobel Prize, Cournot Competition, and The Israel-Palestine Debate with Benny Morris"
+date: 2023-10-09 20:58:53 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1.  **Claudia Goldin's Nobel Insight** : The economics world is buzzing with the news of Claudia Goldin receiving a Nobel Prize for her groundbreaking work on gender and labour markets. Goldin has profoundly shifted our understanding of how labour market dynamics affect women, and her research has been instrumental in shaping policies geared toward gender equality. Don't miss this illuminating Twitter thread that summarises her impactful work [here](https://x.com/BrianCAlbrecht/status/1711335101282255217?s=20). ![Image](/assets/images/substack/137819047-29c7f5cd.jpeg)
+2.  **The Nitty-Gritty of Cournot Competition** : The Cournot model, an economic theory that deals with firms in oligopolistic markets, was initially illustrated by Antoine Cournot using the example of two mineral water companies. In this example, each company decides how much water to extract from a common source without knowing the other's choice. This game-like situation leads to a "Cournot Equilibrium," where both firms settle on an optimal level of production based on the other's expected decision. The example illustrates the nuanced interplay between firms in an oligopoly and how they arrive at a stable yet competitive state. Read more on [Wikipedia](https://en.wikipedia.org/wiki/Cournot_competition).
+3.  **A Timely Discussion on Israel-Palestine** : Given the recent events in the middle east, understanding the history and ethics of the Israel-Palestine conflict becomes even more crucial. In a detailed podcast, Coleman Hughes hosts historian and professor Dr. Benny Morris, a leading voice on Middle East conflicts, to delve into the complexities of the issue. For those looking to gain a more nuanced understanding of the current events, listening to this podcast could provide invaluable context. You can listen to it [here](https://www.youtube.com/watch?v=wv8F4NLr4E0).
+
+#### This newsletter is brought to you by DeepDive
+
+Amplify your performance and client satisfaction with DeepDive - the comprehensive SaaS analytics solution for agencies. Seamlessly aggregate all of your clients' web and marketing analytics, unearth deep insights, and deliver AI-powered, white-labeled presentations instantly.
+
+!
+
+[https://trydeepdive.com](https://trydeepdive.com?utm_source=substack&utm_medium=newsletter)

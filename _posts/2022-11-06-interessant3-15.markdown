@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Interessant3 #15"
+description: "Three Interesting Things for W/C 2022-10-31"
+date: 2022-11-06 22:17:09 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1. “Theoretically, wealthier people should buy less insurance, and should self-insure through saving instead, as insurance entails monitoring costs. Here, we use administrative data for 63,000 individuals and, **contrary to theory, find that the wealthier have better life and property insurance coverage**.”[https://www.nber.org/papers/w29069](https://www.nber.org/papers/w29069) 
+2. Pricing niche products, a great write-up on Vickrey Auctions: [https://kevinlynagh.com/notes/pricing-niche-products/](https://kevinlynagh.com/notes/pricing-niche-products/) 
+3. Labour productivity per hour, selected countries. The U.K. and Portugal are surprisingly unproductive, whereas France is nearly as productive as the U.S.A.. Could the disparity in incomes between the latter two be mostly explained by number of hours worked on average?
+
+If you are looking for Data Visualisation, Reporting, or Data Analysis services, check out [Quantica](https://quantica.carrd.co/).

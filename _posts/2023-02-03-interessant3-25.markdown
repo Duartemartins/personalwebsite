@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Interessant3 #25"
+description: "Three Interesting Things for W/C 2023-01-29"
+date: 2023-02-03 09:01:16 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+1. Jordan and Israel agree to work together to clean the Jordan River: “a critical climate adaptation measure that can help bring back 50% of the biodiversity lost because of decades of pollution and freshwater diversion.” [https://apnews.com/article/middle-east-business-israel-jordan-pollution-e50adf6d253cdd9ea73775052705c5bf](https://apnews.com/article/middle-east-business-israel-jordan-pollution-e50adf6d253cdd9ea73775052705c5bf)
+2. For the first time since the early 90s, wealth inequality is falling in the United States of America. Since December 2020, the wealth of the top income percentiles has fallen significantly, while the wealth of the bottom 50% has risen by 26%. Wealth share under the current administration has also shifted to the benefit of bottom 50%. This is quite astonishing, although naturally it would be even better if everyone’s wealth was increasing.[https://realtimeinequality.org](https://realtimeinequality.org) !
+3. The Against Malaria Foundation has managed to raise nearly $500 million to date. That's allowed them to distribute over 232 million bednets, and save the lives of an estimated \*90,000\* people. Certainly one of the best arguments in favour of the Effective Altruism movement.[https://www.againstmalaria.com/Milestones.aspx?tab=money](https://www.againstmalaria.com/Milestones.aspx?tab=money)[Share Three Interesting Things](https://interessant3.substack.com/?utm_source=substack&utm_medium=email&utm_content=share&action=share)

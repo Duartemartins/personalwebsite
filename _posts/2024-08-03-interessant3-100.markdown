@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Interessant3 #100"
+description: "Understanding Bias, Startup Lessons, Marie Antoinette | Three Interesting Things for W/C 2024-07-28"
+date: 2024-08-03 07:01:15 +0000
+published: true
+categories: newsletter
+lang: en
+---
+
+We’ve officially reached 100 editions of interessant3, and crossed the 200 subscriber mark just in time! Thank you to all who take an interest in what I post, reply and otherwise engage with the newsletter.
+
+###  Stupider Than You Realize
+
+Robin Hanson explains how even smart people often overestimate the intelligence of others. He shares examples from the US National Assessment of Adult Literacy, showing surprising gaps in basic skills. For instance, in 1992, 7% of adults couldn't find the expiration date on a driver's license, and only 16% could understand a simple newspaper article. These examples highlight how we can misjudge common abilities, reminding us to stay humble about our own knowledge.
+
+[Read more](https://www.overcomingbias.com/p/stupider-than-you-realizehtml)
+
+###  Lessons from Startups
+
+Paul Graham shares the toughest lessons startups need to learn. He advises getting a basic version of your product out quickly and then improving it based on user feedback. This approach helps identify issues early and keeps the team motivated. He also emphasizes the importance of constantly adding features, making users happy, and staying flexible. Graham's insights are essential for anyone looking to succeed in the startup world.
+
+[Read more](https://paulgraham.com/startuplessons.html)
+
+###  The Real Marie Antoinette
+
+This article presents the last letter of Marie Antoinette, giving a glimpse into her true character. Many people have a false image of her as frivolous and heartless, but this letter shows her as a devoted mother and brave individual facing her tragic fate. It's a revealing look at the woman behind the myths and makes me think the recent depiction of her at the Paris Olympics opening ceremony was in rather poor taste.
+
+[Read more](https://teaattrianon.blogspot.com/2007/05/last-letter-of-marie-antoinette.html?m=1)
