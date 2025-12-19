@@ -72,3 +72,16 @@ Charts are built using pure CSS/HTML (or SVG for complex lines) to ensure lightw
 - **Theme Architecture**: The "Editorial Workshop" identity is implemented as a set of layout overrides (`_layouts/`) and a custom SCSS framework (`assets/css/style.scss`) on top of the standard Jekyll structure.
 - **No Custom Plugins**: The design relies on standard Liquid templating and CSS, requiring no unsupported plugins, ensuring seamless deployment on GitHub Pages.
 - **Asset Management**: All styles and scripts are self-contained within the repository, ensuring the visual identity remains consistent across local development and production environments.
+
+## Responsive Behaviour
+- **Philosophy**: The "Workshop" adapts to the screen size, prioritizing readability on smaller devices while maintaining the "Editorial" aesthetic.
+- **Breakpoints**:
+    - **Desktop (> 1024px)**: Full "Desk" layout with persistent sidebar and centered content.
+    - **Tablet (768px - 1024px)**: Sidebar collapses into a top "Mobile Header". Content takes full width with generous padding.
+    - **Mobile (< 768px)**:
+        - **Typography**: Headlines scale down (`2.5rem`), body text remains legible.
+        - **Navigation**: Accessible via a "Hamburger" menu in the sticky top header.
+        - **Layout**: Single-column flow. Padding reduced to maximize reading area.
+- **Mobile Navigation**:
+    - A sticky top bar containing the Brand Name and a Menu Toggle.
+    - Full-screen overlay menu for navigation links, ensuring touch targets are large and accessible.
