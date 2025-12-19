@@ -29,6 +29,7 @@ en:
   manifesto: "The Manifesto"
   final: "Final"
   lisbon: "Lisbon, Portugal"
+  as_seen_on: "AS SEEN ON"
 pt:
   home: "Início"
   about: "Sobre"
@@ -60,3 +61,4 @@ pt:
   manifesto: "O Manifesto"
   final: "Final"
   lisbon: "Lisboa, Portugal"
+  as_seen_on: "VISTO EM"
