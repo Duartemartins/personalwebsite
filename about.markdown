@@ -9,20 +9,20 @@ Hello and welcome to my blog! This is where I explore ideas that capture my curi
 
 ## What You’ll Find Here  
 
-- **Tech Insights** – Programming, systems, and tech trends, shared in a way that’s hopefully both useful and engaging.  
-- **Social Commentary** – Observations on the evolving dynamics of society.  
-- **Philosophical Thoughts** – Reflections on life’s big questions and the small things that make us wonder.  
+- **Tech Insights** - Programming, systems, and tech trends, shared in a way that’s hopefully both useful and engaging.  
+- **Social Commentary** - Observations on the evolving dynamics of society.  
+- **Philosophical Thoughts** - Reflections on life’s big questions and the small things that make us wonder.  
 
 ## Connect With Me  
 
 You can also find me elsewhere — feel free to get in touch:  
 
-- I share three interesting things weekly on [Substack](https://interessant3.substack.com).  
+- I manage subscriptions using [Substack](https://interessant3.substack.com).  
 - My code lives on [GitHub](https://github.com/duartemartins).  
-- I post thoughts on [Twitter](https://www.twitter.com/duarteosrm).  
-- This blog is also mirrored on [Medium](https://medium.com/@duartem).  
+- I post thoughts on [Twitter](https://www.twitter.com/duarteosrm) and [VoxPopli](https://voxpopli.com/).  
+- Some of this blog is also mirrored on [Medium](https://medium.com/@duartem), although I use this less now.  
 
-By day, I work in tech. In my spare time, I’m building [PopaDex](https://popadex.com) – a personal finance tracker.  
+By day, I work in tech. In my spare time, I’m building [PopaDex](https://popadex.com) - a personal finance tracker.  
 
 ## Colophon
 
