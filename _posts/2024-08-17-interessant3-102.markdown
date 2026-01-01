@@ -6,6 +6,7 @@ date: 2024-08-17 11:18:26 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/147812079-social.webp
 ---
 
 ###  Embrace the Suck: Why Bad Ideas Can Lead to Great Success
@@ -18,7 +19,7 @@ It's easy to dismiss ideas that initially seem flawed. But according to Jason Co
 
 There are cities that have high housing costs, and cities that build a lot, but no city builds a lot of housing and still sees very high costs. This observation, replicated in research across various countries, demonstrates the clear relationship between supply and prices. Strangely, policy makers are often more keen on subsidising demand, ignoring this evidence.
 
-![Image](/assets/images/substack/147812079-a95733c2.png)
+![Image](/assets/images/substack/147812079-a95733c2.webp)
 
  [Explore the topic](https://x.com/JeremiahDJohns/status/1811478998825992690)
 

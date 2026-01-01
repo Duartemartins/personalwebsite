@@ -6,6 +6,7 @@ date: 2025-02-24 07:01:54 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/157773617-social.webp
 ---
 
 ### ** AI Beats PhDs in Literature Reviews**

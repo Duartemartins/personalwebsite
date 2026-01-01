@@ -6,6 +6,7 @@ date: 2024-01-06 12:00:44 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/140415609-social.webp
 ---
 
 1.  **Rethinking Rationality: Why Smart People Hold Stupid Beliefs** A captivating exploration into why intelligent individuals can hold irrational beliefs. This excellent article by delves into the psychological mechanisms behind this paradox, including cognitive biases and the influence of social environments. It's a thought-provoking read that challenges our understanding of human reasoning and the complexities of navigating a world rife with misinformation.[Read More](https://gurwinder.substack.com/p/why-smart-people-hold-stupid-beliefs)

@@ -6,6 +6,7 @@ date: 2025-08-17 21:01:22 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/171214782-social.webp
 ---
 
 Apologies for the delay - this summer has been exceptionally busy. Here’s a multi-issue to get us back to our regular programming.

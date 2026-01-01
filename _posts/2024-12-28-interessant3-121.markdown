@@ -6,6 +6,7 @@ date: 2024-12-28 12:01:46 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/153712510-social.webp
 ---
 
 ###  **Ruby on Rails: Build Your First Web App**

@@ -6,6 +6,7 @@ date: 2025-11-23 20:15:32 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/179751670-social.webp
 ---
 
 1. **, Bengt Holmström & Nicolas Petit – The Constitution of Innovation: A New European Renaissance**

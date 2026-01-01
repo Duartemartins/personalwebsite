@@ -6,6 +6,7 @@ date: 2024-01-27 13:12:36 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/141097117-social.webp
 ---
 
 1.  **The Brilliance of Comparative Advantage Explored by Paul Krugman**  

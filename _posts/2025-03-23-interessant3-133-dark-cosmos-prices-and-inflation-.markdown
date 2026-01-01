@@ -6,13 +6,14 @@ date: 2025-03-23 22:50:01 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/159708182-social.webp
 ---
 
 ### ** Avalanche in the Dark**
 
 The European Space Agency’s Euclid space telescope has released its first scientific payload, and it’s a cosmos-shaking haul. Early data reveals exquisitely detailed maps of dark matter, distant galaxies and gravitational lensing, all captured with 100 times the precision of earlier surveys. With only a fraction of the sky mapped, scientists are already rethinking how the universe fits together.
 
-![Images of galaxies taken by the Euclid space telescope](/assets/images/substack/159708182-ca522e4d.jpeg)
+![Images of galaxies taken by the Euclid space telescope](/assets/images/substack/159708182-ca522e4d.webp)
 
 [Read more →](https://www.theguardian.com/science/2025/mar/19/scientists-hail-avalanche-discoveries-euclid-space-telescope)
 

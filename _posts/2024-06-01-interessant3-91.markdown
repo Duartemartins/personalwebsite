@@ -6,6 +6,7 @@ date: 2024-06-01 07:01:39 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/145122744-social.webp
 ---
 
 1.  **Buy-Side Quant Job Advice**   

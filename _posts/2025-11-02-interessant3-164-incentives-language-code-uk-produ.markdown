@@ -6,6 +6,7 @@ date: 2025-11-02 19:30:30 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/177815827-social.webp
 ---
 
 Double issue this week.
@@ -25,7 +26,7 @@ Double issue this week.
 -  Treat code like text: syntax parsing, vocabulary, discourse - less algebra drill, more reading/writing practices.
 -  Bilinguals and strong readers may ramp faster; hiring and teaching should reflect that.
 
-![figure 3](/assets/images/substack/177815827-72047db2.png)
+![figure 3](/assets/images/substack/177815827-72047db2.webp)
 
 -  [Computer programming ability is more closely related to language than logic](https://www.nature.com/articles/s41598-020-60661-8) – _Nature Scientific Reports_
 
@@ -33,7 +34,7 @@ Double issue this week.
 
 -  Market (private) productivity up roughly 35–40%; public sector flat, with a sharp pandemic dip then rebound.
 
-![Image](/assets/images/substack/177815827-68a6b21c.jpeg)
+![Image](/assets/images/substack/177815827-68a6b21c.webp)
 
 -  Public output is hard to price; proxies risk understating quality improvements - measurement matters and the former Chancellor Jeremy Hunt made it one of his main policies to implement the world’s best public sector productivity measurement system.
 -  Competition, capital deepening, and restructuring power private gains; bureaucracy and risk aversion blunt public progress.

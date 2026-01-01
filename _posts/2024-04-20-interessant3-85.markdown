@@ -6,6 +6,7 @@ date: 2024-04-20 07:01:09 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/143747428-social.webp
 ---
 
 1.  **Postmodernism Unshackled** Nick Shackel, known for identifying the “Motte and Bailey” fallacy, has also outlined other less-known rhetorical tactics in his influential 2005 paper “The Vacuity of Postmodernist Methodology”. These include “Trolls Truisms,” “Equivocating Fulcra,” “Postmodernist Foxtrot,” and the “No-Position Position,” each representing different methods of argumentation and misdirection used widely in debates and discussions. Understanding these tactics is not just important to navigate the current culture wars but also helpful to sharpen your thinking.See ’s thread on the matter [here](https://x.com/cremieuxrecueil/status/1679600784705552385?s=46).

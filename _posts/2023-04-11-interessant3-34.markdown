@@ -6,6 +6,7 @@ date: 2023-04-11 19:00:53 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/113924681-social.webp
 ---
 
 1. This article discusses the potential revival of airships for cargo transportation, as they were rendered obsolete by airplanes in the passenger market. The article suggests that airships could find a place in the freight market, which is less sensitive to speed. The physics of airships are seductive, as their performance is proportional to volume divided by area, meaning larger airships have better performance. To be effective, cargo airships would need to be the largest flying objects ever created.The market for cargo airships could be massive if they can match the economic performance of trucks. Most cargo is transported via trucks, which are neither the fastest nor the cheapest mode of transport, but provide a great value proposition. The international market is different, with water transportation claiming the majority of both tonnage and value. If airships could provide faster delivery than ships at a lower cost than air freight, they could potentially capture a significant share of the market.

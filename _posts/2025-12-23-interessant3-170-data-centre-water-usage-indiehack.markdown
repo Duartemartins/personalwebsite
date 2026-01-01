@@ -7,12 +7,13 @@ published: true
 categories: newsletter
 lang: en
 substack_id: 182340343
+image: /assets/images/substack/182340343-social.webp
 ---
 
 1. **Data centres don’t harm water access at all anywhere in America**
   - Masley tests a crisp claim: data centers raise household water bills where they are built, then goes looking for documented instances and finds none.
 
- ![Image](/assets/images/substack/182340343-f7e924b3.png)
+ ![Image](/assets/images/substack/182340343-f7e924b3.webp)
   - He uses likely stress tests, including Loudoun County, The Dalles, and Maricopa County, to argue residential price impacts round to zero even where data center presence is high.
   - A recurring theme is that water markets are segmented: commercial and residential pricing is usually separated, so business demand does not automatically hit households.
   - The piece reframes data centers as unusually “water efficient” for the tax revenue they generate, and suggests they often help fund infrastructure upgrades.

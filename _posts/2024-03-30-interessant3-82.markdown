@@ -6,6 +6,7 @@ date: 2024-03-30 09:00:52 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/143086953-social.webp
 ---
 
 1.  **Plentiful High-Paying Jobs in the Future thanks to AI?**  

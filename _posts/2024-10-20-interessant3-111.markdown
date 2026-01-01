@@ -6,6 +6,7 @@ date: 2024-10-20 14:56:17 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/150476941-social.webp
 ---
 
 ** The Floyd Effect on U.S. Murders**

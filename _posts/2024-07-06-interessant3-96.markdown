@@ -6,6 +6,7 @@ date: 2024-07-06 07:00:29 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/146312795-social.webp
 ---
 
 1.  **On Danish Exceptionalism: Lessons from Scandinavia**  
@@ -15,4 +16,4 @@ Denmark often stands out for its unique societal and economic models, presenting
 Preference falsification is a social phenomenon where individuals hide their true preferences to conform to perceived social norms. This Wikipedia article explores how this behaviour impacts various aspects of society, from politics to personal relationships. Understanding preference falsification helps us see the hidden currents that shape public opinion and social change.  
 [Read more](https://en.wikipedia.org/wiki/Preference_falsification?wprov=sfti1)
 
-1.  **This Chart.**![Image](/assets/images/substack/146312795-af93f8fd.png)[Read more](https://x.com/jburnmurdoch/status/1809117996264087579)
+1.  **This Chart.**![Image](/assets/images/substack/146312795-af93f8fd.webp)[Read more](https://x.com/jburnmurdoch/status/1809117996264087579)

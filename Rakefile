@@ -418,6 +418,212 @@ namespace :substack do
     end
   end
 
+  desc 'Add social images from Substack to interessant3 posts'
+  task :add_social_images, [:dry_run] do |t, args|
+    dry_run = args[:dry_run] == 'true'
+    subdomain = 'interessant3'
+    posts_dir = '_posts'
+    images_dir = 'assets/images/substack'
+    
+    FileUtils.mkdir_p(images_dir) unless dry_run
+    
+    puts "📡 Fetching posts from #{subdomain}.substack.com to get social images..."
+    
+    # Fetch all posts (paginate if needed)
+    all_posts = []
+    offset = 0
+    limit = 50
+    
+    loop do
+      api_url = "https://#{subdomain}.substack.com/api/v1/posts?limit=#{limit}&offset=#{offset}"
+      uri = URI(api_url)
+      response = Net::HTTP.get(uri)
+      posts = JSON.parse(response)
+      break if posts.empty?
+      all_posts.concat(posts)
+      offset += limit
+      puts "  Fetched #{all_posts.length} posts..."
+      break if posts.length < limit
+    end
+    
+    puts "📊 Found #{all_posts.length} posts from Substack API"
+    
+    # Build lookup by substack_id and by title
+    substack_posts_by_id = {}
+    substack_posts_by_title = {}
+    all_posts.each do |post|
+      substack_posts_by_id[post['id'].to_s] = post
+      # Normalize title for matching
+      title_key = post['title'].to_s.downcase.gsub(/[^\w\s]/, '').gsub(/\s+/, ' ').strip
+      substack_posts_by_title[title_key] = post
+    end
+    
+    # Find all interessant3 posts
+    interessant3_files = Dir.glob("#{posts_dir}/*interessant3*.markdown").sort
+    
+    puts "📂 Found #{interessant3_files.length} interessant3 posts locally"
+    
+    updated = 0
+    skipped_no_cover = 0
+    skipped_already_has = 0
+    errors = []
+    
+    interessant3_files.each do |file_path|
+      content = File.read(file_path)
+      frontmatter = parse_frontmatter(content)
+      
+      # Skip if already has image
+      if frontmatter['image']
+        skipped_already_has += 1
+        next
+      end
+      
+      # Try to match by substack_id first
+      substack_post = nil
+      if frontmatter['substack_id']
+        substack_post = substack_posts_by_id[frontmatter['substack_id'].to_s]
+      end
+      
+      # Fall back to title matching
+      unless substack_post
+        title = frontmatter['title'].to_s
+        title_key = title.downcase.gsub(/[^\w\s]/, '').gsub(/\s+/, ' ').strip
+        substack_post = substack_posts_by_title[title_key]
+      end
+      
+      unless substack_post
+        # Try partial match on newsletter number
+        if File.basename(file_path) =~ /interessant3-(\d+)/
+          num = $1
+          substack_post = all_posts.find { |p| p['title'] =~ /interessant3\s*#?#{num}\b/i }
+        end
+      end
+      
+      unless substack_post
+        puts "⚠️  No match found for: #{File.basename(file_path)}"
+        next
+      end
+      
+      cover_image_url = substack_post['cover_image']
+      unless cover_image_url && !cover_image_url.empty?
+        skipped_no_cover += 1
+        next
+      end
+      
+      # Extract the original image URL from the Substack CDN URL
+      # Format: https://substackcdn.com/image/fetch/...../https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2F...
+      original_url = cover_image_url
+      if cover_image_url =~ /https%3A%2F%2F(.+)$/
+        original_url = URI.decode_www_form_component("https://#{$1}")
+      elsif cover_image_url =~ /\/https%3A/
+        encoded_part = cover_image_url.split('/').last
+        original_url = URI.decode_www_form_component(encoded_part)
+      end
+      
+      # Generate local filename
+      post_id = substack_post['id'].to_s
+      begin
+        parsed_path = URI.parse(original_url).path
+        ext = File.extname(parsed_path)
+        # Handle filenames like "image_1024x1024.png" - get extension before any underscore dimensions
+        ext = ext.split('_').first if ext.include?('_')
+      rescue
+        ext = nil
+      end
+      ext = '.jpg' if ext.nil? || ext.empty?
+      local_filename = "#{post_id}-social#{ext}"
+      local_path = File.join(images_dir, local_filename)
+      relative_path = "/#{local_path}"
+      
+      puts "📥 #{File.basename(file_path)}"
+      puts "   Cover: #{original_url[0..80]}..."
+      
+      unless dry_run
+        # Download the image if not already present
+        unless File.exist?(local_path)
+          begin
+            download_url = original_url
+            max_redirects = 5
+            redirect_count = 0
+            
+            loop do
+              uri = URI(download_url)
+              http = Net::HTTP.new(uri.host, uri.port)
+              http.use_ssl = uri.scheme == 'https'
+              request = Net::HTTP::Get.new(uri)
+              response = http.request(request)
+              
+              if response.is_a?(Net::HTTPRedirection)
+                redirect_count += 1
+                if redirect_count > max_redirects
+                  puts "   ❌ Too many redirects"
+                  errors << "#{File.basename(file_path)}: Too many redirects"
+                  break
+                end
+                download_url = response['location']
+                # Handle relative redirects
+                download_url = URI.join(uri, download_url).to_s unless download_url.start_with?('http')
+                next
+              elsif response.is_a?(Net::HTTPSuccess)
+                File.binwrite(local_path, response.body)
+                puts "   ✅ Downloaded image"
+                break
+              else
+                puts "   ❌ Failed to download: #{response.code}"
+                errors << "#{File.basename(file_path)}: HTTP #{response.code}"
+                break
+              end
+            end
+            
+            next unless File.exist?(local_path)
+          rescue => e
+            puts "   ❌ Download error: #{e.message}"
+            errors << "#{File.basename(file_path)}: #{e.message}"
+            next
+          end
+        else
+          puts "   ♻️  Image already exists locally"
+        end
+        
+        # Add image to frontmatter
+        # Find the end of frontmatter and insert image line
+        if content =~ /\A(---\s*\n)(.*?\n)(---\s*\n)/m
+          frontmatter_start = $1
+          frontmatter_body = $2
+          frontmatter_end = $3
+          rest_of_file = $'
+          
+          # Add image line before the closing ---
+          new_frontmatter = frontmatter_start + frontmatter_body + "image: #{relative_path}\n" + frontmatter_end + rest_of_file
+          File.write(file_path, new_frontmatter)
+          puts "   ✅ Added image to frontmatter"
+        else
+          puts "   ❌ Could not parse frontmatter"
+          errors << "#{File.basename(file_path)}: Could not parse frontmatter"
+          next
+        end
+      end
+      
+      updated += 1
+    end
+    
+    puts "\n" + "=" * 50
+    puts "Social images update complete!"
+    puts "  Updated: #{updated}"
+    puts "  Skipped (already has image): #{skipped_already_has}"
+    puts "  Skipped (no cover image): #{skipped_no_cover}"
+    puts "  Errors: #{errors.length}"
+    
+    if errors.any?
+      puts "\nErrors:"
+      errors.each { |e| puts "  - #{e}" }
+    end
+    
+    if dry_run
+      puts "\n⚠️  DRY RUN - no files were modified. Run without dry_run to update."
+    end
+  end
+
   desc 'Pull latest posts from Substack API'
   task :pull, [:dry_run] do |t, args|
     require 'substack'

@@ -6,6 +6,7 @@ date: 2025-11-09 22:17:08 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/178447168-social.webp
 ---
 
 1. **Our World in Data – Does the News Reflect What We Die From?**
@@ -16,7 +17,7 @@ The causes of death include heart disease, stroke, liver disease, kidney failure
 
 In contrast, homicides accounted for less than 1% of deaths but received an overwhelming 43% of coverage, leading to an overrepresentation in the media, quantified as 18,240 times more coverage compared to their death rate.
 
-Data sources are mentioned: "Media mentions from Media Cloud (2025); deaths data from the US CDC (2025) and Global Terrorism Index." The visual is licensed under CC-BY by the authors.](/assets/images/substack/178447168-50aacdd0.png)
+Data sources are mentioned: "Media mentions from Media Cloud (2025); deaths data from the US CDC (2025) and Global Terrorism Index." The visual is licensed under CC-BY by the authors.](/assets/images/substack/178447168-50aacdd0.webp)
   -  Homicides make up less than 1% of deaths but receive **43%** of media coverage, a **43x** overrepresentation.
   -  Cancer, by contrast, causes **27%** of deaths but gets just **4%** of coverage: **6.5x** underreported.
   -  Diseases like heart disease, stroke, and Alzheimer’s are similarly downplayed, all getting 4–10x less coverage.

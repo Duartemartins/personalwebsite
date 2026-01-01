@@ -6,6 +6,7 @@ date: 2024-08-31 07:00:51 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/148310242-social.webp
 ---
 
 ###  The Birth of Basecamp: A Startup Success Story

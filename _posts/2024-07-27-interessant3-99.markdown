@@ -6,6 +6,7 @@ date: 2024-07-27 07:00:43 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/147051948-social.webp
 ---
 
 1.  **Grazing to Minimise Wildfire Risk**   

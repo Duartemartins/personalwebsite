@@ -6,6 +6,7 @@ date: 2022-06-28 13:00:17 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/61408778-social.webp
 ---
 
 1. Tuition Fees and Inequality - France vs USA: 

@@ -6,6 +6,7 @@ date: 2025-06-21 06:01:41 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/166392985-social.webp
 ---
 
 The posts for June will be released over the next couple days, with regular programming resuming from Sunday onwards.
@@ -18,7 +19,7 @@ The posts for June will be released over the next couple days, with regular prog
 -  Systemic dysfunction arises from layered failures: overloaded hospitals trap police officers, while broken IT systems block basic cooperation.
 -  The conclusion is bleak but clear-eyed: the British state is brittle, overstretched, and stuck in reactive mode. Bold, imaginative reform is long overdue.
 
-![Image](/assets/images/substack/166392985-83227a3a.jpeg)
+![Image](/assets/images/substack/166392985-83227a3a.webp)
 
 -  [Reflections on Britain's triage-ward state](https://notes.archie-hall.com/p/reflections-on-britains-triage-ward) – Archie Hall (The Economist)
 
@@ -30,7 +31,7 @@ The posts for June will be released over the next couple days, with regular prog
 - ⏱ Run 2 of the LHC yielded about 29 picograms of gold, enough to make headlines but not jewellery.
 -  More than a validation of alchemy, this helps physicists model nuclear fragmentation and improve predictions about beam loss in particle colliders.
 
-![Illustration of an ultra-peripheral collision where the two lead (208Pb) ion beams at the LHC pass by close to each other without colliding. In the electromagnetic dissociation process, a photon interacting with a nucleus can excite oscillations of its internal structure and result in the ejection of small numbers of neutrons (two) and protons (three), leaving the gold (203Au) nucleus behind (Image: CERN)](/assets/images/substack/166392985-48806ab3.png)
+![Illustration of an ultra-peripheral collision where the two lead (208Pb) ion beams at the LHC pass by close to each other without colliding. In the electromagnetic dissociation process, a photon interacting with a nucleus can excite oscillations of its internal structure and result in the ejection of small numbers of neutrons (two) and protons (three), leaving the gold (203Au) nucleus behind (Image: CERN)](/assets/images/substack/166392985-48806ab3.webp)
 
 -  [ALICE Detects Conversion of Lead into Gold at the LHC](https://home.cern/news/news/physics/alice-detects-conversion-lead-gold-lhc) – CERN
 

@@ -6,6 +6,7 @@ date: 2024-05-04 13:42:36 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/144303676-social.webp
 ---
 
 1.  **Colonialism and Progress: A Critical Perspective**   

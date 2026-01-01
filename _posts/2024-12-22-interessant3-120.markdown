@@ -6,6 +6,7 @@ date: 2024-12-22 19:00:07 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/153496564-social.webp
 ---
 
 ### ** Is the Great Stagnation Actually Over?**

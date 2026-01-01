@@ -6,6 +6,7 @@ date: 2023-06-24 08:01:05 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/130494545-social.webp
 ---
 
 1. Portugal's discovery and plunder of Brazilian gold ended up causing a huge economic decline. By 1800, Portugal’s GDP was 40% lower vs counterfactual. An example of “Dutch Disease” and yet more evidence that mercantilism was economic nonsense. !

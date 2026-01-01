@@ -6,6 +6,7 @@ date: 2022-10-20 12:51:21 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/66114870-social.webp
 ---
 
 1. Some not great news for those in rich nations: Midlife crises are a real thing!

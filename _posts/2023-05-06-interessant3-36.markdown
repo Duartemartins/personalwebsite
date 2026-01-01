@@ -6,6 +6,7 @@ date: 2023-05-06 13:01:33 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/119669572-social.webp
 ---
 
 Double issue this week due to missing last week - apologies.

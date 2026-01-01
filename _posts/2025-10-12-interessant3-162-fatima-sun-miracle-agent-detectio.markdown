@@ -6,6 +6,7 @@ date: 2025-10-12 19:30:37 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/175967514-social.webp
 ---
 
 1. - The Fatima Sun Miracle: Much More Than You Wanted To Know

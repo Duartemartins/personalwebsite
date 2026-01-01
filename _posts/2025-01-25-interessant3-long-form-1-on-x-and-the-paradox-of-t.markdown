@@ -6,6 +6,7 @@ date: 2025-01-25 18:44:58 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/155696543-social.webp
 ---
 
 This post marks the beginning of a series of long-form pieces in which I’ll share my thoughts and analyses on various topics. Initially, these pieces will be exclusively available to paid subscribers. After one week, they will be accessible to everyone on both Substack and my website.

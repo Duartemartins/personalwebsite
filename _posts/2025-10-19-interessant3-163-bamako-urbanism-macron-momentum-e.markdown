@@ -6,6 +6,7 @@ date: 2025-10-19 20:30:22 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/176589227-social.webp
 ---
 
 1. **- “Yes In My Bamako Yard”**
@@ -34,7 +35,7 @@ lang: en
 -  Laureates – Half to Joel Mokyr (prerequisites for sustained growth); half jointly to Philippe Aghion & Peter Howitt (creative-destruction growth theory).
 -  Knowledge engine – Mokyr’s “useful knowledge” links propositional (why it works) and prescriptive (how to do it); Enlightenment methods + open institutions let science/tech co-evolve and diffuse via skilled artisans/engineers.
 
-![Illustration](/assets/images/substack/176589227-584ff1cc.jpeg)
+![Illustration](/assets/images/substack/176589227-584ff1cc.webp)
 
 -  Innovation ladder – Aghion-Howitt’s GE model shows R&D races where patents grant temporary rents; entrants climb the ladder, incumbents are displaced - sustained growth emerges from continual creative destruction.
 -  Welfare trade-offs – Society may under-invest (knowledge spillovers) yet also over-invest (business-stealing); optimal policy depends on market structure - antitrust, R&D support and flexicurity matter.

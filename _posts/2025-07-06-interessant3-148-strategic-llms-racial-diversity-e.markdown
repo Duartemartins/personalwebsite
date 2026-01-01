@@ -6,6 +6,7 @@ date: 2025-07-06 20:33:12 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/167670167-social.webp
 ---
 
 **1. Kenneth Payne & Baptiste Alloui-Cros: “Strategic Intelligence in Large Language Models: Evidence from Evolutionary Game Theory”**

@@ -6,6 +6,7 @@ date: 2024-02-04 17:25:49 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/141368337-social.webp
 ---
 
 Apologies for the tardiness on this issue. Going forward Interessant3 will be in your inboxes on Saturdays at 9AM GMT.

@@ -6,6 +6,7 @@ date: 2023-04-01 18:01:03 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/112072319-social.webp
 ---
 
 1. Considered one of the top 10 Global Health Threats by the WHO, Dengue fever is a disease endemic to over 100 countries, and spreading. Globally reported cases increased from 500,000/year in 2000 to 5 million in in 2019, with modelling estimating the real figure to be a staggering 390 million infections a year, and about 36,000 deaths. Worryingly, there was no Dengue-specific treatment, until very recently. Japanese pharma company Takeda has developed a Dengue vaccine, which in studies has prevented 84% of hospitalizations and 61% of symptomatic Dengue illness overall, with no identified important safety risks. It has been approved in the EU and Brazil, a **huge** win you probably didn’t hear about in the news. https://www.takeda.com/newsroom/newsreleases/2022/takedas-dengue-vaccine-candidate-provides-continued-protection-against-dengue-fever-through-4.5-years-in-pivotal-clinical-trial 

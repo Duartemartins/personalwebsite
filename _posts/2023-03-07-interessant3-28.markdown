@@ -6,6 +6,7 @@ date: 2023-03-07 07:31:07 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/106812999-social.webp
 ---
 
 This week is a double issue due to being AFK, and I’ve also left an easter egg link below, enjoy!

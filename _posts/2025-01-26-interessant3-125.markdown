@@ -6,6 +6,7 @@ date: 2025-01-26 23:14:23 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/155792312-social.webp
 ---
 
 ### ** Notes on Productivity**

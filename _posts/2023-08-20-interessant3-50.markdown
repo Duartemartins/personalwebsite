@@ -6,6 +6,7 @@ date: 2023-08-20 20:05:24 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/136250572-social.webp
 ---
 
 1. According to these researchers, individualism, as measured using Jonathan Haidt’s framework of moral values, is a key dimension of ideology in support of free-market solutions and individual optimisation. Interestingly, it is orthogonal to political stance. [https://www.nber.org/papers/w29942](https://www.nber.org/papers/w29942)

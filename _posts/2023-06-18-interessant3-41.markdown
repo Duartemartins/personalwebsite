@@ -6,6 +6,7 @@ date: 2023-06-18 23:05:07 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/126514524-social.webp
 ---
 
 Double issue due to being AFK

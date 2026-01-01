@@ -6,6 +6,7 @@ date: 2025-08-17 21:10:26 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/171216625-social.webp
 ---
 
 1. **International meta-analysis of the relationship between fertility and intelligence**

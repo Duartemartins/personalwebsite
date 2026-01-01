@@ -6,6 +6,7 @@ date: 2025-03-18 14:04:08 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/159334734-social.webp
 ---
 
 Apologies for the delay on this one - I’ve been travelling. Let me know if you have restaurant recommendations in Silicon Valley. This week we have a very diverse edition, enjoy:

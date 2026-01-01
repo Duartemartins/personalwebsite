@@ -6,6 +6,7 @@ date: 2023-05-06 13:01:33 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/119672832-social.webp
 ---
 
 1. Fast and frugal heuristics are simple decision-making strategies or rules of thumb that people use to make quick and efficient judgments or choices, particularly under conditions of uncertainty or limited information. These heuristics are based on the idea that, rather than engaging in complex and time-consuming analytical processes, humans often rely on cognitive shortcuts to arrive at satisfactory, if not optimal, decisions.The concept of fast and frugal heuristics has its roots in the research of psychologists Gerd Gigerenzer and his colleagues at the Max Planck Institute for Human Development. The key insight is that, contrary to traditional economic theories that assume humans are rational decision-makers who optimize their choices, people often make decisions using simple heuristics that reduce cognitive effort and processing time. [https://library.mpib-berlin.mpg.de/ft/gg/GG\_Fast\_1999.pdf](https://library.mpib-berlin.mpg.de/ft/gg/GG_Fast_1999.pdf)

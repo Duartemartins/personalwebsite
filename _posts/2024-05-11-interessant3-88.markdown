@@ -6,6 +6,7 @@ date: 2024-05-11 07:01:13 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/144504817-social.webp
 ---
 
 1.  **Optimising Strength and Hypertrophy in Limited Time** This meta review of the available evidence by Schoenfeld et. al. outlines strategies for effective strength training within constrained schedules, emphasising multi-joint exercises and minimal sets per muscle group weekly. It’s essentially the 80/20 of strength training. Here’s a TL;DR: 

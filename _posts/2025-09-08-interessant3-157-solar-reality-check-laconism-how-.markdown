@@ -6,13 +6,14 @@ date: 2025-09-08 20:45:20 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/173126848-social.webp
 ---
 
 1. **Solar Growth vs. Forecasts**
   -  Reality is running far ahead of expectation: in 2022, 252 GW of solar was added; 2023 jumped to ~392 GW; 2024 smashed through at 599 GW.
   -  Forecasts by the International Energy Agency (IEA) had projected a much slower, flatter trajectory - highlighting the habitual underestimation of clean tech adoption.
   -  Exponential curves are tricky: what looks “optimistic” often turns out to be conservative once deployment costs plummet and adoption cascades.
-  -  The gap between “forecast” and “reality” matters, not just statistically but politically - undue pessimism can shape investment, infrastructure planning, and public policy. ![Image](/assets/images/substack/173126848-a4863a9c.jpeg)
+  -  The gap between “forecast” and “reality” matters, not just statistically but politically - undue pessimism can shape investment, infrastructure planning, and public policy. ![Image](/assets/images/substack/173126848-a4863a9c.webp)
   -  [X Thread](https://x.com/JessePeltan/status/1961252606766190700/photo/1)
 
 ### **The Power of Laconic Phrases**

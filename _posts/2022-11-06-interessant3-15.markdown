@@ -6,6 +6,7 @@ date: 2022-11-06 22:17:09 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/66116921-social.webp
 ---
 
 1. “Theoretically, wealthier people should buy less insurance, and should self-insure through saving instead, as insurance entails monitoring costs. Here, we use administrative data for 63,000 individuals and, **contrary to theory, find that the wealthier have better life and property insurance coverage**.”[https://www.nber.org/papers/w29069](https://www.nber.org/papers/w29069) 

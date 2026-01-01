@@ -6,6 +6,7 @@ date: 2024-01-01 20:11:45 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/140254726-social.webp
 ---
 
 New Year’s Day double issue - I wish all my readers a fantastic 2024 full of enjoyable reads.

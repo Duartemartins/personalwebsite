@@ -6,6 +6,7 @@ date: 2024-04-06 11:03:21 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/143326960-social.webp
 ---
 
 1.  **The Secrets of Founders' Salaries Unveiled**  

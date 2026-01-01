@@ -6,12 +6,13 @@ date: 2025-07-21 06:01:06 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/168812903-social.webp
 ---
 
 **1. Konstantin A. Kholodilin – “Rent control effects through the lens of empirical research: An almost complete review of the literature”**
 
 -  **Scope check:** Surveys almost every empirical study since WWII, spanning 80 years, 30+ countries and every major rent-control episode.
--  **Consensus pattern:** Strong evidence that controls cap in-place rents short-term but shrink the controlled stock and distort new construction. ![Image](/assets/images/substack/168812903-6e8772c0.jpeg)
+-  **Consensus pattern:** Strong evidence that controls cap in-place rents short-term but shrink the controlled stock and distort new construction. ![Image](/assets/images/substack/168812903-6e8772c0.webp)
 -  **Equity twist:** Benefits flow mainly to long-term tenants with higher socio-economic status, often crowding out newer or poorer entrants.
 -  **Collateral damage:** Strong consensus on lower new-build activity, poorer maintenance, and stickier tenant mobility - undermining long-run welfare gains.
 -  _[Rent control effects through the lens of empirical research](https://www.sciencedirect.com/science/article/pii/S1051137724000020)_ – _Journal of Housing Economics_

@@ -6,6 +6,7 @@ date: 2025-02-09 14:31:06 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/156786456-social.webp
 ---
 
 **I asked ChatGPT for a summary of the best evidence review I could find - Diris & Ooghe (2018) - “The Economics of Financing Higher Education”. Here’s what it has to say:**
@@ -82,6 +83,6 @@ This provides **academic support for the claim that graduate taxes are a viable 
 
 It seems to me that the argument in favour of tuition fees and graduate taxes is very solid indeed. The British model seems to have worked particularly well:
 
-![Image](/assets/images/substack/156786456-8d967c86.jpeg)
+![Image](/assets/images/substack/156786456-8d967c86.webp)
 
 As a side note, asking ChatGPT for summaries on evidence reviews is proving a good way to learn about subjects directly from experts, avoiding the biases and dumbing down of the mainstream media.

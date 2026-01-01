@@ -6,6 +6,7 @@ date: 2023-03-07 07:31:05 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/106820572-social.webp
 ---
 
 1. By one metric, we’ve over-corrected on gender equality significantly, and are now heavily discriminating against men. My uncontroversial (I hope) take is that discrimination of any kind is bad by definition. This affects a small proportion of the population that is on average fairly well-off, but is unacceptable nonetheless.

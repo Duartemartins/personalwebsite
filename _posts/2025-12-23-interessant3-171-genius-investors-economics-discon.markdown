@@ -7,6 +7,7 @@ published: true
 categories: newsletter
 lang: en
 substack_id: 182343985
+image: /assets/images/substack/182343985-social.webp
 ---
 
 1. **Which genius from history would have been the best investor?** _Financial Times, Alphaville_• A seasonal thought experiment with teeth: genius is not the scarce input in markets, temperament is.• Newton’s South Sea round trip is the archetypal failure mode: early profits, then re entry at the peak when narrative overwhelms judgment.• Churchill’s investing mirrors his finances: energetic, improvised, and structurally exposed to leverage and timing risk.• Darwin emerges as the quiet allocator: diversified, cautious, and willing to rotate away from overheated assets.• Keynes is the standout. His documented record shows learning, patience, and compounding rather than constant activity.• The implied hiring rubric is almost dull: humility, risk control, and the ability to sit still beat brilliance.• Link: [Which genius from history would have been the best investor?](https://www.ft.com/content/5d2166f5-965b-45b2-a604-9f0a6fc19a35?shareType=nongift)
@@ -16,7 +17,7 @@ substack_id: 182343985
 1. **Exercise before stress: a cortisol refractory period** _Psychoneuroendocrinology, ScienceDirect_
   - Experimental evidence shows that cortisol released during exercise suppresses the cortisol response to a later psychosocial stressor.
 
- ![Fig. 2](/assets/images/substack/182343985-e7a65206.jpeg)
+ ![Fig. 2](/assets/images/substack/182343985-e7a65206.webp)
   - Intensity matters. Vigorous exercise produces the strongest dampening effect, with lower peaks and faster recovery during subsequent stress.
   - The mechanism is physiological negative feedback rather than mood or mindset alone.
   - This reframes pre performance workouts as endocrine sequencing: controlled stress first, reduced biological overreaction later.

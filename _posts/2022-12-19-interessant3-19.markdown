@@ -6,6 +6,7 @@ date: 2022-12-19 12:01:15 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/72723511-social.webp
 ---
 
 1. Existence of Monasteries as a predictor of Innovation: 

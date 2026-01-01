@@ -6,6 +6,7 @@ date: 2025-04-20 18:30:26 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/161744866-social.webp
 ---
 
 ###  **Where the World Actually Burns**
@@ -17,7 +18,7 @@ Wildfires make global headlines, but only in certain places - Portugal, The USA,
 
 If we aim to address global wildfires, our resources and attention must align with where fires actually burn, not just where they make headlines.
 
-![A bar graph illustrating the share of global area burned by wildfires across different regions from 2012 to 2024. The graph is divided vertically into segments representing five regions: Africa, Europe, Asia, Oceania, and North and South America. The deep red color represents Africa, which dominates the graph, showing more than half of the total area burned. Other regions, represented by lighter colors, fill the remaining sections of the graph. The year labels are placed along the horizontal axis, indicating the timeline of the data. The title emphasizes that more than half of the area burned by wildfire is in Africa. The data source is the Global Wildfire Information System, with the year of the data being noted as 2025. The graph is under a Creative Commons BY license.](/assets/images/substack/161744866-56e0fdb3.png)
+![A bar graph illustrating the share of global area burned by wildfires across different regions from 2012 to 2024. The graph is divided vertically into segments representing five regions: Africa, Europe, Asia, Oceania, and North and South America. The deep red color represents Africa, which dominates the graph, showing more than half of the total area burned. Other regions, represented by lighter colors, fill the remaining sections of the graph. The year labels are placed along the horizontal axis, indicating the timeline of the data. The title emphasizes that more than half of the area burned by wildfire is in Africa. The data source is the Global Wildfire Information System, with the year of the data being noted as 2025. The graph is under a Creative Commons BY license.](/assets/images/substack/161744866-56e0fdb3.webp)
 
 !
 

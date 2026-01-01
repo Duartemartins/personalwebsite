@@ -7,6 +7,7 @@ published: true
 categories: newsletter
 lang: en
 substack_id: 182334229
+image: /assets/images/substack/182334229-social.webp
 ---
 
 Sending you a Christmas present of four issues of Interessant3 so you can have plenty to read in your down time.
@@ -16,7 +17,7 @@ Sending you a Christmas present of four issues of Interessant3 so you can have p
 
   - Intensive single discipline training delivers an early performance advantage, but that advantage steadily fades.
 
- ![Image](/assets/images/substack/182334229-b90407c2.jpeg)
+ ![Image](/assets/images/substack/182334229-b90407c2.webp)
   - Individuals exposed to multiple domains early on tend to progress more slowly at first.
   - Over time, these late specialisers are more likely to reach true world class status.
   - Early specialists often plateau just below the very top of their field.
@@ -28,7 +29,7 @@ Sending you a Christmas present of four issues of Interessant3 so you can have p
   - Centralised planning and strong political consensus reduced delays and regulatory friction.
   - Bulk ordering and design standardisation drove costs down and shortened construction timelines.
 
- ![Image](/assets/images/substack/182334229-d94272b8.png)
+ ![Image](/assets/images/substack/182334229-d94272b8.webp)
   - Local subsidies, tax incentives, and state coordination aligned incentives across industry, labour, and government.
   - The programme ultimately delivered around 70 percent of France’s electricity from nuclear power.
   - The article argues these lessons remain relevant for countries seeking rapid, low carbon energy today.

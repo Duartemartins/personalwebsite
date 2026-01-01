@@ -6,6 +6,7 @@ date: 2024-05-18 07:01:00 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/144718233-social.webp
 ---
 
 1. ** The eu/acc Charter**  

@@ -6,6 +6,7 @@ date: 2022-11-23 18:01:08 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/72723474-social.webp
 ---
 
 1. Impact of Internet access in Africa: 

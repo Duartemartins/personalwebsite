@@ -6,6 +6,7 @@ date: 2024-12-01 17:02:43 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/152405316-social.webp
 ---
 
 ###  **Can Desalination Deliver Infinite Water?**
@@ -20,7 +21,7 @@ On a personal note, I was recently in Cabo Verde, an African archipelago which h
 
 Widespread claims of a recent spike in cancer deaths among those aged 0-54 may have been exaggerated. ’s analysis highlights the steady trends in mortality rates, challenging current narratives around this sensitive topic.
 
-![Image](/assets/images/substack/152405316-75b49ec1.png)
+![Image](/assets/images/substack/152405316-75b49ec1.webp)
 
  [Read More Here](https://x.com/cremieuxrecueil/status/1858938556342792344)
 

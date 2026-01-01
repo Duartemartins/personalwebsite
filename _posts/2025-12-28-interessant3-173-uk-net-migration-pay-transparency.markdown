@@ -7,13 +7,14 @@ published: true
 categories: newsletter
 lang: en
 substack_id: 182358771
+image: /assets/images/substack/182358771-social.webp
 ---
 
 1. **Is the UK Heading for Net-Zero Immigration?**
   - UK net migration, after peaking in 2022 at nearly one million, is now projected to fall to zero by late 2026.
   - The reversal is partly driven by post-pandemic correction and policy tightening, but also a changing global labour market. Student visa changes, work visa caps, and public sentiment are converging to reshape the UK’s migration model.
 
- ![Image](/assets/images/substack/182358771-54182e79.jpeg)
+ ![Image](/assets/images/substack/182358771-54182e79.webp)
   - The political implications are stark: if current projections hold, immigration may cease to be the wedge issue it once was.
   - Link: [Are We Heading for Net-Zero Immigration? – UnHerd](https://unherd.com/2025/12/are-we-heading-for-net-zero-immigration/)
 

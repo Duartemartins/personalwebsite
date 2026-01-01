@@ -6,6 +6,7 @@ date: 2023-07-30 21:44:32 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/135574357-social.webp
 ---
 
 1. Karl Popper’s _paradox of tolerance_ is a key concept in liberal democracy. Popper wrote his famous _The_ _Open Society and its Enemies_ while fleeing from the Nazis, yet he was always a steadfast defender of liberty, even the freedom to utter intolerant philosophies:

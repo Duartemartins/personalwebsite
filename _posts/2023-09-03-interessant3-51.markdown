@@ -6,6 +6,7 @@ date: 2023-09-03 23:00:18 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/136697270-social.webp
 ---
 
 Double issue this week as I was AFK.
@@ -14,7 +15,7 @@ Double issue this week as I was AFK.
 [https://www.neilwithdata.com/mathematics-self-learner](https://www.neilwithdata.com/mathematics-self-learner)
 2. Collaborative Fund is a venture capital fund based in New York City known for its interesting content. In this post one of their partners shares “Eight laws from all kinds of fields that should be useful regardless of what field you’re in.”  
 [https://www.collaborativefund.com/blog/useful-laws-of-the-land/](https://www.collaborativefund.com/blog/useful-laws-of-the-land/)
-3. An extensive deep dive on healthcare, with a US focus. This is quite a large essay with lots of arguments, not for the faint-hearted. ![rcafdm_oecd_income_health_elasticity_2017](/assets/images/substack/136697270-80a69a11.png)[https://randomcriticalanalysis.com/why-conventional-wisdom-on-health-care-is-wrong-a-primer/](https://randomcriticalanalysis.com/why-conventional-wisdom-on-health-care-is-wrong-a-primer/)
+3. An extensive deep dive on healthcare, with a US focus. This is quite a large essay with lots of arguments, not for the faint-hearted. ![rcafdm_oecd_income_health_elasticity_2017](/assets/images/substack/136697270-80a69a11.webp)[https://randomcriticalanalysis.com/why-conventional-wisdom-on-health-care-is-wrong-a-primer/](https://randomcriticalanalysis.com/why-conventional-wisdom-on-health-care-is-wrong-a-primer/)
 
 #### This newsletter is brought to you by DeepDive
 

@@ -6,6 +6,7 @@ date: 2023-12-17 14:02:11 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/139859017-social.webp
 ---
 
 1.  **Campbell's Law in Modern Context** : This principle states that the more a metric is used to make decisions, the more likely it is to be corrupted and the more likely it is to corrupt the people it's meant to assess. In today's data-driven society, this law raises significant questions about the reliability and integrity of metrics in education, business, and government. For example, in the 90s and noughties in the UK, the National Health Service's implementation of strict performance targets to reduce patient waiting times led to unintended consequences, as healthcare providers manipulated data and prioritised patients based on target thresholds rather than medical need. [Learn more about Campbell's Law](https://en.wikipedia.org/wiki/Campbell's_law)

@@ -6,6 +6,7 @@ date: 2024-06-22 06:01:15 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/145878252-social.webp
 ---
 
 1.  **Navigating the US Venture Capital Landscape** Alice Bentinck from Entrepreneur First explains how to raise venture capital in the US. She discusses the differences between US and UK funding, emphasizing the need for strong networking and understanding what investors expect. This guide is crucial for anyone aiming to raise funds in the competitive US market.[Read more here](https://www.bunniestudios.com/blog/2007/akihabara-eat-your-heart-out/)

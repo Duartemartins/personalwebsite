@@ -6,6 +6,7 @@ date: 2024-11-09 14:05:24 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/151413718-social.webp
 ---
 
 1. ** Authoritarian Similarities Across the Spectrum**

@@ -6,6 +6,7 @@ date: 2024-04-13 07:01:30 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/143517279-social.webp
 ---
 
 1.  **Founding Frustrations and Triumphs in Germany**  

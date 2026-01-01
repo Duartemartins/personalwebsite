@@ -6,18 +6,19 @@ date: 2024-02-17 08:59:48 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/141730305-social.webp
 ---
 
 1.  **Growing Median Household Income Across Generations**  
 A recent paper highlights the continual growth of median household income across generations in the USA, including Gen Z and Millennials. Notably, this increase isn't attributed to longer working hours, suggesting that dual incomes might not be the sole driver of financial growth. An intriguing insight into how economic dynamics evolve with each new generation.  
 [Read more about the study](https://x.com/jmhorp/status/1755020015999332547?s=20)
 
-![Image](/assets/images/substack/141730305-a918823a.jpeg)
+![Image](/assets/images/substack/141730305-a918823a.webp)
 
 1.  **Introducing InfoBrief AI**  
 Using AI, InfoBrief monitors research papers, data APIs, podcasts, and press releases, and summarises them into high-signal insights sent directly to your inbox. This tool is useful for professionals, researchers, and the intellectually curious, keen on staying ahead in their respective fields without being overwhelmed by information overload. The alpha (early release) briefings are on the topics of government and ‘progress studies’.  
 [Explore InfoBrief AI](https://infobrief.ai/)
 
 1.  **A Breakthrough in Nuclear Disarmament Technology**  
-An innovative approach proposes the remote and unilateral disablement of all nuclear bombs on Earth. Utilizing a 1000 TeV muon-\>neutrino beam, this method can penetrate the Earth to decay near fissile materials, rendering them ineffective. This groundbreaking research opens a new chapter in arms control, potentially revolutionising the path to global disarmament. ![Image](/assets/images/substack/141730305-e19a19ec.jpeg)  
+An innovative approach proposes the remote and unilateral disablement of all nuclear bombs on Earth. Utilizing a 1000 TeV muon-\>neutrino beam, this method can penetrate the Earth to decay near fissile materials, rendering them ineffective. This groundbreaking research opens a new chapter in arms control, potentially revolutionising the path to global disarmament. ![Image](/assets/images/substack/141730305-e19a19ec.webp)  
 [Discover the method](https://arxiv.org/pdf/hep-ph/0305062.pdf)

@@ -6,6 +6,7 @@ date: 2025-07-21 06:11:01 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/168815161-social.webp
 ---
 
 **1. Richard M. Stallman – “The JavaScript Trap”**
@@ -19,7 +20,7 @@ lang: en
 1. **Kyle Nolan – “We Reached $1 M ARR with Zero Funding” (ProjectionLab)**
   -  Built a personal-finance simulation app solo, deliberately shunning VC money to retain product focus and creative control.
   -  Growth came from relentless customer feedback loops: weekly changelogs, transparent road-maps, and a vibrant subreddit community.
-  -  Revenue strategy mixed freemium tiers, annual plans, and a healthy upsell to lifetime licences to smooth cash flow. ![Page hero image](/assets/images/substack/168815161-f334db22.png)
+  -  Revenue strategy mixed freemium tiers, annual plans, and a healthy upsell to lifetime licences to smooth cash flow. ![Page hero image](/assets/images/substack/168815161-f334db22.webp)
   -  Key lesson: modest pricing + obsessive polish can out-compete louder, better-funded rivals—proof that patience still pays on the indie SaaS path.
   -  _[We Reached $1 M ARR with Zero Funding](https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding)_ – ProjectionLab Blog
 

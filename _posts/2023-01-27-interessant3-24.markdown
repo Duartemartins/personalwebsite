@@ -6,6 +6,7 @@ date: 2023-01-27 12:54:43 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/99108253-social.webp
 ---
 
 1. A study looking at 68 years of the Belgian coal industry in the 19th and 20th centuries shows that the Marxian idea that wages would always decline due to capitalist monopsony is wrong. It also shows that the main driver of wage growth was not Union membership, but effective antitrust laws. Competition is good for workers.

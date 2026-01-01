@@ -6,6 +6,7 @@ date: 2025-03-03 07:02:35 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/158257653-social.webp
 ---
 
 ###  **The Politicisation of Science Grants**

@@ -6,6 +6,7 @@ date: 2025-03-31 20:22:07 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/160286856-social.webp
 ---
 
 Apologies for the delay, it has been an intense week! Enjoy:
@@ -32,6 +33,6 @@ In this clear-eyed essay, Hussain Abdul-Hussain examines a question often asked 
 
 An image worth a thousand conservation reports. Southern right whales (_Eubalaena australis_) were hunted nearly to extinction, dropping from around 120,000 to just a few hundred by the 1920s. But recent research shows a slow resurgence: in places like South Africa, Argentina, and sub-Antarctic New Zealand, whales are returning to long-abandoned calving grounds. Interestingly, female whales pass down migratory routes to their calves, meaning recolonisation depends on restoring lost traditions. It’s a conservation success, and a lens into what it takes to rebuild a species across generations.
 
-![Image](/assets/images/substack/160286856-e403b98a.jpeg)
+![Image](/assets/images/substack/160286856-e403b98a.webp)
 
 [Read the full study →](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2018.00530/full)

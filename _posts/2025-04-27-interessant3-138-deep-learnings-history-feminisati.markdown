@@ -6,6 +6,7 @@ date: 2025-04-27 22:23:03 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/162287420-social.webp
 ---
 
 ###  **Mapping the Deep Learning Revolution**
@@ -28,6 +29,6 @@ A provocative essay linking the slowdown of technological and economic dynamism 
 
 I’m testing out a new idea: Based on Karl Popper’s philosophy of science, it’s a new platform where people place ideas and challenge the community to falsify them. With monetary bounties and public reasoning, it aims to rebuild scientific and philosophical integrity - making falsification and intellectual integrity rewarding. If you enjoy proving people wrong online, now’s your chance to make some money from it.
 
-![xkcd: Duty Calls](/assets/images/substack/162287420-aaec2378.png)
+![xkcd: Duty Calls](/assets/images/substack/162287420-aaec2378.webp)
 
  [Explore Popper](https://popper.popadex.com)

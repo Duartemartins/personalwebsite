@@ -6,6 +6,7 @@ date: 2023-11-25 14:54:51 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/139149102-social.webp
 ---
 
 1. ** The Income Gap Over Two Centuries:** A captivating graph that illustrates the income share of the wealthiest 1% in various countries across the last 200 years. It is interesting to see the reduction in inequality over time in social market economies, and also to note that the top 1% in China receive a much larger share of income than France, and larger than the UK. The long term trends are also different, perhaps that could partly be explained by the stages of development these countries find themselves in. !

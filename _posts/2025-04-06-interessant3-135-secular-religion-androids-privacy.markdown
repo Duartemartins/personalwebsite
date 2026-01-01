@@ -6,6 +6,7 @@ date: 2025-04-06 19:18:42 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/160725533-social.webp
 ---
 
 ###  **When Atheism Meets a New Orthodoxy**

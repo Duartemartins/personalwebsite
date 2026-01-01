@@ -6,6 +6,7 @@ date: 2025-06-22 14:00:25 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/166416310-social.webp
 ---
 
 **1. Fergus McCullough – How Spain Builds Beautiful New Neighbourhoods**
@@ -13,13 +14,13 @@ lang: en
 -  Spain’s cities thrive thanks to _land readjustment_, a legal mechanism that reorganises fragmented land plots for coherent urban development.
 -  Landowners contribute their irregular plots, surrender a portion for infrastructure, and receive back better-located parcels in a newly planned layout.
 
-![Image](/assets/images/substack/166416310-eea3d294.jpeg)
+![Image](/assets/images/substack/166416310-eea3d294.webp)
 
 -  Initially slow and fraught, the process gained traction when Valencia introduced _compulsory readjustment_ in 1994, backing up planning agents with legal teeth.
 - ⏱ Reforms slashed plan approval times from years to months and quintupled annual development sites within three years.
 -  The result: high-impact projects like Zorrotzaurre in Bilbao and Camino Hondo del Grao, where messy land was turned into liveable city space.
 
-![Image](/assets/images/substack/166416310-f5427f3d.jpeg)
+![Image](/assets/images/substack/166416310-f5427f3d.webp)
 
 -  _[How Spain Builds Beautiful New Neighbourhoods](https://x.com/F_McCullough/status/1935351030549500134)_ – Progress Ireland (via )
 
@@ -36,7 +37,7 @@ lang: en
 
 I’ve been reading up on housing policy and social attitudes lately, and I’m increasingly convinced it’s the single most important issue facing western democracies at present. This paper addresses common misconceptions.
 
-![Image](/assets/images/substack/166416310-3612a62a.jpeg)
+![Image](/assets/images/substack/166416310-3612a62a.webp)
 
 -  _Scapegoat 1:_ Targeted federal mortgage-access programmes inflate house prices and rents. Reality: Such initiatives mostly convert renters into owners rather than creating extra households, so overall demand is unchanged and price pressure reflects inadequate supply, not credit tweaks.
 -  _Scapegoat 2_: Developers who focus on high-end projects drive the affordability crisis. Reality: Every additional dwelling enlarges the housing stock; even luxury units free up cheaper homes through filtering, so more construction, especially mid-priced, tempers price growth.

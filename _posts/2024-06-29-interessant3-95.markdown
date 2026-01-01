@@ -6,6 +6,7 @@ date: 2024-06-29 11:01:17 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/146105003-social.webp
 ---
 
 1.  **Purple Hat Therapy: Visualising Causation** Purple hat therapy refers to the practice of combining established therapeutic methods with an unusual addition, like wearing a purple hat. This approach highlights how the added element often does not contribute to the therapy's effectiveness, which stems from the underlying established practice. It’s a good way to visualise the importance of underlying causal drivers rather than things which may be claimed to be the root cause. One example that is often used is eye movement desensitisation and reprocessing, however others that come to mind are beneficial practices that incorporate supernatural practices and beliefs on top.[Read more](https://en.wikipedia.org/wiki/Purple_hat_therapy)

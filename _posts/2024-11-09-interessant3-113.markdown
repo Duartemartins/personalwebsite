@@ -6,6 +6,7 @@ date: 2024-11-09 14:01:16 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/151413268-social.webp
 ---
 
 **From Zero to 50,000 MAU Without Marketing**

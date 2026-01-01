@@ -6,6 +6,7 @@ date: 2023-09-18 18:31:22 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/137155953-social.webp
 ---
 
 1.  **Preference Falsification** : The complexity of societal pressures often makes us misrepresent our true feelings and opinions. This phenomenon, known as Preference Falsification, can sometimes lead to shocking revelations. For instance, a 2020 study by Bursztyn et al. found that most young married men in Saudi Arabia privately support women working outside the home. Yet, these men significantly underestimate how many of their peers share this belief. When they learn the true level of support, they are more willing to help their wives secure employment. Discover more about this intriguing concept [here](https://en.m.wikipedia.org/wiki/Preference_falsification).

@@ -6,6 +6,7 @@ date: 2023-12-03 08:00:12 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/139364484-social.webp
 ---
 
 Thank you for reading Interessant3 — your support allows me to keep doing this work.

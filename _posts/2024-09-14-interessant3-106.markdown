@@ -6,6 +6,7 @@ date: 2024-09-14 17:03:46 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/148883548-social.webp
 ---
 
 ### ** Feminisation Has Consequences**
@@ -24,6 +25,6 @@ The rapid implosion of Chinese tech firms, driven by a unique set of redemption 
 
 A fascinating genetic map of Spain reveals that modern Spaniards, particularly in the south, share a stronger genetic link with pre-Roman Celtic populations than with the later Roman or Berber invaders. One can actually make out the the historical kingdoms of Galicia, León, Castille, Aragon, Valencia, Basque Country, and Catalonia, showing the deep influence of the northern populations that reconquered the Iberian Peninsula during the Reconquista. Despite centuries of migration and conquest, the northern genetic legacy endures, painting a complex picture of Spain’s historical and genetic landscape.
 
-![Image](/assets/images/substack/148883548-774d1d72.jpeg)
+![Image](/assets/images/substack/148883548-774d1d72.webp)
 
 [Explore the genetic map here](https://x.com/HistoriaEspanna/status/1823352641243496619)

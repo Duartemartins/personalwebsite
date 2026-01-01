@@ -6,6 +6,7 @@ date: 2023-10-02 16:56:43 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/137597735-social.webp
 ---
 
 1.  **The Ascending Middle Class** : Contrary to the common narrative that the middle class in the U.S. is shrinking due to worsening financial conditions, data suggests otherwise. A graph reveals that the middle class is actually becoming richer, thus moving into higher income brackets. This perspective offers a nuanced take on economic mobility and challenges traditional viewpoints on class structure in America. Learn more about this eye-opening data [here](https://x.com/johanknorberg/status/1704832333998612810).

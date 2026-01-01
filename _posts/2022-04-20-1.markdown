@@ -13,7 +13,7 @@ lang: en
 [
  !
 
-](/assets/images/substack/52501435-5564b90c.png)
+](/assets/images/substack/52501435-5564b90c.webp)
 
 [Our World in Data](https://ourworldindata.org/grapher/total-agricultural-land-use-per-person)
 

@@ -6,6 +6,7 @@ date: 2025-05-04 22:11:42 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/162839416-social.webp
 ---
 
 ### ** Old-School Science Sites**

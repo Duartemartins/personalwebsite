@@ -6,6 +6,7 @@ date: 2024-11-17 18:15:25 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/151783292-social.webp
 ---
 
 ###  **Digital Time Capsules: Discover Forgotten Moments**

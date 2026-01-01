@@ -6,6 +6,7 @@ date: 2023-12-09 12:29:06 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/139642312-social.webp
 ---
 
 1.  **Reexamining Monopolistic Competition: Insights from Baumol, Diamond, and Brock** The works of Baumol, Diamond, and Brock offer a reevaluation of monopolistic competition, challenging conventional economic ideas on monopoly. Baumol's analysis suggests that as long as the market can be contested by new entrants, it will offer competitive prices. Diamond focuses on the opposite: even if there is an infinite number of sellers, as long as there are frictions in price discovery, they will offer monopoly prices. Brock finds that if the monopolist can adjust the price after the competitors' entry, competitors will not enter, and monopolists will set the price above the equilibrium point, creating a need to regulate monopolies. Together, their research provides a nuanced view of monopolies, indicating that these market structures can be more dynamic and competitively vibrant than traditionally perceived but may also need regulation. [Explore their in-depth findings](https://x.com/sc_cath/status/1732175277659435162?s=46).

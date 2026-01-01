@@ -6,6 +6,7 @@ date: 2024-03-23 08:00:14 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/142856984-social.webp
 ---
 
 1.  **Merging Disciplines: The Brilliance of Computational Thermodynamics**  

@@ -6,6 +6,7 @@ date: 2025-08-24 22:40:32 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/171836515-social.webp
 ---
 
 1. Garett Jones - Do Immigrants Import Their Economic Destiny?

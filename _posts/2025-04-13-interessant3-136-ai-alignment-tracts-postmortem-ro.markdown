@@ -6,6 +6,7 @@ date: 2025-04-13 20:32:44 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/161253855-social.webp
 ---
 
 ###  **Building a Safer Future: AI Risk, Alignment, and You**
@@ -26,6 +27,6 @@ Tract set out to hack the UK housing crisis by streamlining planning permission 
 
 Joe Rogan didn’t just move to Austin, he remade it. Helen Lewis’s Atlantic profile captures how Rogan’s Comedy Mothership became ground zero for a new cultural bloc: tech bros, heterodox thinkers, wellness gurus, and disaffected liberals orbiting the podcaster turned kingmaker. At once bawdy and philosophical, reactionary and progressive, Rogan’s influence shapes the political and social mood of an entire city.
 
-![collage of two photos of Joe Rogan's face, one red and one blue, superimposed over a map of the city of Austin, Texas](/assets/images/substack/161253855-f6e4b179.jpeg)
+![collage of two photos of Joe Rogan's face, one red and one blue, superimposed over a map of the city of Austin, Texas](/assets/images/substack/161253855-f6e4b179.webp)
 
  [Joe Rogan’s Comedy Club Kingdom](https://www.theatlantic.com/magazine/archive/2024/10/joe-rogan-austin-comedy-club/679568/)

@@ -6,6 +6,7 @@ date: 2023-11-18 16:34:43 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/138969166-social.webp
 ---
 
 Interessant3 will now be published on Saturdays.

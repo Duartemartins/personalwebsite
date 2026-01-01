@@ -6,6 +6,7 @@ date: 2024-07-13 07:01:53 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/146560841-social.webp
 ---
 
 1.  **The Loudest Alarm is Probably False**  

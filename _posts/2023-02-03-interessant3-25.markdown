@@ -6,6 +6,7 @@ date: 2023-02-03 09:01:16 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/100544099-social.webp
 ---
 
 1. Jordan and Israel agree to work together to clean the Jordan River: “a critical climate adaptation measure that can help bring back 50% of the biodiversity lost because of decades of pollution and freshwater diversion.” [https://apnews.com/article/middle-east-business-israel-jordan-pollution-e50adf6d253cdd9ea73775052705c5bf](https://apnews.com/article/middle-east-business-israel-jordan-pollution-e50adf6d253cdd9ea73775052705c5bf)

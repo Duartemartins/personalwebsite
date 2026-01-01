@@ -6,6 +6,7 @@ date: 2023-11-06 22:00:11 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/138647812-social.webp
 ---
 
 1.  **The Unintended Consequences of Minimum Wage Increases:** Continuing from last week’s theme on the impacts of minimum wages, a study examining the aftermath of a substantial minimum wage hike in Israel reveals a counterintuitive impact. While aiming to benefit low-income workers, the increase actually resulted in reduced profits for companies, particularly those employing many minimum wage workers. Intriguingly, these financial hits were felt more by lower-income business owners, not the affluent, suggesting a complex interplay between policy and income redistribution. Learn about the delicate balance between wage policies and business sustainability [here](https://www.sciencedirect.com/science/article/abs/pii/S0047272721000591).

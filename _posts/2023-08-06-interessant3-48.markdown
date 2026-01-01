@@ -6,6 +6,7 @@ date: 2023-08-06 18:24:43 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/135774820-social.webp
 ---
 
 1. National histories of slavery and colonialism are neither necessary nor sufficient conditions for a country to have labour market discrimination. https://sociologicalscience.com/download/vol-6/june/SocSci\_v6\_467to496.pdf ! 

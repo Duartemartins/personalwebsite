@@ -6,6 +6,7 @@ date: 2025-02-02 21:11:19 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/156324887-social.webp
 ---
 
 The first long-form post on Interessant3 is now free to read for all subscribers:
@@ -14,7 +15,7 @@ The first long-form post on Interessant3 is now free to read for all subscribers
 
 How does a product manager from a coupon company end up building a supersonic jet? Blake Scholl’s story is a masterclass in first-principles thinking, perseverance, and daring to challenge industry norms. This fascinating thread traces his journey—leaving a stagnant tech job, self-teaching aerospace engineering, and convincing investors that supersonic travel is viable once again. With $25B in pre-orders, Boom Supersonic is making history.
 
-![Image](/assets/images/substack/156324887-6efccb5b.jpeg)
+![Image](/assets/images/substack/156324887-6efccb5b.webp)
 
  [Read the full story](https://threadreaderapp.com/thread/1884745797004357813.html)
 

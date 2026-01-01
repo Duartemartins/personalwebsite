@@ -6,6 +6,7 @@ date: 2024-12-01 17:01:07 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/152403329-social.webp
 ---
 
 A double-post this week dear reader, as I have been on holiday. Enjoy.

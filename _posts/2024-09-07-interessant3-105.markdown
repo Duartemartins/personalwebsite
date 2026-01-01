@@ -6,6 +6,7 @@ date: 2024-09-07 07:01:29 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/148583929-social.webp
 ---
 
 ###  Devastating Review of the Degrowth Literature

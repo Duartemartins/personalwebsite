@@ -6,6 +6,7 @@ date: 2023-07-01 07:48:43 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/131608760-social.webp
 ---
 
 1. Contrary to popular belief, most fish stocks are increasing around the world. Researchers point to scientific management of fish stocks as the cause. [https://www.anthropocenemagazine.org/2020/01/the-verdict-managing-fisheries-really-does-work/](https://www.anthropocenemagazine.org/2020/01/the-verdict-managing-fisheries-really-does-work/)

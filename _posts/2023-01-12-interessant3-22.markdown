@@ -6,6 +6,7 @@ date: 2023-01-12 12:30:00 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/72724164-social.webp
 ---
 
 1. Important Economics concepts where non-economists’ wrong intuitions have long-term policy consequences: 

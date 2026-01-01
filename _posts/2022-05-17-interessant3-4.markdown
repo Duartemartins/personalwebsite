@@ -6,6 +6,7 @@ date: 2022-05-17 07:00:31 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/55198885-social.webp
 ---
 
 1. Sanitation improvements in Dakar

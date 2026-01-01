@@ -6,6 +6,7 @@ date: 2024-01-13 14:48:26 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/140646990-social.webp
 ---
 
 1.  **Skin in the game:** An insightful quote from Nicholas Nassim Taleb in Skin in the Game that sums up the concept quite well: 

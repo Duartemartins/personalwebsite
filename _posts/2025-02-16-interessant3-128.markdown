@@ -6,13 +6,14 @@ date: 2025-02-16 23:21:06 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/157282408-social.webp
 ---
 
 ###  **Europe’s Self-Inflicted Trade Barriers**
 
 Forget US tariffs—Europe has effectively imposed them on itself. In an article for the FT, Mario Draghi highlights how the EU’s high _internal_ barriers and regulatory hurdles are stifling growth more than any external trade restrictions. With internal trade costs equivalent to a 45% tariff on manufacturing and 110% on services, Europe’s fragmented market is dragging down competitiveness. More than anything, the EU must break free from its own constraints.
 
-![Image](/assets/images/substack/157282408-30baed38.jpeg)
+![Image](/assets/images/substack/157282408-30baed38.webp)
 
  [Read more](https://archive.ph/gzMPE)
 
@@ -20,7 +21,7 @@ Forget US tariffs—Europe has effectively imposed them on itself. In an article
 
 Microsoft released the GitHub Copilot AI Agent. My recent hands-on test showed mixed results—failing at building an iOS app with a Plaid integration but succeeding in creating a simple inflation web app with Sinatra. It’s still early days, but the potential is massive. We are on the cusp of a software development revolution, where common people will be able to use AI Agent teams to turn ideas into reality.
 
-![Image](/assets/images/substack/157282408-95030d96.jpeg)
+![Image](/assets/images/substack/157282408-95030d96.webp)
 
  [Read more](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/?ref=producthunt)
 

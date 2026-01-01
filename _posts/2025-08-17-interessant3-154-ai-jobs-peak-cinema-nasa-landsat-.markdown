@@ -6,6 +6,7 @@ date: 2025-08-17 21:56:02 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/171220986-social.webp
 ---
 
 1. **Lukas B. Freund & Lukas F. Mann - Job Transformation, Specialization, and the Labor Market Effects of AI**

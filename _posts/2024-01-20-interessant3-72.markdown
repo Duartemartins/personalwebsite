@@ -6,6 +6,7 @@ date: 2024-01-20 00:19:17 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/140855064-social.webp
 ---
 
 1.  **Transforming Gas Pipelines for a Greener Future**   

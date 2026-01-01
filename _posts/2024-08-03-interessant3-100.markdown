@@ -6,6 +6,7 @@ date: 2024-08-03 07:01:15 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/147283038-social.webp
 ---
 
 We’ve officially reached 100 editions of interessant3, and crossed the 200 subscriber mark just in time! Thank you to all who take an interest in what I post, reply and otherwise engage with the newsletter.

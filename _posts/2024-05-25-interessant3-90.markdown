@@ -6,6 +6,7 @@ date: 2024-05-25 07:00:36 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/144958308-social.webp
 ---
 
 1.  **Income and IQ: Proof of Meritocracy**  

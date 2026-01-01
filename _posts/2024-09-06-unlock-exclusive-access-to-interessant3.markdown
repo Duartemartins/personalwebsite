@@ -6,6 +6,7 @@ date: 2024-09-06 16:30:55 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/148575733-social.webp
 ---
 
 Dear valued reader,

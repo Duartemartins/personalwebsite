@@ -6,6 +6,7 @@ date: 2023-10-30 23:01:15 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/138433705-social.webp
 ---
 
 Double issue this week.

@@ -6,6 +6,7 @@ date: 2024-10-27 13:39:47 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/150798944-social.webp
 ---
 
 ** Facing “The Struggle” in Entrepreneurship: Building Strength Through Hard Times**

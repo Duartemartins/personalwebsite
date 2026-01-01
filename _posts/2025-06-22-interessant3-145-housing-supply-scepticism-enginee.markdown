@@ -6,6 +6,7 @@ date: 2025-06-22 06:01:48 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/166411359-social.webp
 ---
 
 The posts for June will be released over the next couple days, with regular programming resuming from Sunday onwards.
@@ -30,7 +31,7 @@ The posts for June will be released over the next couple days, with regular prog
 -  India’s _Agri Stack_ aims to revolutionise farm data integration for 60M small-scale farmers, streamlining aid and disaster response.
 -  Baidu expects its _Apollo Go_ robotaxi fleet to become the world’s first profitable autonomous taxi network, by slashing vehicle production costs to just $28k.
 
-![Baidu's Apollo Go: Super cheap robotaxi rides spark widespread anxiety in China | CNN Business](/assets/images/substack/166411359-ad5b15c4.jpeg)
+![Baidu's Apollo Go: Super cheap robotaxi rides spark widespread anxiety in China | CNN Business](/assets/images/substack/166411359-ad5b15c4.webp)
 
 -  High-bandwidth memory (HBM4) will power next-gen AI, while high-NA EUV chipmaking may extend Moore’s Law into late 2020s.
 -  [9 Intriguing Engineering Feats for 2025](https://spectrum.ieee.org/technology-in-2025?utm_source=tldrnewsletter) – _IEEE Spectrum_

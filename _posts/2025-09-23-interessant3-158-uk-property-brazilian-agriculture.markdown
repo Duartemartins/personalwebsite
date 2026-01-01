@@ -6,6 +6,7 @@ date: 2025-09-23 19:30:28 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/174367457-social.webp
 ---
 
 1. **, “How Britain Became a Property-Owning Democracy”**

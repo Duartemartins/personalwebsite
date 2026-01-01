@@ -6,6 +6,7 @@ date: 2024-03-16 08:03:18 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/142617644-social.webp
 ---
 
 1.  **Understanding Essential Economics Concepts**  

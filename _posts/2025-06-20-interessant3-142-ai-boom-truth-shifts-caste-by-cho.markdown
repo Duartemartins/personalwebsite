@@ -6,6 +6,7 @@ date: 2025-06-20 16:03:53 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/166142598-social.webp
 ---
 
 The posts for June will be released over the next couple days, with regular programming resuming from Sunday onwards.

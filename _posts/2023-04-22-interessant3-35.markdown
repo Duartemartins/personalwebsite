@@ -6,6 +6,7 @@ date: 2023-04-22 11:13:40 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/116499583-social.webp
 ---
 
 1. A fascinating animation showing the altitude at which certain things occur, such as bird flights, balloon altitude records, and atmospheric phenomena: [https://neal.fun/space-elevator/](https://neal.fun/space-elevator/)

@@ -6,11 +6,12 @@ date: 2025-10-05 19:31:10 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/175359418-social.webp
 ---
 
 1. **Housing supply 101 - “When inventories fall, prices rise”** 
   -  As previously covered, housing markets have a core rule: lower available homes relative to demand → higher prices; any housing policy that ignores this arithmetic won’t dent the crisis.
- ![A scatter plot with bubbles of varying sizes. X-axis shows change in housing inventories from April 2019 to April 2024, ranging from -10% to 80%. Y-axis shows change in home prices from April 2019 to April 2023, ranging from -6% to 6%. Bubbles represent U.S. metros like New York, Chicago, Philadelphia, Detroit, LA, Houston, Phoenix, Dallas, Miami, Tampa, and Cape Coral, Florida, with sizes indicating current inventory levels from 5,000 to 35,000 homes. Colors denote regions: Northeast in green, Midwest in blue, South in pink, West in gray. Text labels include New York with 6.4% price increase and 46% inventory drop, and Miami with high inventory and falling prices.](/assets/images/substack/175359418-c57a0b9e.png)
+ ![A scatter plot with bubbles of varying sizes. X-axis shows change in housing inventories from April 2019 to April 2024, ranging from -10% to 80%. Y-axis shows change in home prices from April 2019 to April 2023, ranging from -6% to 6%. Bubbles represent U.S. metros like New York, Chicago, Philadelphia, Detroit, LA, Houston, Phoenix, Dallas, Miami, Tampa, and Cape Coral, Florida, with sizes indicating current inventory levels from 5,000 to 35,000 homes. Colors denote regions: Northeast in green, Midwest in blue, South in pink, West in gray. Text labels include New York with 6.4% price increase and 46% inventory drop, and Miami with high inventory and falling prices.](/assets/images/substack/175359418-c57a0b9e.webp)
   -  Callout example: **New York** up **~6.4% YoY** with inventory still **~46% below** pre-pandemic levels; Chicago and Philadelphia sit nearby with tight stock and firm price growth.
   -  Conversely, markets with **high or rising inventory** (right side) tend toward flat or falling prices - note several Sun Belt cities edging into negative territory.
   -  Policy implication: permit more, build more, and speed conversions; subsidies without supply simply bid up prices.

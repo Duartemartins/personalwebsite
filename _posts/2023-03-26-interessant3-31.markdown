@@ -6,6 +6,7 @@ date: 2023-03-26 22:30:53 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/110870635-social.webp
 ---
 
 1. Coral rebirth: “The most astonishing and heartening coral rebirth the world has ever seen." In 2015/16, the most powerful El Niño ever recorded swept through the coral reefs of the Pacific Line Islands, resulting in the demise of 50% of the corals. Fast forward six years, and these reefs are flourishing, boasting over 43 million colonies per square kilometer. Given the chance, nature can bounce back. [Nat Geo](https://archive.ph/DTQKa) 

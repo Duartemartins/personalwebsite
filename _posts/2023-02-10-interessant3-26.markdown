@@ -6,6 +6,7 @@ date: 2023-02-10 08:01:10 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/101940315-social.webp
 ---
 
 1. Unfortunately the rise of negative news is corroborated by data. My take on this is don’t take the media so seriously, and make sure to switch off periodically.

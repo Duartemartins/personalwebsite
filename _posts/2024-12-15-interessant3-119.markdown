@@ -6,6 +6,7 @@ date: 2024-12-15 23:29:34 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/153179510-social.webp
 ---
 
 ### **** _ **If Crisis or War Comes** _ **: Sweden’s Emergency Handbook**

@@ -6,6 +6,7 @@ date: 2025-10-05 19:01:14 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/175356409-social.webp
 ---
 
 1. - **“The Algorithm Will See You Now” (**) 
@@ -26,7 +27,7 @@ lang: en
   -  **[The Fatima Sun Miracle: Much More Than You Wanted To Know – Astral Codex Ten](https://www.astralcodexten.com/p/the-fatima-sun-miracle-much-more)**
 
 1. **Economic Freedom & the Bottom 10%** 
-  -  _Observation:_ Across nations, higher economic freedom correlates with higher _absolute_ incomes for the poorest decile. ![A scatter plot graph titled "Economic Freedom and Bottom 10% Income Threshold." The x-axis shows economic freedom scores ranging from 0 to 10, divided into categories like "Least Free Average" and "Freest Average." The y-axis displays income levels in 2021 US dollars, adjusted for purchasing power parity, ranging from $0 to $18,000. Data points represent countries such as Norway, Switzerland, and Bangladesh, plotted with varying colors indicating economic freedom levels. Text labels include country names and income values for the bottom 10% of the population.](/assets/images/substack/175356409-9e72fcd4.jpeg)
+  -  _Observation:_ Across nations, higher economic freedom correlates with higher _absolute_ incomes for the poorest decile. ![A scatter plot graph titled "Economic Freedom and Bottom 10% Income Threshold." The x-axis shows economic freedom scores ranging from 0 to 10, divided into categories like "Least Free Average" and "Freest Average." The y-axis displays income levels in 2021 US dollars, adjusted for purchasing power parity, ranging from $0 to $18,000. Data points represent countries such as Norway, Switzerland, and Bangladesh, plotted with varying colors indicating economic freedom levels. Text labels include country names and income values for the bottom 10% of the population.](/assets/images/substack/175356409-9e72fcd4.webp)
   -  _Scale:_ The bottom 10% earn roughly 7–8× more in the most-free economies than in the least-free - an absolute uplift even if their _share_ of national income is unchanged.
   -  _Mechanism:_ Freer markets often coincide with stronger property rights, business formation, and trade openness - raising productivity that reaches the poor.
   -  _Caveat:_ Correlation isn’t causation - human capital, governance, and culture co-move - but institutional quality appears a reliable predictor of welfare gains at the base.

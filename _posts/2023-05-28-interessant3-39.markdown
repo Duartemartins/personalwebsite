@@ -6,6 +6,7 @@ date: 2023-05-28 13:52:11 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/124371406-social.webp
 ---
 
 1. The double marginalisation problem is when a supply chain has two or more monopolies at different stages. Each monopoly, being the only supplier in its part of the supply chain, imposes its own markup on the price. This creates a more-than-proportional deadweight loss, meaning the monopolies make less money, consumers have less marginal utility, and social welfare is decreased because fewer goods are consumed. Alex Tabarrok of GMU illustrates this really well by using the example of tolls on the Rhine river, but we see this all the time in consumer tech, for example when we use the Facebook app on an iPhone. 

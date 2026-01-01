@@ -6,6 +6,7 @@ date: 2025-06-29 18:19:46 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/167116899-social.webp
 ---
 
 **1.**  **: “Biotech must be accelerated to lengthen human life”**
@@ -26,7 +27,7 @@ Spain is going through a political crisis at the moment, however a perhaps even 
 -  Structural culprits include low productivity growth, rigid sectoral bargaining and slow judicial processes in the laggards.
 -  Northern Europe such as Denmark and Sweden shows steady, broad-based wage growth without boom-bust drama.
 
-![Image](/assets/images/substack/167116899-d51da1fb.jpeg)
+![Image](/assets/images/substack/167116899-d51da1fb.webp)
 
 **3. Pierre de Wulf, “10 Time- and Money-Saving Tips for Indie-Hackers”**
 

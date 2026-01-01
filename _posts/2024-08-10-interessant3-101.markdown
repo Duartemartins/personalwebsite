@@ -6,6 +6,7 @@ date: 2024-08-10 13:59:05 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/147552314-social.webp
 ---
 
 ###  **Perceived Age: Does It Really Matter?**

@@ -6,6 +6,7 @@ date: 2023-07-23 21:48:18 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/135384030-social.webp
 ---
 
 1. Since 1980 global sea levels have risen by about&nbsp;100 mm. According to a&nbsp;University of Auckland study, hundreds of islands in the Pacific are accumulating enough sediment to increase in land area even as sea level rise threatens the region. The focus of the study, Jeh Island, (one of the Marshall Islands, which are routinely held as “most at risk of disappearing due to sea level rise“) grew 13 percent over the last 80 years. More on the apparent increase in land area here: [https://www.humanprogress.org/are-low-lying-islands-helpless-in-the-face-of-sea-level-rise/](https://www.humanprogress.org/are-low-lying-islands-helpless-in-the-face-of-sea-level-rise/)

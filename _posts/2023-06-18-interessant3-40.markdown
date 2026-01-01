@@ -6,6 +6,7 @@ date: 2023-06-18 23:01:14 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/126514494-social.webp
 ---
 
 1. Progress in Asian agriculture in the second half of the twentieth century: !

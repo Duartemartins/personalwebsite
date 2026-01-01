@@ -6,6 +6,7 @@ date: 2023-05-15 12:01:25 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/121518222-social.webp
 ---
 
 1. Unlike what the news may make you perceive, crime in the UK is way down. Overall crime is down 12% in two years, and about 75% since 1995. Truly remarkable. !

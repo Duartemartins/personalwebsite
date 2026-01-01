@@ -6,6 +6,7 @@ date: 2023-01-08 21:09:30 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/72723861-social.webp
 ---
 
 1. Typos in emails: 

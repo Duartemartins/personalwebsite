@@ -6,6 +6,7 @@ date: 2025-01-12 22:35:57 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/154693421-social.webp
 ---
 
 ###  **Madrid’s Metro: A Model of Efficiency**
@@ -34,7 +35,7 @@ A House of Commons Library document briefing MPs on renewable energy pricing has
 
 • Global data, used to claim falling prices, doesn’t reflect UK-specific realities where costs are flat or rising.
 
-![Image](/assets/images/substack/154693421-ef6ba4c9.png)
+![Image](/assets/images/substack/154693421-ef6ba4c9.webp)
 
 These inaccuracies have shaped public narratives, but addressing them is essential for an informed debate on energy policy and its impact on consumers.
 

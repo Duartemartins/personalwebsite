@@ -6,6 +6,7 @@ date: 2025-05-19 22:40:51 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/163963314-social.webp
 ---
 
 Experimenting with a different format this time, let me know what you think of it:

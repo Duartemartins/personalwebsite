@@ -6,6 +6,7 @@ date: 2024-09-28 12:15:10 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/149527137-social.webp
 ---
 
 ###  **Are Car Seats Acting as Modern-Day Contraception?**

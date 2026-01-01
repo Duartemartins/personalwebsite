@@ -6,6 +6,7 @@ date: 2024-09-21 16:03:49 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/149210125-social.webp
 ---
 
 ### ** The Ottoman Origins of Modernity**

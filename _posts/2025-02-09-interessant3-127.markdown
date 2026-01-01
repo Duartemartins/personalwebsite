@@ -6,6 +6,7 @@ date: 2025-02-09 22:15:02 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/156816002-social.webp
 ---
 
 ### ** The Graduate Tax Debate: Who Really Pays?**
@@ -14,7 +15,7 @@ An evidence review by Ron Diris and Erwin Ooghe of Maastrich University examines
 
 The UK’s income-contingent student loan system, which functions similarly to a graduate tax, demonstrates the benefits of aligning contributions with earnings. According to UK Parliamentary data, 2022/23 saw **record levels of higher education participation** , with over 2.9 million students enrolled. The system’s flexibility has driven a steady increase in university entry rates, **particularly among the disadvantaged** , whose participation doubled since 2005.
 
-![Image](/assets/images/substack/156816002-2ffe62b2.jpeg)
+![Image](/assets/images/substack/156816002-2ffe62b2.webp)
 
  [Read more](https://academic.oup.com/economicpolicy/article-abstract/33/94/265/4955984)
 
@@ -24,7 +25,7 @@ The UK’s income-contingent student loan system, which functions similarly to a
 
 Eurostat data shows that non-household electricity prices in the Nordics are among the lowest in Europe, even before adjusting for purchasing power parity (PPP). The region benefits from a mix of low (often no) taxation, efficient market operations via Nord Pool, and a strong reliance on nuclear and renewable energy. Nordic heavy industry has a triple advantage of highly skilled labour, access to capital, and cheap energy.
 
-![Image](/assets/images/substack/156816002-b5b3c6be.jpeg)
+![Image](/assets/images/substack/156816002-b5b3c6be.webp)
 
  [Read more](https://ec.europa.eu/eurostat)
 

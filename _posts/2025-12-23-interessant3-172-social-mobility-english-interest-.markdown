@@ -7,6 +7,7 @@ published: true
 categories: newsletter
 lang: en
 substack_id: 182352763
+image: /assets/images/substack/182352763-social.webp
 ---
 
 1. **- Intelligence and Social Mobility**
@@ -20,7 +21,7 @@ substack_id: 182352763
 
 1. **The Times - England & Interest Rates**
   - Mortgage-holders may hate rate rises, but for the majority of UK households, higher interest rates have quietly become a net financial benefit.
-  - Thanks to a rise in outright homeownership and a surge in savings deposits, more households now earn more in interest than they pay in debt. ![Image](/assets/images/substack/182352763-5aa4792e.jpeg)
+  - Thanks to a rise in outright homeownership and a surge in savings deposits, more households now earn more in interest than they pay in debt. ![Image](/assets/images/substack/182352763-5aa4792e.webp)
   - By mid-2025, savings income had risen faster than mortgage costs, creating a net household windfall of £22 billion since 2021.
 
   - The chart shows the underlying shift: mortgaged households are now a minority, while outright owners and renters dominate the landscape.

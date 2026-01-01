@@ -6,6 +6,7 @@ date: 2025-01-19 22:01:49 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/155183987-social.webp
 ---
 
 ### ** Ghostwriting Trudeau: Behind the Scenes**

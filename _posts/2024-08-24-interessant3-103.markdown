@@ -6,6 +6,7 @@ date: 2024-08-24 07:00:13 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/148011068-social.webp
 ---
 
 ### ** Tips for Managing Up Effectively**

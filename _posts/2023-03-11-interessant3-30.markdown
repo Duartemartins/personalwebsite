@@ -6,6 +6,7 @@ date: 2023-03-11 07:31:03 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/106824781-social.webp
 ---
 
 1. This [fantastic article in the NYT about climate change](https://archive.ph/OoBa0) is worth a read. Here’s just one of the many things they report: !

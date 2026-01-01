@@ -6,6 +6,7 @@ date: 2024-02-10 13:23:22 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/141549901-social.webp
 ---
 
 1.  **The Geopolitics of the Ukraine War: Beyond the Battlefield**  

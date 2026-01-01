@@ -6,6 +6,7 @@ date: 2025-05-19 22:09:24 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/163959714-social.webp
 ---
 
 Double issue this week. This one is mostly on science/technology and money.

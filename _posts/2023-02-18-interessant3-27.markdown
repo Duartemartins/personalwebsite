@@ -6,6 +6,7 @@ date: 2023-02-18 12:01:31 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/103668109-social.webp
 ---
 
 1. The authors of this paper see no significant gender gap in programming skill. However, employers guess significantly lower programming skill for female applicants (0.12 SD). To add, this perceived skill gap is driven by _female_ employers (!)

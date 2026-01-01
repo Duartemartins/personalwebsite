@@ -6,6 +6,7 @@ date: 2024-02-24 08:01:06 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/141975375-social.webp
 ---
 
 1.  **Navigating the Future of Progressive Politics with Tony Blair** In a recent speech, Tony Blair shares a vision for the future of progressive politics, mentioning more than a few interesting insights and ideas. Blair’s analysis is highly recommended for anyone interested in the direction of global political trends and the potential for transformative change. Watch below: 

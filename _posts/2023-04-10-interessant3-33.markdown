@@ -6,6 +6,7 @@ date: 2023-04-10 18:17:27 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/113073366-social.webp
 ---
 
 1. Dilip Mahalanabis was an Indian physician who pioneered the use of oral rehydration therapy - a simple solution of glucose, salts and water designed to replace vital fluids during bouts of infectious disease. The Lancet called it “the most important medical discovery of the 20th century.’’ It's estimated the number of children saved by ORT between 1982 and 2019 is more than 70 million. [FT](https://www.ft.com/content/65b0ab69-4d1e-4603-a9ea-e061ceb54bc0)

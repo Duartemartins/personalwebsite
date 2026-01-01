@@ -6,6 +6,7 @@ date: 2023-07-06 19:15:07 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/133434656-social.webp
 ---
 
 Meta launched a new social media platform this week called Threads. Add me on [@duarteosrm](https://www.threads.net/@duarteosrm) if you’re that way inclined.

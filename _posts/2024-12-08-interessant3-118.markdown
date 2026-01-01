@@ -6,6 +6,7 @@ date: 2024-12-08 22:03:23 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/152812867-social.webp
 ---
 
 ###  **Max-Flow, Min-Cut: Seeing Systems Through Maths**

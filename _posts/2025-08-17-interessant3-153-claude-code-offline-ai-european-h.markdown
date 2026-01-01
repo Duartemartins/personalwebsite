@@ -6,6 +6,7 @@ date: 2025-08-17 21:20:10 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/171220301-social.webp
 ---
 
 1. **Claude Code is All You Need**

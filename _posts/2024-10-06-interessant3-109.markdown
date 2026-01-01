@@ -6,13 +6,14 @@ date: 2024-10-06 17:19:52 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/149881655-social.webp
 ---
 
 ### ** Biofuel Hybrids: The Most Sustainable Cars?**
 
 A study examining Brazil’s biofuel market and relatively sustainable electric grid suggests that hybrid cars generate fewer lifecycle CO2 emissions compared to electric vehicles. The sustainability gap becomes even wider in regions with less green electricity, such as most European countries. With the increasing push towards banning internal combustion engines, this research could reshape how we think about sustainable automotive policies in the future.
 
-![Image](/assets/images/substack/149881655-718d6e51.jpeg)
+![Image](/assets/images/substack/149881655-718d6e51.webp)
 
 [Read the study here](https://www.sciencedirect.com/science/article/abs/pii/S0973082623001102) | [X thread](https://x.com/Duarteosrm/status/1842877772185714876)
 
@@ -20,7 +21,7 @@ A study examining Brazil’s biofuel market and relatively sustainable electric 
 
 Some original content from me: If Portugal’s economy had continued to grow at the same linear rate as it did from 1985 to 2000, the country would be nearly as rich as France today.
 
-![Image](/assets/images/substack/149881655-c7602853.jpeg)
+![Image](/assets/images/substack/149881655-c7602853.webp)
 
 If it had sustained the same geometric growth rate as during this period, it would be significantly richer than the USA even. The difference in wealth, had the trend continued, highlights how important even small changes in growth rates are for societal wellbeing.
 

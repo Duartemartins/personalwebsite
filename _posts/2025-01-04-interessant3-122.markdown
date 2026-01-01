@@ -6,6 +6,7 @@ date: 2025-01-04 23:00:57 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/154158590-social.webp
 ---
 
 Happy new year, dear reader! I hope the three interesting things below reshape your thoughts in the year ahead.

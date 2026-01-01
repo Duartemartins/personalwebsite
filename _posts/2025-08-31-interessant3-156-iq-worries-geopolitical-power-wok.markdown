@@ -6,6 +6,7 @@ date: 2025-08-31 05:01:50 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/172261776-social.webp
 ---
 
 1. **1. Scott Alexander — Against Individual IQ Worries**

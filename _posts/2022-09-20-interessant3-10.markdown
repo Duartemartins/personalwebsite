@@ -6,6 +6,7 @@ date: 2022-09-20 09:40:19 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/61409517-social.webp
 ---
 
 1. Privatisatising Sanitation in Dakar, pertinent for the UK’s current debate on water utility funding models:

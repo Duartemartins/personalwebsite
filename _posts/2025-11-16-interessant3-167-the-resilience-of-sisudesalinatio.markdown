@@ -6,13 +6,14 @@ date: 2025-11-16 19:37:36 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/179071283-social.webp
 ---
 
 1. **Finnish cultural concept - “sisu”**
   - Sisu describes a distinctly Finnish form of determined courage: a quiet, stubborn resolve to push beyond perceived limits in the face of hardship, often invoked in stories of war, harsh winters and long, difficult projects.
   - It is related to, but not identical with, grit. Grit is steady long-term persistence over years, whereas sisu is more like an emergency reserve that activates in acute adversity when the rational response might be to stop.
   - Modern psychological takes on sisu frame it as part of resilience: a mix of perseverance, tolerance for discomfort and commitment to personally meaningful goals, with the caveat that unexamined sisu can slide into unhealthy self-sacrifice or refusal to seek help.
- ![r/PropagandaPosters - FINLANDI TO ARMS AGAINST TYRANNY! PLEASE SEND SUBSCRIPTIONS TO THE FINLAND FUND HALKIN HOUSE, 13, BELGRAVE SQ. LONDON. SW.I.](/assets/images/substack/179071283-8957fde2.jpeg)
+ ![r/PropagandaPosters - FINLANDI TO ARMS AGAINST TYRANNY! PLEASE SEND SUBSCRIPTIONS TO THE FINLAND FUND HALKIN HOUSE, 13, BELGRAVE SQ. LONDON. SW.I.](/assets/images/substack/179071283-8957fde2.webp)
   - Sisu is a useful mental model for surviving volatile environments: cultivate the ability to endure and act through tough stretches, but pair it with feedback loops, data and the willingness to change so that perseverance does not become become a result of the sunk-cost fallacy.
   - Practically, sisu can be nurtured by training controlled adversity (physical effort, cold, complex tasks, hard conversations), building a narrative of “I have handled hard things before,” and tying effort to a clearly articulated “why” that makes the extra push psychologically coherent rather than masochistic.
   - Conceptually, sisu sits near Stoicism’s endurance, Jewish _tikkun olam_ and Japanese _gaman_, but with its own flavour. Stoicism is about rational self-mastery and calm acceptance, whereas sisu is more raw and combative, a refusal to yield. _Tikkun olam_ frames perseverance as repairing the world, and _gaman_ stresses quiet, socially harmonious endurance, while sisu is anchored more in gritty survival and identity.

@@ -6,6 +6,7 @@ date: 2024-04-27 11:58:51 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/144067839-social.webp
 ---
 
 1.  **Latin America's Progress: Overcoming Old Barriers**  
@@ -18,6 +19,6 @@ In a lecture at [Gresham College](https://en.wikipedia.org/wiki/Gresham_College)
 1.  **The Rich Culture of Appenzell, Switzerland**  
 In one of the most interesting threads I’ve ever read on Twitter, a Swiss native dives deep into the heart of one of Europe’s wealthiest and most culturally rich regions: Appenzell. The thread covers everything from fashion, naming conventions, the local geography and of course the region’s history. Here’s a sneak peek of this region in 21st century:
 
-![Image](/assets/images/substack/144067839-2a6bd55b.jpeg)
+![Image](/assets/images/substack/144067839-2a6bd55b.webp)
 
 [Explore Appenzell's culture in the thread here](https://x.com/womanoppressor/status/1433555808562778117?s=46)

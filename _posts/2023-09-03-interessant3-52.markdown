@@ -6,10 +6,11 @@ date: 2023-09-03 23:00:18 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/136697291-social.webp
 ---
 
 1. Ultimate Attribution Error: We tend to attribute good acts by allies to their character, and bad acts by allies to situational factors. For opponents, it’s reversed: good acts are attributed to situational factors, and bad acts to character.
-2. A thread on how to tell if shoes are well made: ![Image](/assets/images/substack/136697291-e8c756d8.jpeg)[https://twitter.com/dieworkwear/status/1691744425909875021?s=20](https://twitter.com/dieworkwear/status/1691744425909875021?s=20)
+2. A thread on how to tell if shoes are well made: ![Image](/assets/images/substack/136697291-e8c756d8.webp)[https://twitter.com/dieworkwear/status/1691744425909875021?s=20](https://twitter.com/dieworkwear/status/1691744425909875021?s=20)
 3. Andrew Huberman: “Across the literature the average suggestion of how much water to drink each day (independent of intake during exercise) is 240mL/8oz per waking hour for the first 10hrs of the day. Then 150ml/5oz/hr thereafter. Not necessarily on the hour but on average. In heat, obviously drink more.”[https://twitter.com/hubermanlab/status/1633229059529510912](https://twitter.com/hubermanlab/status/1633229059529510912)
 
 #### This newsletter is brought to you by DeepDive

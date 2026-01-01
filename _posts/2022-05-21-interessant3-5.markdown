@@ -6,6 +6,7 @@ date: 2022-05-21 07:00:32 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/55200825-social.webp
 ---
 
 1. Extracting metals from plants could potentially limit the amount of mining that is necessary (take with a pinch of salt): [Guardian](https://www.theguardian.com/commentisfree/2022/apr/15/farm-metal-from-plants-life-on-earth-climate-breakdown)

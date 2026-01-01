@@ -6,6 +6,7 @@ date: 2022-12-26 08:00:58 +0000
 published: true
 categories: newsletter
 lang: en
+image: /assets/images/substack/72723584-social.webp
 ---
 
 1. Vaccine Lotteries in Ohio: 

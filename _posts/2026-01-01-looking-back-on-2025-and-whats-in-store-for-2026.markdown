@@ -3,7 +3,7 @@ layout: post
 title: "Looking back on 2025 and what's in store for 2026"
 description: "Reflections on the previous year and what the future holds for this publication."
 date: 2026-01-01 13:58:03 +0100
-image: /assets/images/2026-review-hero.png
+image: /assets/images/2026-review-hero.webp
 published: true
 categories: personal notes
 tags: personal notes
@@ -38,6 +38,6 @@ I hope 2026 brings you many interesting things to discover!
 Duarte
 
 <figure>
-  <img src="/assets/images/2026-review-hero.png" alt="an image of a caravaggio painting of an allegory envoking the themes of perseverence and looking into the future">
+  <img src="/assets/images/2026-review-hero.webp" alt="an image of a caravaggio painting of an allegory envoking the themes of perseverence and looking into the future">
   <figcaption>Onwards to 2026! ChatGPT Prompt: "Make an image of a caravaggio painting of an allegory envoking the themes of perseverence and looking into the future. use chiaroscuro"</figcaption>
 </figure>
