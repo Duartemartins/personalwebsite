@@ -24,6 +24,10 @@ module SubstackResponseFix
   end
 end
 
+# Apply the patch when Substack gem is loaded
+require 'substack'
+Substack::Client.prepend(SubstackResponseFix)
+
 desc 'create a new draft post'
 task :post do
   # Prompt for user input
@@ -880,25 +884,18 @@ namespace :substack do
     
     puts "📝 Publishing to Substack: #{title}"
     
-    # Initialize client - uses saved cookies, or authenticates with .env credentials
+    # Initialize client - uses saved cookies
+    cookies_path = File.join(Dir.home, '.substack_cookies.yml')
     client = nil
-    begin
-      client = Substack::Client.new
-    rescue => e
-      # Try to authenticate with .env credentials
-      email = ENV['SUBSTACK_EMAIL']
-      password = ENV['SUBSTACK_PASSWORD']
-      
-      unless email && password
-        puts "❌ No saved session and missing credentials in .env"
-        puts "Add SUBSTACK_EMAIL and SUBSTACK_PASSWORD to your .env file"
-        puts "See .env.example for reference"
-        exit 1
-      end
-      
-      puts "🔐 Authenticating with Substack..."
-      client = Substack::Client.new(email: email, password: password)
+    
+    unless File.exist?(cookies_path)
+      puts "❌ No saved session found at #{cookies_path}"
+      puts "Run 'rake substack:login' first to authenticate"
+      exit 1
     end
+    
+    puts "🔐 Authenticating with Substack..."
+    client = Substack::Client.new(cookies_path: cookies_path)
     
     user_id = client.get_user_id
     post = Substack::Post.new(title: title, subtitle: subtitle, user_id: user_id)
@@ -970,11 +967,38 @@ def markdown_to_substack(markdown, post)
       next
     end
     
-    # Standalone images
+    # Standalone images (markdown syntax)
     if line =~ /^!\[([^\]]*)\]\(([^)\s]+)/
       alt = $1
       url = $2
       post.captioned_image(attrs: { src: localize_image_url(url), alt: alt })
+      i += 1
+      next
+    end
+    
+    # HTML figure/img tags
+    if line =~ /<figure>/i || line =~ /<img\s/i
+      # Collect all lines until </figure> or if standalone img, just this line
+      figure_html = line
+      if line =~ /<figure>/i && line !~ /<\/figure>/i
+        i += 1
+        while i < lines.length && lines[i] !~ /<\/figure>/i
+          figure_html += "\n" + lines[i]
+          i += 1
+        end
+        figure_html += "\n" + lines[i] if i < lines.length  # include closing tag
+      end
+      
+      # Extract src and alt from img tag
+      if figure_html =~ /<img[^>]+src=["']([^"']+)["']/i
+        url = $1
+        alt = figure_html =~ /<img[^>]+alt=["']([^"']+)["']/i ? $1 : ''
+        # Extract figcaption if present
+        caption = figure_html =~ /<figcaption>([^<]+)<\/figcaption>/i ? $1.strip : nil
+        
+        post.captioned_image(attrs: { src: localize_image_url(url), alt: alt })
+        post.paragraph(caption) if caption && !caption.empty?
+      end
       i += 1
       next
     end
@@ -984,7 +1008,9 @@ def markdown_to_substack(markdown, post)
     while i < lines.length && !lines[i].strip.empty? && 
           lines[i] !~ /^\#{1,6}\s/ && 
           lines[i] !~ /^(-{3,}|\*{3,}|_{3,})$/ &&
-          lines[i] !~ /^!\[/
+          lines[i] !~ /^!\[/ &&
+          lines[i] !~ /<figure>/i &&
+          lines[i] !~ /<img\s/i
       para_lines << lines[i].rstrip
       i += 1
     end

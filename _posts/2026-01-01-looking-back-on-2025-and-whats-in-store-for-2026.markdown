@@ -38,6 +38,6 @@ I hope 2026 brings you many interesting things to discover!
 Duarte
 
 <figure>
-  <img src="/assets/images/your-image.png" alt="an image of a caravaggio painting of an allegory envoking the themes of perseverence and looking into the future">
+  <img src="/assets/images/2026-review-hero.png" alt="an image of a caravaggio painting of an allegory envoking the themes of perseverence and looking into the future">
   <figcaption>Onwards to 2026! ChatGPT Prompt: "Make an image of a caravaggio painting of an allegory envoking the themes of perseverence and looking into the future. use chiaroscuro"</figcaption>
 </figure>
