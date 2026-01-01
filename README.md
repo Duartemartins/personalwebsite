@@ -98,6 +98,25 @@ gem 'nokogiri'
 gem 'reverse_markdown'
 ```
 
+### Pull from Substack API
+
+If you have new posts on Substack that you want to bring into your Jekyll blog:
+
+```bash
+# Preview what will be pulled
+bundle exec rake "substack:pull[true]"
+
+# Pull posts
+bundle exec rake substack:pull
+```
+
+This command:
+1. Fetches the latest 50 posts from the Substack API.
+2. Skips posts that already exist in `_posts` (checks by filename and title).
+3. Converts Substack HTML to Markdown.
+4. Downloads images to `assets/images/substack/`.
+5. Creates new Jekyll posts with `categories: newsletter`.
+
 ### Export from Substack
 
 1. Go to your Substack dashboard → Settings → Exports
@@ -166,6 +185,44 @@ Import complete!
   Skipped: 63
   Errors: 0
 ```
+
+## Substack Sync
+
+The blog includes a system to automatically cross-post your Jekyll markdown posts to Substack as drafts.
+
+### Setup
+
+1. Create a `.env` file in the root directory (see `.env.example`):
+   ```dotenv
+   SUBSTACK_EMAIL=your_email@example.com
+   SUBSTACK_PASSWORD=your_password
+   ```
+2. Install dependencies:
+   ```bash
+   bundle install
+   ```
+
+### Commands
+
+| Command | Description |
+|---------|-------------|
+| `bundle exec rake substack:status` | Show sync status - which posts are synced, new, or modified |
+| `bundle exec rake substack:pull` | Pull latest posts from Substack API into the blog |
+| `bundle exec rake "substack:pull[true]"` | Dry run - preview which posts would be pulled from Substack |
+| `bundle exec rake substack:list` | List posts available for Substack publishing with sync status |
+| `bundle exec rake substack:sync` | Sync all new/modified posts to Substack as drafts |
+| `bundle exec rake "substack:sync[true]"` | Dry run - preview what would be synced |
+| `bundle exec rake "substack:publish[_posts/file.md]"` | Publish a single post to Substack |
+| `bundle exec rake substack:mark_all_synced` | Mark all existing posts as synced (useful for initial setup) |
+| `bundle exec rake "substack:mark_synced[_posts/file.md]"` | Mark a specific post as synced without publishing |
+| `bundle exec rake substack:reset_sync` | Reset sync tracking (will re-sync all on next sync) |
+
+### Features
+
+- **Change Detection**: Tracks content hashes in `.substack_synced.yml` to detect new and modified posts.
+- **Smart Filtering**: Automatically excludes newsletter imports, drafts, posts published before 2026, and non-English posts (unless explicitly enabled).
+- **Frontmatter Control**: Use `substack_sync: false` to skip a post or `substack_sync: true` to force sync.
+- **Rate Limiting**: Includes a delay between posts to comply with Substack's API.
 
 ## Project Structure
 

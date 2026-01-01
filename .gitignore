@@ -3,4 +3,11 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
-/substack_posts/*
+/substack_posts/*.env
+/substack_posts/
+
+# Substack sync tracking (local state)
+.substack_synced.yml
+
+# Environment files
+.env

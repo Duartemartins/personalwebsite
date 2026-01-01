@@ -1,10 +1,13 @@
-require 'Date'
+require 'date'
 require 'csv'
 require 'fileutils'
 require 'reverse_markdown'
 require 'net/http'
 require 'uri'
 require 'digest'
+require 'dotenv/load'
+require 'yaml'
+require 'json'
 
 desc 'create a new draft post'
 task :post do
@@ -76,6 +79,82 @@ end
 desc 'List all draft posts'
 task :drafts do
   puts `find ./_posts -type f -exec grep -H 'published: false' {} \\;`
+end
+
+SUBSTACK_SYNC_FILE = '.substack_synced.yml'
+SUBSTACK_PULLED_FILE = '.substack_pulled.yml'
+
+# Helper: Load sync tracking data
+def load_sync_data
+  File.exist?(SUBSTACK_SYNC_FILE) ? YAML.load_file(SUBSTACK_SYNC_FILE) || {} : {}
+end
+
+# Helper: Save sync tracking data
+def save_sync_data(data)
+  File.write(SUBSTACK_SYNC_FILE, data.to_yaml)
+end
+
+# Helper: Load pulled posts tracking data
+def load_pulled_data
+  File.exist?(SUBSTACK_PULLED_FILE) ? YAML.load_file(SUBSTACK_PULLED_FILE) || {} : {}
+end
+
+# Helper: Save pulled posts tracking data
+def save_pulled_data(data)
+  File.write(SUBSTACK_PULLED_FILE, data.to_yaml)
+end
+
+# Helper: Calculate content hash for change detection
+def post_content_hash(file_path)
+  content = File.read(file_path)
+  Digest::MD5.hexdigest(content)
+end
+
+# Helper: Check if post should be synced to Substack
+def should_sync_to_substack?(file_path, frontmatter)
+  # Skip newsletter posts (they came FROM Substack)
+  categories = frontmatter['categories'].to_s.downcase
+  return false if categories.include?('newsletter')
+  
+  # Skip unpublished drafts
+  return false if frontmatter['published'] == false
+  
+  # Skip posts with substack_sync: false
+  return false if frontmatter['substack_sync'] == false
+
+  # Skip posts published before 2026
+  post_date = frontmatter['date']
+  if post_date
+    date_obj = post_date.is_a?(Time) || post_date.is_a?(Date) ? post_date : Date.parse(post_date.to_s)
+    return false if date_obj.year < 2026
+  end
+  
+  # Skip Portuguese posts unless explicitly enabled
+  lang = frontmatter['lang'].to_s.downcase
+  return false if lang == 'pt' && frontmatter['substack_sync'] != true
+  
+  true
+end
+
+# Helper: Initialize Substack client
+def get_substack_client
+  require 'substack'
+  
+  begin
+    Substack::Client.new
+  rescue => e
+    email = ENV['SUBSTACK_EMAIL']
+    password = ENV['SUBSTACK_PASSWORD']
+    
+    unless email && password
+      puts "❌ No saved session and missing credentials in .env"
+      puts "Add SUBSTACK_EMAIL and SUBSTACK_PASSWORD to your .env file"
+      exit 1
+    end
+    
+    puts "🔐 Authenticating with Substack..."
+    Substack::Client.new(email: email, password: password)
+  end
 end
 
 namespace :substack do
@@ -227,6 +306,589 @@ namespace :substack do
     
     if dry_run
       puts "\n⚠️  DRY RUN - no files were created. Run without dry_run to import."
+    end
+  end
+
+  desc 'Pull latest posts from Substack API'
+  task :pull, [:dry_run] do |t, args|
+    require 'substack'
+    
+    dry_run = args[:dry_run] == 'true'
+    subdomain = 'interessant3'
+    posts_dir = '_posts'
+    images_dir = 'assets/images/substack'
+    
+    FileUtils.mkdir_p(posts_dir) unless dry_run
+    FileUtils.mkdir_p(images_dir) unless dry_run
+    
+    puts "📡 Fetching latest posts from #{subdomain}.substack.com..."
+    
+    # Use Substack gem's endpoint
+    api_url = Substack::Endpoints::POSTS_FEED.call(subdomain) + "?limit=50"
+    uri = URI(api_url)
+    response = Net::HTTP.get(uri)
+    posts = JSON.parse(response)
+    
+    imported = 0
+    skipped = 0
+    
+    # Load tracking data
+    pulled_data = load_pulled_data
+    
+    # Get existing titles, filenames, and newsletter numbers to avoid duplicates
+    existing_titles = {}
+    existing_files = {}
+    existing_newsletter_numbers = {}
+    Dir.glob("#{posts_dir}/*.{md,markdown}").each do |f|
+      begin
+        content = File.read(f)
+        fm = parse_frontmatter(content)
+        title = fm['title']&.downcase&.strip
+        existing_titles[title] = f if title
+        
+        basename = File.basename(f)
+        existing_files[basename] = true
+        
+        # Extract newsletter number from filename (e.g., interessant3-133)
+        if basename =~ /interessant3-(\d+)/
+          existing_newsletter_numbers[$1] = f
+        end
+      rescue
+        # Skip files that can't be parsed
+      end
+    end
+    
+    posts.each do |post_data|
+      title = post_data['title']
+      subtitle = post_data['subtitle']
+      post_date = post_data['post_date']
+      is_published = post_data['is_published']
+      audience = post_data['audience']
+      post_id = post_data['id'].to_s
+      slug = post_data['slug']
+      
+      # Skip if already pulled (tracked by Substack post ID)
+      if pulled_data[post_id]
+        skipped += 1
+        next
+      end
+      
+      # Skip unpublished or paid-only
+      unless is_published
+        skipped += 1
+        next
+      end
+      
+      if audience == 'only_paid'
+        skipped += 1
+        next
+      end
+      
+      # Parse date
+      begin
+        date = DateTime.parse(post_date)
+        date_str = date.strftime('%Y-%m-%d')
+        time_str = date.strftime('%Y-%m-%d %H:%M:%S %z')
+      rescue => e
+        puts "⚠️  Date parse error for #{title}: #{e.message}"
+        next
+      end
+      
+      file_name = "#{date_str}-#{slug}.markdown"
+      file_path = File.join(posts_dir, file_name)
+      
+      # Extract newsletter number from slug (e.g., "interessant3-133-..." -> "133")
+      newsletter_number = slug =~ /interessant3-(\d+)/ ? $1 : nil
+      
+      # Check for duplicates by filename, title, or newsletter number
+      if existing_files[file_name]
+        puts "⏭️  Already exists (filename): #{file_name}"
+        pulled_data[post_id] = { 'title' => title, 'file' => file_name, 'pulled_at' => Time.now.iso8601 }
+        save_pulled_data(pulled_data) unless dry_run
+        skipped += 1
+        next
+      end
+      
+      if existing_titles[title.downcase.strip]
+        puts "⏭️  Already exists (title match): #{title}"
+        pulled_data[post_id] = { 'title' => title, 'file' => existing_titles[title.downcase.strip], 'pulled_at' => Time.now.iso8601 }
+        save_pulled_data(pulled_data) unless dry_run
+        skipped += 1
+        next
+      end
+      
+      if newsletter_number && existing_newsletter_numbers[newsletter_number]
+        puts "⏭️  Already exists (newsletter ##{newsletter_number}): #{File.basename(existing_newsletter_numbers[newsletter_number])}"
+        pulled_data[post_id] = { 'title' => title, 'file' => File.basename(existing_newsletter_numbers[newsletter_number]), 'pulled_at' => Time.now.iso8601 }
+        save_pulled_data(pulled_data) unless dry_run
+        skipped += 1
+        next
+      end
+      
+      puts "📥 Pulling: #{title}"
+      
+      html_content = post_data['body_html']
+      if html_content.nil? || html_content.empty?
+        puts "  ⚠️  No content found for: #{title}"
+        next
+      end
+      
+      # Process content
+      html_content = strip_substack_boilerplate(html_content)
+      markdown_content = ReverseMarkdown.convert(html_content, unknown_tags: :bypass, github_flavored: true)
+      markdown_content = clean_markdown(markdown_content)
+      
+      unless dry_run
+        markdown_content = download_and_rewrite_images(markdown_content, images_dir, post_id)
+      end
+      
+      # Build frontmatter
+      safe_title = strip_emojis(title).gsub('"', '\"')
+      safe_subtitle = strip_emojis(subtitle || '').gsub('"', '\"')
+      
+      front_matter = <<~FRONTMATTER
+        ---
+        layout: post
+        title: "#{safe_title}"
+        description: "#{safe_subtitle}"
+        date: #{time_str}
+        published: true
+        categories: newsletter
+        lang: en
+        substack_id: #{post_id}
+        ---
+      FRONTMATTER
+      
+      full_content = front_matter + "\n" + markdown_content
+      
+      if dry_run
+        puts "  🔍 Would create: #{file_path}"
+      else
+        File.write(file_path, full_content)
+        puts "  ✅ Created"
+        
+        # Track as pulled
+        pulled_data[post_id] = { 'title' => title, 'file' => file_name, 'pulled_at' => Time.now.iso8601 }
+        save_pulled_data(pulled_data)
+      end
+      
+      imported += 1
+    end
+    
+    puts "\nDone!"
+    puts "  Imported: #{imported}"
+    puts "  Skipped: #{skipped}"
+    
+    if dry_run
+      puts "\n⚠️  DRY RUN - no files were created. Run without dry_run to pull."
+    end
+  end
+  
+  desc 'List Jekyll posts that can be published to Substack (excludes newsletter category)'
+  task :list do
+    posts_dir = '_posts'
+    sync_data = load_sync_data
+    
+    posts = Dir.glob("#{posts_dir}/*.{md,markdown}").select do |file|
+      content = File.read(file)
+      frontmatter = parse_frontmatter(content)
+      should_sync_to_substack?(file, frontmatter)
+    end.sort.reverse
+    
+    if posts.empty?
+      puts "No publishable posts found."
+    else
+      puts "📋 Posts available for Substack publishing:"
+      puts "-" * 70
+      posts.first(20).each do |file|
+        content = File.read(file)
+        frontmatter = parse_frontmatter(content)
+        title = frontmatter['title'] || File.basename(file)
+        published = frontmatter['published']
+        
+        # Check sync status
+        basename = File.basename(file)
+        current_hash = post_content_hash(file)
+        synced_hash = sync_data[basename]
+        
+        if synced_hash.nil?
+          status = " [NEW]"
+        elsif synced_hash != current_hash
+          status = " [MODIFIED]"
+        else
+          status = " [SYNCED ✓]"
+        end
+        
+        status += " [DRAFT]" if published == false
+        
+        puts "#{basename}#{status}"
+        puts "  Title: #{title}"
+        puts ""
+      end
+      puts "-" * 70
+      puts "Showing 20 most recent of #{posts.length} total posts"
+      puts "\nCommands:"
+      puts "  rake \"substack:publish[_posts/filename.markdown]\"  - Publish single post"
+      puts "  rake substack:sync                                  - Sync all new/modified posts"
+      puts "  rake substack:status                                - Show sync status"
+    end
+  end
+
+  desc 'Show sync status - which posts are synced, new, or modified'
+  task :status do
+    posts_dir = '_posts'
+    sync_data = load_sync_data
+    
+    posts = Dir.glob("#{posts_dir}/*.{md,markdown}").select do |file|
+      content = File.read(file)
+      frontmatter = parse_frontmatter(content)
+      should_sync_to_substack?(file, frontmatter)
+    end.sort.reverse
+    
+    synced = []
+    new_posts = []
+    modified = []
+    
+    posts.each do |file|
+      basename = File.basename(file)
+      current_hash = post_content_hash(file)
+      synced_hash = sync_data[basename]
+      
+      if synced_hash.nil?
+        new_posts << file
+      elsif synced_hash != current_hash
+        modified << file
+      else
+        synced << file
+      end
+    end
+    
+    puts "📊 Substack Sync Status"
+    puts "=" * 50
+    puts "  ✅ Synced:    #{synced.length}"
+    puts "  🆕 New:       #{new_posts.length}"
+    puts "  ✏️  Modified:  #{modified.length}"
+    puts "  📝 Total:     #{posts.length}"
+    puts ""
+    
+    if new_posts.any?
+      puts "🆕 New posts to sync:"
+      new_posts.first(10).each do |file|
+        content = File.read(file)
+        frontmatter = parse_frontmatter(content)
+        puts "  - #{frontmatter['title'] || File.basename(file)}"
+      end
+      puts "  ... and #{new_posts.length - 10} more" if new_posts.length > 10
+      puts ""
+    end
+    
+    if modified.any?
+      puts "✏️  Modified posts (will be re-synced):"
+      modified.first(10).each do |file|
+        content = File.read(file)
+        frontmatter = parse_frontmatter(content)
+        puts "  - #{frontmatter['title'] || File.basename(file)}"
+      end
+      puts "  ... and #{modified.length - 10} more" if modified.length > 10
+      puts ""
+    end
+    
+    if new_posts.any? || modified.any?
+      puts "Run 'rake substack:sync' to sync #{new_posts.length + modified.length} posts"
+    else
+      puts "✨ Everything is in sync!"
+    end
+  end
+
+  desc 'Sync all new and modified posts to Substack as drafts'
+  task :sync, [:dry_run] do |t, args|
+    dry_run = args[:dry_run] == 'true'
+    posts_dir = '_posts'
+    sync_data = load_sync_data
+    
+    posts = Dir.glob("#{posts_dir}/*.{md,markdown}").select do |file|
+      content = File.read(file)
+      frontmatter = parse_frontmatter(content)
+      should_sync_to_substack?(file, frontmatter)
+    end.sort
+    
+    to_sync = posts.select do |file|
+      basename = File.basename(file)
+      current_hash = post_content_hash(file)
+      synced_hash = sync_data[basename]
+      synced_hash.nil? || synced_hash != current_hash
+    end
+    
+    if to_sync.empty?
+      puts "✨ All posts are already synced to Substack!"
+      exit 0
+    end
+    
+    puts "🔄 Syncing #{to_sync.length} posts to Substack..."
+    puts ""
+    
+    client = nil
+    unless dry_run
+      client = get_substack_client
+    end
+    
+    user_id = client&.get_user_id
+    
+    synced_count = 0
+    errors = []
+    
+    to_sync.each_with_index do |file, index|
+      content = File.read(file)
+      frontmatter = parse_frontmatter(content)
+      body = parse_body(content)
+      
+      title = frontmatter['title'] || 'Untitled'
+      subtitle = frontmatter['description'] || ''
+      basename = File.basename(file)
+      
+      puts "[#{index + 1}/#{to_sync.length}] #{title}"
+      
+      if dry_run
+        puts "  📋 Would sync: #{basename}"
+      else
+        begin
+          post = Substack::Post.new(title: title, subtitle: subtitle, user_id: user_id)
+          markdown_to_substack(body, post)
+          draft = post.get_draft
+          client.post_draft(draft)
+          
+          # Update sync tracking
+          sync_data[basename] = post_content_hash(file)
+          save_sync_data(sync_data)
+          
+          puts "  ✅ Synced"
+          synced_count += 1
+          
+          # Rate limiting - be nice to Substack
+          sleep(2) if index < to_sync.length - 1
+        rescue => e
+          puts "  ❌ Error: #{e.message}"
+          errors << { file: basename, error: e.message }
+        end
+      end
+    end
+    
+    puts ""
+    puts "=" * 50
+    puts "Sync complete!"
+    puts "  ✅ Synced:  #{synced_count}"
+    puts "  ❌ Errors:  #{errors.length}"
+    
+    if errors.any?
+      puts "\nErrors:"
+      errors.each { |e| puts "  - #{e[:file]}: #{e[:error]}" }
+    end
+    
+    if dry_run
+      puts "\n⚠️  DRY RUN - no posts were synced. Run without dry_run to sync."
+    else
+      puts "\n📝 Review drafts at: https://interessant3.substack.com/publish/posts"
+    end
+  end
+
+  desc 'Mark a post as synced without actually publishing (for already published posts)'
+  task :mark_synced, [:post_path] do |t, args|
+    post_path = args[:post_path]
+    
+    unless post_path && File.exist?(post_path)
+      puts "❌ Error: Please provide a valid post path"
+      puts "Usage: rake \"substack:mark_synced[_posts/2025-01-01-my-post.markdown]\""
+      exit 1
+    end
+    
+    sync_data = load_sync_data
+    basename = File.basename(post_path)
+    sync_data[basename] = post_content_hash(post_path)
+    save_sync_data(sync_data)
+    
+    puts "✅ Marked as synced: #{basename}"
+  end
+
+  desc 'Mark all existing posts as synced (useful for initial setup)'
+  task :mark_all_synced do
+    posts_dir = '_posts'
+    sync_data = load_sync_data
+    
+    posts = Dir.glob("#{posts_dir}/*.{md,markdown}").select do |file|
+      content = File.read(file)
+      frontmatter = parse_frontmatter(content)
+      should_sync_to_substack?(file, frontmatter)
+    end
+    
+    posts.each do |file|
+      basename = File.basename(file)
+      sync_data[basename] = post_content_hash(file)
+    end
+    
+    save_sync_data(sync_data)
+    puts "✅ Marked #{posts.length} posts as synced"
+  end
+
+  desc 'Reset sync tracking (will re-sync all posts on next sync)'
+  task :reset_sync do
+    if File.exist?(SUBSTACK_SYNC_FILE)
+      File.delete(SUBSTACK_SYNC_FILE)
+      puts "✅ Sync tracking reset. Run 'rake substack:sync' to sync all posts."
+    else
+      puts "ℹ️  No sync tracking file found."
+    end
+  end
+
+  desc 'Publish a Jekyll post to Substack as a draft'
+  task :publish, [:post_path] do |t, args|
+    require 'substack'
+    
+    post_path = args[:post_path]
+    
+    unless post_path && File.exist?(post_path)
+      puts "❌ Error: Please provide a valid post path"
+      puts "Usage: rake \"substack:publish[_posts/2025-01-01-my-post.markdown]\""
+      puts "Run 'rake substack:list' to see available posts."
+      exit 1
+    end
+    
+    content = File.read(post_path)
+    frontmatter = parse_frontmatter(content)
+    body = parse_body(content)
+    
+    # Skip newsletter posts (they came FROM Substack)
+    categories = frontmatter['categories'].to_s.downcase
+    if categories.include?('newsletter')
+      puts "❌ This post has category 'newsletter' and originated from Substack. Skipping."
+      exit 1
+    end
+    
+    title = frontmatter['title'] || 'Untitled'
+    subtitle = frontmatter['description'] || ''
+    
+    puts "📝 Publishing to Substack: #{title}"
+    
+    # Initialize client - uses saved cookies, or authenticates with .env credentials
+    client = nil
+    begin
+      client = Substack::Client.new
+    rescue => e
+      # Try to authenticate with .env credentials
+      email = ENV['SUBSTACK_EMAIL']
+      password = ENV['SUBSTACK_PASSWORD']
+      
+      unless email && password
+        puts "❌ No saved session and missing credentials in .env"
+        puts "Add SUBSTACK_EMAIL and SUBSTACK_PASSWORD to your .env file"
+        puts "See .env.example for reference"
+        exit 1
+      end
+      
+      puts "🔐 Authenticating with Substack..."
+      client = Substack::Client.new(email: email, password: password)
+    end
+    
+    user_id = client.get_user_id
+    post = Substack::Post.new(title: title, subtitle: subtitle, user_id: user_id)
+    
+    # Parse markdown and build Substack post
+    markdown_to_substack(body, post)
+    
+    draft = post.get_draft
+    client.post_draft(draft)
+    
+    # Update sync tracking
+    sync_data = load_sync_data
+    basename = File.basename(post_path)
+    sync_data[basename] = post_content_hash(post_path)
+    save_sync_data(sync_data)
+    
+    puts "✅ Draft created on Substack!"
+    puts "   Review and publish at: https://interessant3.substack.com/publish/posts"
+  end
+end
+
+# Helper: Parse YAML frontmatter from Jekyll post
+def parse_frontmatter(content)
+  if content =~ /\A---\s*\n(.*?\n?)^---\s*$/m
+    YAML.safe_load($1, permitted_classes: [Date, Time]) || {}
+  else
+    {}
+  end
+end
+
+# Helper: Extract body content (everything after frontmatter)
+def parse_body(content)
+  content =~ /\A---\s*\n.*?\n?^---\s*\n(.*)$/m ? $1.strip : content.strip
+end
+
+# Helper: Convert local image paths to full URLs
+def localize_image_url(url)
+  base_url = 'https://www.santiago-martins.com'
+  url.start_with?('/') ? "#{base_url}#{url}" : url
+end
+
+# Helper: Convert markdown to Substack post format
+def markdown_to_substack(markdown, post)
+  lines = markdown.lines
+  i = 0
+  
+  while i < lines.length
+    line = lines[i].rstrip
+    
+    # Skip empty lines
+    if line.strip.empty?
+      i += 1
+      next
+    end
+    
+    # Horizontal rule
+    if line =~ /^(-{3,}|\*{3,}|_{3,})$/
+      post.horizontal_rule
+      i += 1
+      next
+    end
+    
+    # Headings
+    if line =~ /^(\#{1,6})\s+(.+)$/
+      level = $1.length
+      heading_text = $2.strip
+      post.heading(heading_text, level: level)
+      i += 1
+      next
+    end
+    
+    # Standalone images
+    if line =~ /^!\[([^\]]*)\]\(([^)\s]+)/
+      alt = $1
+      url = $2
+      post.captioned_image(attrs: { src: localize_image_url(url), alt: alt })
+      i += 1
+      next
+    end
+    
+    # Collect paragraph text (may span multiple lines until blank line)
+    para_lines = []
+    while i < lines.length && !lines[i].strip.empty? && 
+          lines[i] !~ /^\#{1,6}\s/ && 
+          lines[i] !~ /^(-{3,}|\*{3,}|_{3,})$/ &&
+          lines[i] !~ /^!\[/
+      para_lines << lines[i].rstrip
+      i += 1
+    end
+    
+    if para_lines.any?
+      para_text = para_lines.join(' ').strip
+      # Handle inline images within paragraphs
+      if para_text =~ /!\[([^\]]*)\]\(([^)\s]+)/
+        para_text.scan(/!\[([^\]]*)\]\(([^)\s]+)/) do |alt, url|
+          post.captioned_image(attrs: { src: localize_image_url(url), alt: alt })
+        end
+        remaining = para_text.gsub(/!\[[^\]]*\]\([^)]+\)/, '').strip
+        post.paragraph(remaining) unless remaining.empty?
+      else
+        post.paragraph(para_text)
+      end
     end
   end
 end

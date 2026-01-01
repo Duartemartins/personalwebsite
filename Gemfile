@@ -44,3 +44,7 @@ gem "rake"
 gem "csv"
 
 gem "nokogiri"
+
+gem "Substack", git: "https://github.com/duartemartins/substack.git"
+
+gem "dotenv"
