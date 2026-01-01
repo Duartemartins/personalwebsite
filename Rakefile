@@ -9,6 +9,21 @@ require 'dotenv/load'
 require 'yaml'
 require 'json'
 
+# Monkey-patch to fix Substack gem's handle_response bug
+# The gem's Faraday connection uses `f.response :json` which auto-parses JSON,
+# but handle_response then tries to gzip-decompress the already-parsed Hash
+module SubstackResponseFix
+  def handle_response(response)
+    # If response body is already a Hash or Array (parsed by Faraday middleware), return it
+    if response.body.is_a?(Hash) || response.body.is_a?(Array)
+      return response.body
+    end
+    
+    # Otherwise, call original implementation
+    super
+  end
+end
+
 desc 'create a new draft post'
 task :post do
   # Prompt for user input
@@ -140,24 +155,114 @@ end
 def get_substack_client
   require 'substack'
   
-  begin
-    Substack::Client.new
-  rescue => e
-    email = ENV['SUBSTACK_EMAIL']
-    password = ENV['SUBSTACK_PASSWORD']
-    
-    unless email && password
-      puts "❌ No saved session and missing credentials in .env"
-      puts "Add SUBSTACK_EMAIL and SUBSTACK_PASSWORD to your .env file"
-      exit 1
-    end
-    
-    puts "🔐 Authenticating with Substack..."
-    Substack::Client.new(email: email, password: password)
+  # Apply monkey-patch to fix handle_response bug
+  Substack::Client.prepend(SubstackResponseFix)
+  
+  cookies_path = File.join(Dir.home, '.substack_cookies.yml')
+  
+  # Only use saved cookies - Selenium won't work due to CAPTCHA
+  unless File.exist?(cookies_path)
+    puts "❌ No saved session found at #{cookies_path}"
+    puts ""
+    puts "Run this to login interactively:"
+    puts "  bundle exec rake substack:login"
+    exit 1
   end
+  
+  puts "🍪 Using saved session from #{cookies_path}..."
+  client = Substack::Client.new(cookies_path: cookies_path)
+  
+  # Verify session is valid
+  profile = client.get_user_profile
+  if profile && profile["id"]
+    puts "✅ Session valid for user: #{profile['name']} (ID: #{profile['id']})"
+    return client
+  else
+    puts "❌ Session invalid or expired"
+    puts ""
+    puts "Run this to login again:"
+    puts "  bundle exec rake substack:login"
+    exit 1
+  end
+rescue => e
+  puts "❌ Session error: #{e.message}"
+  puts ""
+  puts "Run this to login again:"
+  puts "  bundle exec rake substack:login"
+  exit 1
 end
 
 namespace :substack do
+  desc 'Login to Substack interactively (solves CAPTCHA issue)'
+  task :login do
+    require 'selenium-webdriver'
+    require 'yaml'
+    
+    cookies_path = File.join(Dir.home, '.substack_cookies.yml')
+    
+    puts "🔐 Substack Interactive Login"
+    puts "=" * 50
+    
+    options = Selenium::WebDriver::Chrome::Options.new
+    options.add_argument("--start-maximized")
+    
+    driver = Selenium::WebDriver.for :chrome, options: options
+    
+    begin
+      puts "Opening Substack sign-in..."
+      driver.get("https://substack.com/sign-in")
+      sleep 2
+      
+      email = ENV['SUBSTACK_EMAIL']
+      if email
+        puts "Filling email: #{email}"
+        email_field = driver.find_element(name: "email")
+        email_field.send_keys(email)
+        sleep 1
+        
+        puts "Clicking 'Sign in with password'..."
+        sign_in_button = driver.find_element(link_text: "Sign in with password")
+        sign_in_button.click
+        sleep 2
+        
+        password = ENV['SUBSTACK_PASSWORD']
+        if password
+          puts "Filling password..."
+          password_field = driver.find_element(name: "password")
+          password_field.send_keys(password, :return)
+        end
+      end
+      
+      puts ""
+      puts "✅ Credentials submitted!"
+      puts "👆 SOLVE THE CAPTCHA in the browser if needed"
+      puts "⏳ Press Enter here ONLY after you see your dashboard..."
+      STDIN.gets
+      
+      puts "\nExtracting cookies from: #{driver.current_url}"
+      cookies = driver.manage.all_cookies
+      
+      sid = cookies.find { |c| c[:name] == "substack.sid" }
+      if sid
+        session = {}
+        cookies.each { |c| session[c[:name]] = c[:value] }
+        
+        File.write(cookies_path, session.to_yaml)
+        
+        puts ""
+        puts "✅ Success! Saved #{cookies.length} cookies"
+        puts "✅ Cookie file: #{cookies_path}"
+        puts ""
+        puts "You can now run: bundle exec rake substack:sync"
+      else
+        puts "❌ No substack.sid found - login may not have completed"
+        puts "URL: #{driver.current_url}"
+      end
+    ensure
+      driver.quit
+    end
+  end
+
   desc 'Import posts from Substack export'
   task :import, [:dry_run] do |t, args|
     dry_run = args[:dry_run] == 'true'
