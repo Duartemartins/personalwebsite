@@ -84,111 +84,43 @@ Follow the prompts to enter title, description, categories, tags, and language.
 bundle exec rake drafts
 ```
 
-## Substack Import
+## Substack Import (Legacy)
 
-The blog includes a Rake task to import posts from a Substack newsletter export.
-
-### Prerequisites
-
-Add these gems to your Gemfile:
-
-```ruby
-gem 'csv'
-gem 'nokogiri'
-gem 'reverse_markdown'
-```
-
-### Pull from Substack API
-
-If you have new posts on Substack that you want to bring into your Jekyll blog:
-
-```bash
-# Preview what will be pulled
-bundle exec rake "substack:pull[true]"
-
-# Pull posts
-bundle exec rake substack:pull
-```
-
-This command:
-1. Fetches the latest 50 posts from the Substack API.
-2. Skips posts that already exist in `_posts` (checks by filename and title).
-3. Converts Substack HTML to Markdown.
-4. Downloads images to `assets/images/substack/`.
-5. Creates new Jekyll posts with `categories: newsletter`.
+For bulk importing from a Substack export ZIP file (useful for initial migration):
 
 ### Export from Substack
 
 1. Go to your Substack dashboard → Settings → Exports
 2. Download your posts export (ZIP file)
 3. Extract to `substack_posts/` directory in the project root
-4. Ensure `posts.csv` and all `.html` files are in `substack_posts/`
 
 ### Run the import
 
-**Dry run** (preview without creating files):
-
 ```bash
+# Dry run (preview)
 bundle exec rake "substack:import[true]"
-```
 
-**Full import**:
-
-```bash
+# Full import
 bundle exec rake "substack:import[false]"
 ```
 
-### What the import does
+### What it does
 
-1. **Reads** the `posts.csv` manifest from Substack export
-2. **Filters** out unpublished and paid-only posts
-3. **Converts** HTML to Markdown using `reverse_markdown`
-4. **Preprocesses** HTML to handle Substack's complex nested structure:
-   - Unwraps `<p>` tags inside `<li>` elements (fixes nested list conversion)
-   - Simplifies `<picture>` and `<figure>` elements
-   - Removes SVG buttons and UI elements
-5. **Strips** Substack boilerplate:
-   - Subscription widgets
-   - Sponsor sections
-   - "Thanks for reading" footers
-6. **Downloads** images from Substack CDN to `assets/images/substack/`
-7. **Removes** all emojis from titles and content
-8. **Creates** Jekyll posts with proper frontmatter:
-   - `categories: newsletter`
-   - `lang: en`
-   - Original publish date preserved
+- Reads `posts.csv` manifest and HTML files from export
+- Converts HTML to Markdown
+- Downloads images to `assets/images/substack/`
+- Creates Jekyll posts with proper frontmatter
+- Strips Substack boilerplate (subscription widgets, sponsor sections)
+- Removes emojis from titles
 
-### Handling duplicates
-
-The import skips files that already exist. To re-import specific posts:
-
-```bash
-# Delete the post(s) you want to re-import
-rm _posts/2025-01-01-post-title.markdown
-
-# Run import again
-bundle exec rake "substack:import[false]"
-```
-
-### Output
-
-```
-✅ Created: _posts/2025-01-15-interessant3-123.markdown
-   📥 Downloading image: 123456789-abc12345.png
-⏭️  Already exists: 2025-01-08-interessant3-122.markdown
-⏭️  Skipping unpublished: Draft Post Title
-⏭️  Skipping paid-only: Premium Content
-
-==================================================
-Import complete!
-  Imported: 170
-  Skipped: 63
-  Errors: 0
-```
+> **Note**: For ongoing sync, use `substack:pull` instead - it fetches directly from the API without needing an export.
 
 ## Substack Sync
 
-The blog includes a system to automatically cross-post your Jekyll markdown posts to Substack as drafts.
+The blog includes a bidirectional sync system between Jekyll markdown posts and Substack:
+
+- **Push**: Publish Jekyll posts to Substack as drafts
+- **Pull**: Import Substack posts into the Jekyll blog
 
 ### Setup
 
@@ -197,32 +129,85 @@ The blog includes a system to automatically cross-post your Jekyll markdown post
    SUBSTACK_EMAIL=your_email@example.com
    SUBSTACK_PASSWORD=your_password
    ```
+
 2. Install dependencies:
    ```bash
    bundle install
    ```
 
+3. **Login to Substack** (required due to CAPTCHA):
+   ```bash
+   bundle exec rake substack:login
+   ```
+   This opens a browser window where you complete the login (including any CAPTCHA). Your session is saved to `~/.substack_cookies.yml` and reused for future commands.
+
 ### Commands
 
 | Command | Description |
 |---------|-------------|
+| `bundle exec rake substack:login` | Interactive login - opens browser for CAPTCHA |
 | `bundle exec rake substack:status` | Show sync status - which posts are synced, new, or modified |
-| `bundle exec rake substack:pull` | Pull latest posts from Substack API into the blog |
-| `bundle exec rake "substack:pull[true]"` | Dry run - preview which posts would be pulled from Substack |
-| `bundle exec rake substack:list` | List posts available for Substack publishing with sync status |
 | `bundle exec rake substack:sync` | Sync all new/modified posts to Substack as drafts |
 | `bundle exec rake "substack:sync[true]"` | Dry run - preview what would be synced |
+| `bundle exec rake substack:pull` | Pull latest posts from Substack API into the blog |
+| `bundle exec rake "substack:pull[true]"` | Dry run - preview which posts would be pulled |
+| `bundle exec rake substack:list` | List posts available for Substack publishing with sync status |
 | `bundle exec rake "substack:publish[_posts/file.md]"` | Publish a single post to Substack |
 | `bundle exec rake substack:mark_all_synced` | Mark all existing posts as synced (useful for initial setup) |
 | `bundle exec rake "substack:mark_synced[_posts/file.md]"` | Mark a specific post as synced without publishing |
 | `bundle exec rake substack:reset_sync` | Reset sync tracking (will re-sync all on next sync) |
 
+### Authentication
+
+Substack uses Cloudflare CAPTCHA protection, so automated login doesn't work. The `substack:login` task:
+
+1. Opens a Chrome browser window
+2. Pre-fills your email and password from `.env`
+3. You solve the CAPTCHA manually
+4. Cookies are saved to `~/.substack_cookies.yml`
+
+Sessions typically last several weeks. If you get authentication errors, run `substack:login` again.
+
+### Workflow: Jekyll → Substack
+
+```bash
+# 1. Create a new post
+bundle exec rake post
+
+# 2. Write your content in _posts/
+
+# 3. Check what will be synced
+bundle exec rake substack:status
+
+# 4. Push to Substack as draft
+bundle exec rake substack:sync
+
+# 5. Review and publish at https://interessant3.substack.com/publish/posts
+```
+
+### Workflow: Substack → Jekyll
+
+```bash
+# Pull new Substack posts into _posts/
+bundle exec rake substack:pull
+```
+
 ### Features
 
-- **Change Detection**: Tracks content hashes in `.substack_synced.yml` to detect new and modified posts.
-- **Smart Filtering**: Automatically excludes newsletter imports, drafts, posts published before 2026, and non-English posts (unless explicitly enabled).
-- **Frontmatter Control**: Use `substack_sync: false` to skip a post or `substack_sync: true` to force sync.
-- **Rate Limiting**: Includes a delay between posts to comply with Substack's API.
+- **Change Detection**: Tracks content hashes in `.substack_synced.yml` to detect new and modified posts
+- **Smart Filtering**: Automatically excludes newsletter imports, drafts, posts published before 2026, and non-English posts
+- **Frontmatter Control**: Use `substack_sync: false` to skip a post or `substack_sync: true` to force sync
+- **Rate Limiting**: Includes delays between posts to be nice to Substack's API
+- **Image Handling**: Downloads images from Substack CDN when pulling, uploads local images when pushing
+
+### Troubleshooting
+
+| Problem | Solution |
+|---------|----------|
+| "No saved session found" | Run `bundle exec rake substack:login` |
+| "Session invalid or expired" | Run `bundle exec rake substack:login` |
+| CAPTCHA blocking login | Use `substack:login` task (manual CAPTCHA solving) |
+| Post not syncing | Check frontmatter for `substack_sync: false` or `published: false` |
 
 ## Project Structure
 
