@@ -365,7 +365,14 @@ namespace :substack do
       is_published = post_data['is_published']
       audience = post_data['audience']
       post_id = post_data['id'].to_s
-      slug = post_data['slug']
+      
+      # Generate slug from title (more reliable than Substack's slugs which can be duplicated)
+      slug = title.downcase
+        .gsub(/[^\w\s-]/, '')  # Remove special chars except spaces and hyphens
+        .gsub(/\s+/, '-')       # Replace spaces with hyphens
+        .gsub(/-+/, '-')        # Collapse multiple hyphens
+        .gsub(/^-|-$/, '')      # Trim leading/trailing hyphens
+        .slice(0, 50)           # Limit length
       
       # Skip if already pulled (tracked by Substack post ID)
       if pulled_data[post_id]
@@ -397,8 +404,8 @@ namespace :substack do
       file_name = "#{date_str}-#{slug}.markdown"
       file_path = File.join(posts_dir, file_name)
       
-      # Extract newsletter number from slug (e.g., "interessant3-133-..." -> "133")
-      newsletter_number = slug =~ /interessant3-(\d+)/ ? $1 : nil
+      # Extract newsletter number from title (e.g., "Interessant3 #133 | ..." -> "133")
+      newsletter_number = title =~ /interessant3\s*#?(\d+)/i ? $1 : nil
       
       # Check for duplicates by filename, title, or newsletter number
       if existing_files[file_name]
@@ -893,6 +900,40 @@ def markdown_to_substack(markdown, post)
   end
 end
 
+# Helper: Extract clean image URL from Substack img element
+def extract_substack_image_url(img)
+  # First try to get the clean URL from data-attrs JSON
+  if img['data-attrs']
+    begin
+      data_attrs = JSON.parse(img['data-attrs'])
+      if data_attrs['src'] && !data_attrs['src'].empty?
+        return data_attrs['src']
+      end
+    rescue JSON::ParserError
+      # Fall through to other methods
+    end
+  end
+  
+  # Fall back to src attribute, but clean it up
+  src = img['src'] || ''
+  
+  # Extract the S3 URL from Substack CDN proxy URL
+  if src =~ /substack-post-media\.s3\.amazonaws\.com[^\s")]+/
+    match = src.match(/(https?:\/\/substack-post-media\.s3\.amazonaws\.com\/public\/images\/[a-f0-9-]+_\d+x\d+\.\w+)/)
+    return match[1] if match
+    
+    # Try URL-encoded version
+    if src =~ /%2F/
+      decoded = URI.decode_www_form_component(src)
+      match = decoded.match(/(https?:\/\/substack-post-media\.s3\.amazonaws\.com\/public\/images\/[a-f0-9-]+_\d+x\d+\.\w+)/)
+      return match[1] if match
+    end
+  end
+  
+  # Return original src if we can't extract a cleaner URL
+  src
+end
+
 # Helper: Strip Substack boilerplate and normalize HTML structure
 def strip_substack_boilerplate(html)
   require 'nokogiri'
@@ -939,38 +980,68 @@ def strip_substack_boilerplate(html)
     span.replace(span.inner_text)
   end
   
-  # Simplify <picture> elements: extract the <img> tag and promote it
+  # Process images FIRST before other transformations
+  # Handle captioned-image-container and figure elements that contain images
+  doc.css('.captioned-image-container, figure').each do |container|
+    # Find the img, which may be nested in picture, div, a, etc.
+    img = container.at_css('img')
+    if img
+      src = extract_substack_image_url(img)
+      alt = img['alt'] || ''
+      
+      # Create a simple paragraph with just the image
+      new_p = Nokogiri::XML::Node.new('p', doc)
+      new_img = Nokogiri::XML::Node.new('img', doc)
+      new_img['src'] = src
+      new_img['alt'] = alt.empty? ? 'Image' : alt
+      new_p.add_child(new_img)
+      
+      container.replace(new_p)
+    else
+      container.remove
+    end
+  end
+  
+  # Handle any remaining standalone picture elements
   doc.css('picture').each do |picture|
     img = picture.at_css('img')
     if img
-      # Get the src attribute (prefer data-attrs src or regular src)
-      src = img['src']
+      src = extract_substack_image_url(img)
       alt = img['alt'] || ''
-      # Create simple img tag
       new_img = Nokogiri::XML::Node.new('img', doc)
       new_img['src'] = src
-      new_img['alt'] = alt
+      new_img['alt'] = alt.empty? ? 'Image' : alt
       picture.replace(new_img)
     else
       picture.remove
     end
   end
   
-  # Simplify figure/captioned-image-container: promote images
-  doc.css('.captioned-image-container, figure').each do |container|
-    img = container.at_css('img')
-    if img
-      src = img['src']
-      alt = img['alt'] || ''
-      new_img = Nokogiri::XML::Node.new('img', doc)
-      new_img['src'] = src
-      new_img['alt'] = alt
-      # Wrap in paragraph for better markdown output
-      p_tag = Nokogiri::XML::Node.new('p', doc)
-      p_tag.add_child(new_img)
-      container.replace(p_tag)
+  # Handle YouTube embeds - convert to links
+  doc.css('.youtube-wrap, [data-component-name="Youtube2ToDOM"]').each do |yt|
+    video_id = nil
+    if yt['data-attrs']
+      begin
+        data = JSON.parse(yt['data-attrs'])
+        video_id = data['videoId']
+      rescue
+      end
+    end
+    # Also try to find iframe src
+    iframe = yt.at_css('iframe')
+    if iframe && iframe['src'] =~ /youtube.*embed\/([^?&]+)/
+      video_id ||= $1
+    end
+    
+    if video_id
+      link = Nokogiri::XML::Node.new('p', doc)
+      a = Nokogiri::XML::Node.new('a', doc)
+      a['href'] = "https://www.youtube.com/watch?v=#{video_id}"
+      a.content = "Watch on YouTube"
+      link.add_child(a)
+      yt.replace(link)
     else
-      container.remove
+      yt.remove
     end
   end
   
@@ -1008,6 +1079,11 @@ end
 def clean_markdown(md)
   # Remove empty links
   md = md.gsub(/\[\s*\]\([^)]*\)/, '')
+  
+  # Remove broken/empty image tags (![](url), ![], or standalone !)
+  md = md.gsub(/!\[\]\([^)]*\)/, '')  # ![](url)
+  md = md.gsub(/!\[\]\s*$/, '')       # ![] at end of line
+  md = md.gsub(/^\s*!\s*$/m, '')      # Standalone ! on a line
   
   # Remove excessive blank lines
   md = md.gsub(/\n{4,}/, "\n\n\n")
