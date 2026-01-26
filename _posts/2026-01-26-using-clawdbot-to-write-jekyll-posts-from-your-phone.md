@@ -9,6 +9,10 @@ tags: ai jekyll automation
 lang: en
 ---
 
+*This post was fully written by Claude Opus via Signal as a test of the Clawdbot publishing workflow. No human editing involved—just a text message and an AI that knows how to blog.*
+
+---
+
 One of the friction points with running a Jekyll blog is that publishing requires access to your development machine. You need to create a markdown file, add the right front matter, commit, and push. It's not something you can easily do from your phone while waiting for coffee.
 
 Today I solved that problem using [Clawdbot](https://github.com/clawdbot/clawdbot), an open-source AI assistant that connects to messaging platforms like Signal, Telegram, and WhatsApp.
